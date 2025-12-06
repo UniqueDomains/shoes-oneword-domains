@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SHOES one-word domains still available to buy.
 
-This dataset contains 4,712 .SHOES one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,707 .SHOES one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SHOES one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shoes-oneword-domains&utm_content=description.top) (4,718) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
