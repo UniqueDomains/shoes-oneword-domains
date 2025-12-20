@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SHOES one-word domains still available to buy.
 
-This dataset contains 9,493 .SHOES one word domains with availability, attractiveness and demand scores.
+This dataset contains 9,492 .SHOES one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SHOES one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shoes-oneword-domains&utm_content=description.top) (9,492) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -47,7 +47,7 @@ If you want to search & filters the complete database of [.SHOES one word domain
 | abiding.shoes    | available | 106      | 5%     | 7      |           |         |         |
 | abient.shoes     | available | 54       | 1%     | 6      |           |         |         |
 | ability.shoes    | available | 92       | 15%    | 7      |           |         |         |
-| abit.shoes       | available | 66       | 12%    | 5      |           |         |         |
+| abit.shoes       | available | 68       | 12%    | 5      |           |         |         |
 | abject.shoes     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.shoes     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.shoes  | available | 78       | 1%     | 9      |           |         |         |
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.SHOES one word domain
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
