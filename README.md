@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .shoes one-word domains from Uniqu
 
 **Public extract:** 9,504 rows · **Live catalog:** 9,504 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/shoes`  
 **Best for:** founders, investors, studios
 
@@ -77,10 +77,10 @@ print(df.head())
 | good.shoes      | resell    | —         | —             | 82             | 55     | 4      | 1API GmbH         |
 | athletics.shoes | premium   | $260      | $260          | 69             | 52     | 9      | namecheap         |
 | security.shoes  | available | $81.98    | —             | 70             | 49     | 8      | namecheap         |
-| love.shoes      | resell    | —         | —             | 86             | 52     | 4      | 1API GmbH         |
+| world.shoes     | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC - 26 |
 | game.shoes      | premium   | $500      | $500          | 120            | 50     | 4      | name.com          |
 | car.shoes       | available | $81.98    | —             | 94             | 46     | 3      | namecheap         |
-| world.shoes     | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC - 26 |
+| love.shoes      | resell    | —         | —             | 86             | 51     | 4      | 1API GmbH         |
 | digital.shoes   | premium   | $500      | $500          | 100            | 50     | 7      | name.com          |
 | law.shoes       | available | $81.98    | —             | 82             | 46     | 3      | namecheap         |
 | abc.shoes       | resell    | —         | —             | 102            | 50     | 3      | Dynadot Inc       |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
