@@ -1,22 +1,22 @@
-# Available .SHOES One-Word Domains (9,504)
+# Available .SHOES One-Word Domains (12,027)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C505%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C504%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C027%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .shoes one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .shoes one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,027 domains** on the canonical page below.
 
-**Public extract:** 9,505 rows · **Live catalog:** 9,504 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,027 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/shoes`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SHOES one-word domain
 
 ### Files
 
-- `shoes.csv` — public CSV extract (9,505 rows)
-- `shoes.json` — public JSON extract (9,505 rows)
+- `shoes.csv` — public CSV extract (1,000 rows)
+- `shoes.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| data.shoes      | available | $81.98    | —             | 70             | 56     | 4      | namecheap         |
-| box.shoes       | resell    | —         | —             | 68             | 78     | 3      | GoDaddy.com, LLC  |
-| live.shoes      | premium   | $500      | $500          | 108            | 56     | 4      | name.com          |
-| true.shoes      | available | $39.99    | $83.99        | 86             | 52     | 4      | name.com          |
-| space.shoes     | resell    | —         | —             | 80             | 61     | 5      | Dynadot Inc       |
-| art.shoes       | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap         |
-| clear.shoes     | available | $39.99    | $83.99        | 90             | 49     | 5      | name.com          |
-| the.shoes       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH         |
-| fast.shoes      | premium   | $500      | $500          | 82             | 52     | 4      | name.com          |
-| real.shoes      | available | $81.98    | —             | 78             | 49     | 4      | namecheap         |
-| good.shoes      | resell    | —         | —             | 82             | 55     | 4      | 1API GmbH         |
-| athletics.shoes | premium   | $260      | $260          | 69             | 52     | 9      | namecheap         |
-| security.shoes  | available | $81.98    | —             | 70             | 49     | 8      | namecheap         |
-| world.shoes     | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC - 26 |
-| game.shoes      | premium   | $500      | $500          | 120            | 50     | 4      | name.com          |
-| car.shoes       | available | $81.98    | —             | 94             | 46     | 3      | namecheap         |
-| love.shoes      | resell    | —         | —             | 86             | 51     | 4      | 1API GmbH         |
-| life.shoes      | premium   | $520      | $520          | 84             | 50     | 4      | namecheap         |
-| law.shoes       | available | $81.98    | —             | 82             | 46     | 3      | namecheap         |
-| abc.shoes       | resell    | —         | —             | 102            | 50     | 3      | Dynadot Inc       |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Ryan.shoes          | available | $81.98    | —             | 60             | 44     | 4      | namecheap |
+| HoChiMinhCity.shoes | premium   | $78.54    | $78.54        | 64             | 7      | 16     | namesilo  |
+| shortcuts.shoes     | available | $39.99    | —             | 48             | 41     | 10     | name.com  |
+| replies.shoes       | premium   | $123.75   | —             | 54             | 7      | 7      | name.com  |
+| Tools.shoes         | available | $81.98    | —             | 56             | 40     | 5      | namecheap |
+| matcha.shoes        | available | $39.99    | —             | 86             | 39     | 6      | name.com  |
+| whynot.shoes        | available | $39.99    | —             | 74             | 39     | 7      | name.com  |
+| WiFi.shoes          | available | $81.98    | —             | 83             | 37     | 5      | namecheap |
+| neuroscience.shoes  | available | $39.99    | —             | 80             | 37     | 12     | name.com  |
+| tokens.shoes        | available | $39.99    | —             | 51             | 36     | 6      | name.com  |
+| aliens.shoes        | available | $39.99    | —             | 56             | 35     | 6      | name.com  |
+| teams.shoes         | available | $39.99    | —             | 62             | 32     | 5      | name.com  |
+| letsgo.shoes        | available | $39.99    | —             | 57             | 31     | 7      | name.com  |
+| rewards.shoes       | available | $39.99    | —             | 62             | 30     | 7      | name.com  |
+| popup.shoes         | available | $39.99    | —             | 84             | 29     | 6      | name.com  |
+| quotes.shoes        | available | $39.99    | —             | 58             | 29     | 6      | name.com  |
+| gems.shoes          | available | $39.99    | —             | 70             | 28     | 4      | name.com  |
+| backyard.shoes      | available | $39.99    | —             | 80             | 27     | 9      | name.com  |
+| bees.shoes          | available | $39.99    | —             | 54             | 27     | 4      | name.com  |
+| tips.shoes          | available | $39.99    | —             | 80             | 26     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,505-row public sample | 9,504 live domains                               |
+| 1,000-row public sample | 12,027 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
