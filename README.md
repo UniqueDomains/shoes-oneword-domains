@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .shoes one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,461 domains · **Median ask:** $45.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/shoes`  
 **Best for:** founders, investors, studios
 
@@ -64,13 +64,13 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Ryan.shoes          | available | $81.98    | —             | 60             | 44     | 4      | namecheap |
+| whynot.shoes        | available | $39.99    | —             | 74             | 44     | 7      | name.com  |
 | HoChiMinhCity.shoes | premium   | $78.54    | $78.54        | 64             | 7      | 16     | namesilo  |
-| shortcuts.shoes     | available | $39.99    | —             | 48             | 41     | 10     | name.com  |
+| Ryan.shoes          | available | $81.98    | —             | 60             | 44     | 4      | namecheap |
 | replies.shoes       | premium   | $123.75   | —             | 54             | 7      | 7      | name.com  |
+| shortcuts.shoes     | available | $39.99    | —             | 48             | 41     | 10     | name.com  |
 | Tools.shoes         | available | $81.98    | —             | 56             | 40     | 5      | namecheap |
 | matcha.shoes        | available | $39.99    | —             | 86             | 39     | 6      | name.com  |
-| whynot.shoes        | available | $39.99    | —             | 74             | 39     | 7      | name.com  |
 | WiFi.shoes          | available | $81.98    | —             | 83             | 37     | 5      | namecheap |
 | neuroscience.shoes  | available | $39.99    | —             | 80             | 37     | 12     | name.com  |
 | tokens.shoes        | available | $39.99    | —             | 51             | 36     | 6      | name.com  |
@@ -79,7 +79,7 @@ print(df.head())
 | letsgo.shoes        | available | $39.99    | —             | 57             | 31     | 7      | name.com  |
 | slots.shoes         | available | $39.99    | —             | 49             | 31     | 5      | name.com  |
 | rewards.shoes       | available | $39.99    | —             | 62             | 30     | 7      | name.com  |
-| popup.shoes         | available | $39.99    | —             | 84             | 29     | 6      | name.com  |
+| popup.shoes         | available | $39.99    | —             | 84             | 28     | 6      | name.com  |
 | gems.shoes          | available | $39.99    | —             | 70             | 28     | 4      | name.com  |
 | backyard.shoes      | available | $39.99    | —             | 80             | 27     | 9      | name.com  |
 | tips.shoes          | available | $39.99    | —             | 80             | 26     | 4      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
