@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .shoes one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,461 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,461 domains · **Median ask:** $45.12 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,461 domains · **Median ask:** $43.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/shoes`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/shoes`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SHOES one-word domain
 
 ### Files
 
-- `shoes.csv` — public CSV extract (1,000 rows)
-- `shoes.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `shoes.csv`, public CSV extract (1,000 rows)
+- `shoes.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| whynot.shoes        | available | $39.99    | —             | 74             | 44     | 7      | name.com  |
-| HoChiMinhCity.shoes | premium   | $78.54    | $78.54        | 64             | 7      | 16     | namesilo  |
-| Ryan.shoes          | available | $81.98    | —             | 60             | 44     | 4      | namecheap |
-| replies.shoes       | premium   | $123.75   | —             | 54             | 7      | 7      | name.com  |
-| shortcuts.shoes     | available | $39.99    | —             | 48             | 41     | 10     | name.com  |
-| Tools.shoes         | available | $81.98    | —             | 56             | 40     | 5      | namecheap |
-| matcha.shoes        | available | $39.99    | —             | 86             | 39     | 6      | name.com  |
-| WiFi.shoes          | available | $81.98    | —             | 83             | 37     | 5      | namecheap |
-| neuroscience.shoes  | available | $39.99    | —             | 80             | 37     | 12     | name.com  |
-| tokens.shoes        | available | $39.99    | —             | 51             | 36     | 6      | name.com  |
-| aliens.shoes        | available | $39.99    | —             | 56             | 35     | 6      | name.com  |
-| teams.shoes         | available | $39.99    | —             | 62             | 32     | 5      | name.com  |
-| letsgo.shoes        | available | $39.99    | —             | 57             | 31     | 7      | name.com  |
-| slots.shoes         | available | $39.99    | —             | 49             | 31     | 5      | name.com  |
-| rewards.shoes       | available | $39.99    | —             | 62             | 30     | 7      | name.com  |
-| popup.shoes         | available | $39.99    | —             | 84             | 28     | 6      | name.com  |
-| gems.shoes          | available | $39.99    | —             | 70             | 28     | 4      | name.com  |
-| backyard.shoes      | available | $39.99    | —             | 80             | 27     | 9      | name.com  |
-| tips.shoes          | available | $39.99    | —             | 80             | 26     | 4      | name.com  |
-| doctors.shoes       | available | $39.99    | —             | 56             | 26     | 7      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| act.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| heel.shoes   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
+| fun.shoes    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo    |
+| boo.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| pair.shoes   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
+| web.shoes    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
+| bye.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| sexy.shoes   | resell    | —         | —             | high           | low    | 4      | 1API GmbH   |
+| asia.shoes   | premium   | $500      | —             | high           | low    | 4      | name.com    |
+| car.shoes    | available | $39.99    | —             | high           | medium | 3      | name.com    |
+| beach.shoes  | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc |
+| bell.shoes   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
+| cod.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| boxing.shoes | resell    | —         | —             | high           | low    | 6      | Porkbun LLC |
+| lace.shoes   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
+| dot.shoes    | available | $39.99    | —             | high           | medium | 3      | name.com    |
+| mini.shoes   | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo    |
+| Fla.shoes    | available | $39.99    | —             | medium         | low    | 3      | name.com    |
+| sale.shoes   | premium   | $82.50    | —             | high           | low    | 4      | name.com    |
+| gun.shoes    | available | $39.99    | —             | medium         | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .shoes extension. That makes the set narrow and easy to compare: each option ties directly to footwear, retail, style, or category branding through the TLD itself. At a median ask of $45.12, price is less likely to be the main separator than word quality. Strong candidates are simple, easy to say, easy to recall, and commercially relevant to shoes or adjacent use cases. When comparing names such as pop.shoes, coast.shoes, or face.shoes, check whether the word feels natural with .shoes, whether it narrows or broadens your positioning, and whether it raises obvious trademark concerns.
+This set of 12,461 one-word .shoes domain names ranges from short, brandable terms to longer descriptive phrases like dogwalking.shoes and gettogether.shoes. With a median asking price near $44, most of these names sit well within reach for early registration or resale testing. When comparing options in this list, weigh word length, memorability, and renewal cost against how directly the term relates to footwear, comfort, or lifestyle themes — criteria that matter whether you're shortlisting a brand name or assessing resale potential.
 
-- Prioritize words that read naturally before .shoes
-- Use ask price as a filter, not the only decision point
-- Avoid names with clear trademark exposure, like Nokia.shoes
-- Favor memorable words with direct footwear relevance
+- 12,461 one-word .shoes domain names in this selection
+- Median asking price near $44 across the set
+- Mix of short brandable terms and descriptive phrases
+- Updated daily to reflect current .shoes availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
