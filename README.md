@@ -1,10 +1,10 @@
-# Available .SHOES One-Word Domains (12,465)
+# Available .SHOES One-Word Domains (13,424)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C465%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C424%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .shoes one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,465 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,424 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,465 domains · **Median ask:** $42.79 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 13,424 domains · **Median ask:** $41.74 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/shoes`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | act.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
 | heel.shoes   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
 | fun.shoes    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo    |
-| boo.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| arc.shoes    | available | $34.98    | $81.98        | medium         | medium | 3      | namecheap   |
 | pair.shoes   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
 | web.shoes    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
-| bye.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| azo.shoes    | available | $34.98    | $81.98        | low            | low    | 3      | namecheap   |
 | sexy.shoes   | resell    | —         | —             | high           | low    | 4      | 1API GmbH   |
 | asia.shoes   | premium   | $500      | —             | high           | low    | 4      | name.com    |
-| car.shoes    | available | $39.99    | —             | high           | medium | 3      | name.com    |
+| boo.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
 | beach.shoes  | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc |
 | bell.shoes   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
-| cod.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| bye.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
 | boxing.shoes | resell    | —         | —             | high           | low    | 6      | Porkbun LLC |
 | lace.shoes   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
-| dot.shoes    | available | $39.99    | —             | high           | medium | 3      | name.com    |
+| car.shoes    | available | $39.99    | —             | high           | medium | 3      | name.com    |
 | mini.shoes   | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo    |
-| Fla.shoes    | available | $39.99    | —             | medium         | low    | 3      | name.com    |
+| cod.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
 | sale.shoes   | premium   | $82.50    | —             | high           | low    | 4      | name.com    |
-| gun.shoes    | available | $39.99    | —             | medium         | low    | 3      | name.com    |
+| dot.shoes    | available | $39.99    | —             | high           | medium | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,465 live domains                        |
+| 1,000-row public sample | 13,424 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
