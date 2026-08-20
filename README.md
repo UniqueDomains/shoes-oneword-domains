@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .shoes one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,378 domains · **Median ask:** $40.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/shoes`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| correct.shoes | available | $39.99    | $83.99        | high           | low    | 7      | name.com    |
-| damn.shoes    | available | $39.99    | $83.99        | high           | low    | 4      | name.com    |
-| yes.shoes     | available | —         | —             | high           | low    | 3      | —           |
-| bang.shoes    | available | $39.99    | —             | high           | low    | 4      | name.com    |
-| pardon.shoes  | available | $39.99    | —             | high           | low    | 6      | name.com    |
-| count.shoes   | available | $39.99    | —             | high           | low    | 5      | name.com    |
-| act.shoes     | available | $39.99    | —             | high           | low    | 3      | name.com    |
-| heel.shoes    | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
-| fun.shoes     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo    |
-| arc.shoes     | available | $34.98    | $81.98        | medium         | medium | 3      | namecheap   |
-| pair.shoes    | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
-| web.shoes     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
-| azo.shoes     | available | $34.98    | $81.98        | low            | low    | 3      | namecheap   |
-| sexy.shoes    | resell    | —         | —             | high           | low    | 4      | 1API GmbH   |
-| asia.shoes    | premium   | $500      | —             | high           | low    | 4      | name.com    |
-| boo.shoes     | available | $39.99    | —             | high           | low    | 3      | name.com    |
-| beach.shoes   | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc |
-| bell.shoes    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
-| bye.shoes     | available | $39.99    | —             | high           | low    | 3      | name.com    |
-| boxing.shoes  | resell    | —         | —             | high           | low    | 6      | Porkbun LLC |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| act.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| heel.shoes   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
+| fun.shoes    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo    |
+| arc.shoes    | available | $34.98    | $81.98        | medium         | medium | 3      | namecheap   |
+| pair.shoes   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
+| web.shoes    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
+| azo.shoes    | available | $34.98    | $81.98        | low            | low    | 3      | namecheap   |
+| sexy.shoes   | resell    | —         | —             | high           | low    | 4      | 1API GmbH   |
+| asia.shoes   | premium   | $500      | —             | high           | low    | 4      | name.com    |
+| boo.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| beach.shoes  | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc |
+| bell.shoes   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
+| bye.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| boxing.shoes | resell    | —         | —             | high           | low    | 6      | Porkbun LLC |
+| lace.shoes   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
+| car.shoes    | available | $39.99    | —             | high           | medium | 3      | name.com    |
+| mini.shoes   | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo    |
+| cod.shoes    | available | $39.99    | —             | high           | low    | 3      | name.com    |
+| sale.shoes   | premium   | $82.50    | —             | high           | low    | 4      | name.com    |
+| dot.shoes    | available | $39.99    | —             | high           | medium | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOES One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
