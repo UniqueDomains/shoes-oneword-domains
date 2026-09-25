@@ -1,1001 +1,1001 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-c60cc9cd-8efd-482b-8a93-74e7175c3b4b,some.shoes,available,64.99,64.99,medium,low,4,namesilo,,,19/09/2026 12:35
-71a21d6a-f458-4607-b255-ca204a8abeb3,insurancecarrier.shoes,available,39.99,,medium,low,17,name.com,,,
-c6c595e9-4fd2-4e4a-bb17-5ddc20682be5,whotheheck.shoes,available,39.99,,low,low,12,name.com,,,
-b53c7cea-5fa0-4641-bdde-38e64bcdf225,responsive.shoes,available,64.99,64.99,medium,low,10,namesilo,,,22/09/2026 06:49
-877fbdc8-aa33-4dfa-9c2f-b066d5b1b17d,sham.shoes,available,34.98,81.98,low,low,4,namecheap,,,07/08/2026 08:06
+877fbdc8-aa33-4dfa-9c2f-b066d5b1b17d,sham.shoes,available,34.98,81.98,medium,low,4,namecheap,,,07/08/2026 08:06
 86ee05ca-1567-48f9-b715-d08cd263a42a,shaper.shoes,available,39.99,,high,low,6,name.com,,,
-b811fc33-963f-463a-92f9-1aea04c4f94f,ascetical.shoes,available,34.98,81.98,low,low,9,namecheap,,,07/08/2026 01:01
-b03eba67-d1d2-40e4-926c-244c57e96e9b,whatsoever.shoes,available,64.99,64.99,low,low,10,namesilo,,,22/09/2026 06:59
-48f8a872-2b08-41a0-9e05-fe77391ffa32,makemoney.shoes,available,39.99,,high,low,10,name.com,,,
-e7e8ba3a-59b4-4aaf-bd3f-c9e55bd24e06,thanksfornothing.shoes,available,39.99,,medium,low,18,name.com,,,
-6a0ed596-3f19-4d39-8c0f-900d32e9aaee,fanletter.shoes,available,39.99,,medium,low,10,name.com,,,
-c3e73a97-8ebf-4e45-bf01-3d3e24999c6d,babylonian.shoes,available,34.98,81.98,low,low,10,namecheap,,,08/08/2026 03:58
-e52341a4-befb-409c-ab05-08991885510a,grey.shoes,available,34.98,81.98,medium,low,4,namecheap,,,08/09/2026 07:08
-9255156d-1a87-4bba-846e-34c5f9025654,biteme.shoes,available,39.99,,medium,low,7,name.com,,,
+c3e73a97-8ebf-4e45-bf01-3d3e24999c6d,babylonian.shoes,available,34.98,81.98,high,low,10,namecheap,,,08/08/2026 03:58
+e52341a4-befb-409c-ab05-08991885510a,grey.shoes,available,34.98,81.98,high,low,4,namecheap,,,08/09/2026 07:08
 96144ec1-6b74-44d0-b0a9-635009069919,experienced.shoes,available,39.99,,high,low,11,name.com,,,
-552f2799-f522-4c99-8487-d5ba08b09153,amazed.shoes,available,64.99,64.99,low,low,6,namesilo,,,22/09/2026 03:33
-25068350-6cdf-425e-a0aa-8a34432f5345,whenever.shoes,available,39.99,,low,low,8,name.com,,,
-312e2035-9b2c-4e1c-a07a-074e4c2007b8,purchase.shoes,available,39.99,,medium,low,8,name.com,,,
-bbae95ee-d5c0-4742-9ca6-cc09bad02974,lowrise.shoes,available,39.99,,high,low,8,name.com,,,
-8521c782-fc1c-4ef2-bd1d-7ca2de7138a6,annual.shoes,available,64.99,64.99,medium,low,6,namesilo,,,22/09/2026 05:27
-ded4c963-52b0-4216-9612-f0759fec978f,evenchance.shoes,available,39.99,,high,low,11,name.com,,,
+25068350-6cdf-425e-a0aa-8a34432f5345,whenever.shoes,available,39.99,,medium,low,8,name.com,,,
+312e2035-9b2c-4e1c-a07a-074e4c2007b8,purchase.shoes,available,39.99,,high,low,8,name.com,,,
 c9d97f7a-114c-434f-8d0a-117dfe9e8515,knew.shoes,available,39.99,,medium,low,4,name.com,,,
-a06b713d-6095-4c3f-b3b5-0456db02103d,evident.shoes,available,34.98,81.98,low,low,7,namecheap,,,06/08/2026 05:13
+a06b713d-6095-4c3f-b3b5-0456db02103d,evident.shoes,available,34.98,81.98,high,low,7,namecheap,,,06/08/2026 05:13
 36b9768a-de13-4881-8290-42f2dae11120,uml.shoes,available,39.99,,high,low,3,name.com,,,
 8de0b42b-3570-4ce0-880f-85af360b60a1,sneeze.shoes,available,39.99,,high,low,6,name.com,,,
-85f74fd3-ba5c-4312-b621-bb48c74fa9cb,flaxseedoil.shoes,available,39.99,,high,low,12,name.com,,,
-a83b78c0-b9cf-4132-930e-d85ccd45b2c7,audenesque.shoes,available,34.98,81.98,low,low,10,namecheap,,,07/08/2026 16:30
-0d89acd6-f689-4722-b566-d4d9e62b03e5,assorted.shoes,available,34.98,81.98,low,low,8,namecheap,,,07/08/2026 07:25
-27810ed7-13cd-4a09-8dbd-77a898b729c5,heatup.shoes,available,39.99,,high,low,7,name.com,,,
+0d89acd6-f689-4722-b566-d4d9e62b03e5,assorted.shoes,available,34.98,81.98,medium,low,8,namecheap,,,07/08/2026 07:25
 c761a4e1-ba22-451c-9161-719fc2d222ae,volkswagen.shoes,available,39.99,,high,low,10,name.com,,,
 e6de01c7-b0ea-40ba-9c3b-17c082637762,pardon.shoes,available,39.99,,high,low,6,name.com,,,
-261231c9-a40d-44d0-8db0-c1a61aea52ff,avid.shoes,available,34.98,81.98,medium,low,4,namecheap,,,07/08/2026 23:21
-75cb6cb4-4997-4e63-96bb-153cff3a90ef,getoutofhere.shoes,available,39.99,,high,low,15,name.com,,,
+261231c9-a40d-44d0-8db0-c1a61aea52ff,avid.shoes,available,34.98,81.98,high,low,4,namecheap,,,07/08/2026 23:21
 2a387701-dfe7-463e-9ef1-2ea523f73fc8,rhiannon.shoes,available,39.99,,high,low,8,name.com,,,
 87011796-8926-489a-866f-c67a040b31ea,bonus.shoes,available,39.99,,high,low,5,name.com,,,
-1b3582ec-79b3-433a-91a6-1a0c86fdaa68,placating.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 06:02
-4b487296-a09a-4c36-ba6b-4c97cc86292f,sexy.shoes,resell,,,medium,low,4,1API GmbH,18/07/2015 16:00,18/07/2027 16:00,22/09/2026 07:13
-b0830d30-62dd-4c54-b14e-4bdacef5ff26,toying.shoes,available,39.99,,medium,low,6,name.com,,,
-6b605343-6efb-45b4-96d0-5ff1de814b0b,rudderless.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-4a0c0f96-7352-45e0-bfa0-34cf1c692a15,acetic.shoes,available,34.98,81.98,low,low,6,namecheap,,,
-db3776cd-4570-4169-a482-c5ddb34cb8d7,howaboutno.shoes,available,39.99,,medium,low,12,name.com,,,
+b0830d30-62dd-4c54-b14e-4bdacef5ff26,toying.shoes,available,39.99,,high,low,6,name.com,,,
+6b605343-6efb-45b4-96d0-5ff1de814b0b,rudderless.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+4a0c0f96-7352-45e0-bfa0-34cf1c692a15,acetic.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
 167987c0-c411-4c95-b27b-de2ca86c5bdd,happily.shoes,available,39.99,,high,low,7,name.com,,,
-94c50961-141f-4c7c-8e3c-4ec5388e840c,appetising.shoes,available,34.98,81.98,low,low,10,namecheap,,,06/08/2026 06:50
+94c50961-141f-4c7c-8e3c-4ec5388e840c,appetising.shoes,available,34.98,81.98,medium,low,10,namecheap,,,06/08/2026 06:50
 335ba3e5-c1c6-4401-8531-49abbeb2d174,anger.shoes,available,39.99,,high,low,5,name.com,,,
-38f0ced0-a0b6-408f-ad4c-65afcc3f2c69,sweetfa.shoes,available,39.99,,low,low,8,name.com,,,
-3e8f51c1-22f4-4eab-938d-99314c4ac844,structure.shoes,available,34.98,81.98,medium,low,9,namecheap,,,08/09/2026 05:05
 d123bc91-069a-420a-a0eb-4839f1f2a77f,rudimentary.shoes,available,39.99,,high,low,11,name.com,,,
 e8649c8b-da80-4b45-897d-cede1a837db0,window.shoes,available,39.99,,high,low,6,name.com,,,
 b98f2898-ec6d-44e3-8e02-670af81a6649,pub.shoes,available,39.99,,high,low,3,name.com,,,
-c5c58442-68c2-45d7-9c66-d6ad36d3f053,redcross.shoes,available,,,low,low,9,,,,
-9f1cb4a2-d9ef-4481-9b6f-a102fd78c0c4,shush.shoes,available,39.99,,medium,low,5,name.com,,,
-bd3648a6-3be6-4e9b-96a4-30fd82f44093,cometoahead.shoes,available,39.99,,medium,low,14,name.com,,,
-49d35583-1675-4b0d-bba4-12c41c7788c1,quantity.shoes,available,39.99,,medium,low,8,name.com,,,
-9f0a6c31-96f9-434e-8ac3-060ce0d6307a,plotted.shoes,available,64.99,64.99,low,low,7,namesilo,,,21/09/2026 22:10
+9f1cb4a2-d9ef-4481-9b6f-a102fd78c0c4,shush.shoes,available,39.99,,high,low,5,name.com,,,
+49d35583-1675-4b0d-bba4-12c41c7788c1,quantity.shoes,available,39.99,,high,low,8,name.com,,,
 56b7853e-dede-459e-b688-6d96ed6c24d2,increased.shoes,available,39.99,,high,low,9,name.com,,,
-37c1d942-9ae3-4754-87f6-c6339fe281dd,proficiency.shoes,available,39.99,,medium,low,11,name.com,,,
-dff6f73a-3cbf-49be-bdc8-1586ce939bcb,apiculate.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 00:03
+37c1d942-9ae3-4754-87f6-c6339fe281dd,proficiency.shoes,available,39.99,,high,low,11,name.com,,,
 586f3402-0753-4385-95fe-ba9f42f58341,cleaver.shoes,available,39.99,,medium,low,7,name.com,,,
-b66de048-1108-421a-97f1-b47bf7fc26c5,deepsleep.shoes,available,39.99,,high,low,10,name.com,,,
-a04a8016-736b-4bc7-be86-32b732d69c4c,ambitiously.shoes,available,39.99,,medium,low,11,name.com,,,
-fa37b0d5-c371-456b-b38e-d72bd174aac7,aired.shoes,available,34.98,81.98,low,low,5,namecheap,,,
+fa37b0d5-c371-456b-b38e-d72bd174aac7,aired.shoes,available,34.98,81.98,high,low,5,namecheap,,,
 766b7625-e54b-48a5-ae43-bd1c71ff0d5d,siberian.shoes,available,39.99,,high,low,8,name.com,,,
 7343dadf-8f52-4422-a31d-3bee56f94223,limo.shoes,available,39.99,,high,low,4,name.com,,,
 498a30d3-845f-4dbd-9d9e-2b078a9b82eb,sophisticated.shoes,available,39.99,,high,low,13,name.com,,,
-24ae1599-44e4-4449-9bd4-ab5823d860dd,abortive.shoes,available,34.98,81.98,low,low,8,namecheap,,,
+24ae1599-44e4-4449-9bd4-ab5823d860dd,abortive.shoes,available,34.98,81.98,high,low,8,namecheap,,,
 dec446c4-15fe-409a-ae8a-3484f589fbc0,streets.shoes,available,39.99,,high,low,7,name.com,,,
-1e52fa0b-bea9-4d4b-bc5b-649658de102b,fiftyfifty.shoes,available,39.99,,high,low,11,name.com,,,
-209861f4-88a6-4c4a-a8f3-d6d08c7331aa,larger.shoes,available,34.98,81.98,medium,low,6,namecheap,,,22/09/2026 20:38
-8ef7ed07-0c34-4b61-af32-c7a43c0d1232,sevener.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-a2deae7b-fbb3-4d32-89e2-cd2d90e1f954,newdelhi.shoes,available,39.99,,medium,low,9,name.com,,,
-7b2b7cda-8e91-4763-8ca2-c642aa096e36,appealing.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 05:51
-04b0dde4-bf6c-4368-b395-e7e79232dab1,herbalmedicine.shoes,available,39.99,,high,low,15,name.com,,,
-84a280a1-1f8f-4b8d-9441-773d63fc3393,antic.shoes,available,34.98,81.98,low,low,5,namecheap,,,
-83ae6dc1-caac-48cf-b861-bc3985e193c3,courtroom.shoes,available,39.99,,medium,low,9,name.com,,,
+8ef7ed07-0c34-4b61-af32-c7a43c0d1232,sevener.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
+7b2b7cda-8e91-4763-8ca2-c642aa096e36,appealing.shoes,available,34.98,81.98,high,low,9,namecheap,,,06/08/2026 05:51
+84a280a1-1f8f-4b8d-9441-773d63fc3393,antic.shoes,available,34.98,81.98,high,low,5,namecheap,,,
+83ae6dc1-caac-48cf-b861-bc3985e193c3,courtroom.shoes,available,39.99,,high,low,9,name.com,,,
 11f1b8e0-c4a4-43d8-a3ee-b0be2e50b4ae,reference.shoes,available,39.99,,high,low,9,name.com,,,
-bd564fb8-1c4e-46cd-ab3f-d4c9ed03b838,fused.shoes,available,64.99,64.99,low,low,5,namesilo,,,22/09/2026 03:03
-0a7dc164-cb0f-45f2-b17a-127bec76e90a,xiv.shoes,available,34.98,81.98,medium,low,3,namecheap,,,21/09/2026 11:42
-e0641c51-c59f-4080-920b-a8ffeb942678,matter.shoes,available,39.99,,medium,low,6,name.com,,,
-fe7dfb8a-d21f-407d-a9c6-9cf0fb9c4f4a,darkweb.shoes,available,39.99,,medium,low,8,name.com,,,
-dd89c4bd-76a6-4885-af12-a834ef4fee8c,waitinglist.shoes,available,39.99,,medium,low,12,name.com,,,
-d85b437a-097a-46de-8a1d-9b0819a6116c,azo.shoes,available,34.98,81.98,low,low,3,namecheap,,,08/08/2026 02:17
+e0641c51-c59f-4080-920b-a8ffeb942678,matter.shoes,available,39.99,,high,low,6,name.com,,,
+d85b437a-097a-46de-8a1d-9b0819a6116c,azo.shoes,available,34.98,81.98,high,low,3,namecheap,,,08/08/2026 02:17
 e2305480-2e0b-43e5-8bbc-f84c405781b7,laughter.shoes,available,39.99,,high,low,8,name.com,,,
-290f3baa-bc75-4a32-81ff-5387e058bfbb,germanchamomile.shoes,available,39.99,,high,low,16,name.com,,,
-0bed3a0c-45c0-43f5-a09e-47104db203ff,ashgray.shoes,available,34.98,81.98,low,low,8,namecheap,,,07/08/2026 01:59
-0beee9bc-6b75-446f-b3b6-8c0f005bbf9d,plantcommunity.shoes,available,39.99,,high,low,15,name.com,,,
-20da83d2-35b0-4be2-8c7b-d2dff63e9800,recognized.shoes,available,64.99,64.99,medium,low,10,namesilo,,,21/09/2026 15:28
 e9d8d418-559c-412c-9c80-36846d55f18d,defence.shoes,available,39.99,,high,low,7,name.com,,,
-62d79fa2-f606-4340-b3fd-bf9beaf5e313,aerobic.shoes,premium,250,250,medium,low,7,name.com,,,21/09/2026 21:01
-33783941-887b-4082-baa3-0c200f5efd57,araceous.shoes,available,34.98,81.98,low,low,8,namecheap,,,06/08/2026 11:36
 d0692c5e-916f-45bb-94bb-1ef7b882efe7,mac.shoes,available,,,high,low,3,,,,
-86d9fd19-7cc0-4f30-aaef-dd426e61c737,grotesque.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-ceea7eaf-3f0f-4056-b4ad-1639e9e0cdc3,xci.shoes,available,34.98,81.98,low,low,3,namecheap,,,
-5a0e4c05-2c87-4e3b-9303-a4f3a1ef0271,complicate.shoes,available,34.98,81.98,low,low,10,namecheap,,,08/09/2026 14:25
+86d9fd19-7cc0-4f30-aaef-dd426e61c737,grotesque.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+ceea7eaf-3f0f-4056-b4ad-1639e9e0cdc3,xci.shoes,available,34.98,81.98,medium,low,3,namecheap,,,
+5a0e4c05-2c87-4e3b-9303-a4f3a1ef0271,complicate.shoes,available,34.98,81.98,high,low,10,namecheap,,,08/09/2026 14:25
 7199d2a6-5890-416b-953b-eebe945d699e,bath.shoes,available,39.99,,high,low,4,name.com,,,
-ed92ff94-d3c3-474c-a21b-73f7ac7065d0,givebirth.shoes,available,34.98,81.98,low,low,10,namecheap,,,23/09/2026 20:56
 0cdab72f-6d34-4c57-bebc-c7d29a448cc2,veer.shoes,available,39.99,,high,low,4,name.com,,,
-c2662225-2b36-49e3-bb46-bd78d5f34dca,flood.shoes,available,39.99,,medium,low,5,name.com,,,
-a19a2337-03da-437d-98de-46a89b965671,airless.shoes,available,34.98,81.98,low,low,7,namecheap,,,
+c2662225-2b36-49e3-bb46-bd78d5f34dca,flood.shoes,available,39.99,,high,low,5,name.com,,,
+a19a2337-03da-437d-98de-46a89b965671,airless.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
 e3c03afa-aeda-4691-a27b-2f6dffd737f8,revenue.shoes,available,39.99,,high,low,7,name.com,,,
-b1863d29-6bae-48e6-a4e3-1b6230d6caf4,investing.shoes,available,34.98,81.98,medium,low,9,namecheap,,,23/09/2026 03:25
-dfb6865f-0107-41cf-8d3c-873cf37c09a9,fallinto.shoes,available,39.99,,medium,low,9,name.com,,,
 59fdca11-a038-4830-953f-358ee634e930,jail.shoes,available,39.99,,high,low,4,name.com,,,
-d0b178d2-e2db-4ffb-8f10-f98bd8585ab1,round.shoes,available,34.98,81.98,low,low,5,namecheap,,,09/08/2026 05:09
+d0b178d2-e2db-4ffb-8f10-f98bd8585ab1,round.shoes,available,34.98,81.98,high,low,5,namecheap,,,09/08/2026 05:09
 8cce9928-8a99-47a1-ae8c-c109c5f7252b,neck.shoes,available,39.99,,high,low,4,name.com,,,
-5abc8c0a-e2f7-4828-81c9-96b38acb8d73,alary.shoes,available,34.98,81.98,low,low,5,namecheap,,,
+5abc8c0a-e2f7-4828-81c9-96b38acb8d73,alary.shoes,available,34.98,81.98,medium,low,5,namecheap,,,
 02bb3a33-be81-4f02-a234-05a72890ca59,kick.shoes,available,,,high,low,4,,,,
-2892ff1b-61dc-4ccb-ba84-7114d63bed21,apophyseal.shoes,available,34.98,81.98,low,low,10,namecheap,,,06/08/2026 03:24
-e9b845b2-f971-4e53-8e76-52580cbf7183,wasted.shoes,available,64.99,64.99,low,low,6,namesilo,,,22/09/2026 11:10
-ffb0a61e-afd7-4635-adc9-bdec9660db26,cornering.shoes,available,39.99,,medium,low,9,name.com,,,
-90c41299-e6ee-487c-9f72-86ff5d990abd,azoic.shoes,available,34.98,81.98,low,low,5,namecheap,,,08/08/2026 02:22
-9b316dc0-79b7-4bb1-a50f-e1c68fc0d2ba,required.shoes,available,34.98,81.98,low,low,8,namecheap,,,23/09/2026 18:27
-687fb560-95ed-4ed3-b80a-bff0b9999057,worldexpo.shoes,available,39.99,,medium,low,10,name.com,,,
+90c41299-e6ee-487c-9f72-86ff5d990abd,azoic.shoes,available,34.98,81.98,medium,low,5,namecheap,,,08/08/2026 02:22
 2c6ebd06-42c2-4ce6-9f7b-bb6941a74477,carrying.shoes,available,39.99,,high,low,8,name.com,,,
-3ff67241-2de4-4661-ac61-a114d0888741,cliche.shoes,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 16:07
-1c5e4abd-cc2a-4034-8430-e65012476cc0,composite.shoes,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 17:39
-066d7c35-fce9-4469-8aad-e84d73738149,monitor.shoes,available,39.99,,medium,low,7,name.com,,,
-80a02805-9098-4276-aa07-681471b0a340,biddable.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-b83978ad-8b16-4392-afc4-19017d488012,financialmarket.shoes,available,39.99,,high,low,16,name.com,,,
-290359fd-8264-4751-aba6-20b805849473,weakest.shoes,available,39.99,,low,low,7,name.com,,,
-092eb17a-d9bc-4582-96db-67e664d3c5c5,augitic.shoes,available,34.98,81.98,low,low,7,namecheap,,,07/08/2026 16:59
+066d7c35-fce9-4469-8aad-e84d73738149,monitor.shoes,available,39.99,,high,low,7,name.com,,,
+80a02805-9098-4276-aa07-681471b0a340,biddable.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
+290359fd-8264-4751-aba6-20b805849473,weakest.shoes,available,39.99,,medium,low,7,name.com,,,
 92159a97-c971-41dc-a73b-a936b3086b42,skilled.shoes,available,39.99,,high,low,7,name.com,,,
-039fd281-b84b-4ef9-af6a-1cb132e6f812,seat.shoes,available,34.98,81.98,low,low,4,namecheap,,,09/08/2026 11:32
-c4bc2b18-c026-4f4b-80ba-addb9524b58c,hereditary.shoes,available,34.98,81.98,low,low,10,namecheap,,,
+039fd281-b84b-4ef9-af6a-1cb132e6f812,seat.shoes,available,34.98,81.98,medium,low,4,namecheap,,,09/08/2026 11:32
+c4bc2b18-c026-4f4b-80ba-addb9524b58c,hereditary.shoes,available,34.98,81.98,high,low,10,namecheap,,,
 4ddfb530-4fcc-432c-b913-d2ec8a1360a4,allies.shoes,available,39.99,,high,low,6,name.com,,,
-0fb0aff0-b397-4f1b-abae-65d36b7995fe,beardless.shoes,available,34.98,81.98,low,low,9,namecheap,,,09/08/2026 04:43
+0fb0aff0-b397-4f1b-abae-65d36b7995fe,beardless.shoes,available,34.98,81.98,medium,low,9,namecheap,,,09/08/2026 04:43
 b9ae9518-75ea-4090-9085-5e7b7b302afe,mini.shoes,premium,118.8,118.8,high,medium,4,namesilo,,,
-dd5ad8dc-6e13-4112-8d55-de8deefbe79a,baritone.shoes,available,34.98,81.98,low,low,8,namecheap,,,08/08/2026 19:36
-7baa60cc-c589-44f2-8741-5baf234f6a71,articular.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 23:26
-5439fba8-6486-45c5-b667-aa0f0cc99854,whitevanman.shoes,available,39.99,,low,low,13,name.com,,,
-90272c21-226e-49a6-b41d-302353dffa75,anorthitic.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-a1c07ae7-3d79-4d93-a98e-f0ad33fdc10f,gobythenameof.shoes,available,39.99,,medium,low,17,name.com,,,
-bdcb96b0-d9f3-429a-95a4-b37f3b81a5f7,sombuddy.shoes,available,39.99,,medium,low,8,name.com,,,
-691a818b-8a5d-463d-b26d-5efaf31e8d06,unaired.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-17899bc7-55b4-4b2e-b54e-620b8e896cca,algerian.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-f4682bdf-5375-4e28-90fd-1b730a0059bc,godmode.shoes,available,39.99,,high,low,8,name.com,,,
-de866471-a578-4d35-b041-c03ad836ca67,allweathertyre.shoes,available,39.99,,high,low,16,name.com,,,
-658be4b2-912c-4752-a974-6359804f6bd4,azimuthal.shoes,available,34.98,81.98,low,low,9,namecheap,,,08/08/2026 02:11
-8e4a8f11-a318-4136-bdd4-269d8dee617b,tech.shoes,premium,512,512,medium,low,4,namesilo,,,23/09/2026 02:37
-54d43966-66cd-4385-aa40-b9b69cec79fb,rednoseday.shoes,available,39.99,,low,low,12,name.com,,,
+dd5ad8dc-6e13-4112-8d55-de8deefbe79a,baritone.shoes,available,34.98,81.98,medium,low,8,namecheap,,,08/08/2026 19:36
+7baa60cc-c589-44f2-8741-5baf234f6a71,articular.shoes,available,34.98,81.98,medium,low,9,namecheap,,,06/08/2026 23:26
+17899bc7-55b4-4b2e-b54e-620b8e896cca,algerian.shoes,available,34.98,81.98,high,low,8,namecheap,,,
 df46b615-6eee-4892-af65-13f3740d5ebb,comprehend.shoes,available,39.99,,high,low,10,name.com,,,
 f8221526-e6a4-4a68-a5f5-e186e7eeb857,household.shoes,available,39.99,,high,low,9,name.com,,,
 a9fff2a3-9e52-4cbd-879a-7f5818e2d43f,affinity.shoes,available,,,high,low,8,,,,
-f50cc62f-66d2-4412-875e-b2ff0d3f6285,balsamy.shoes,available,34.98,81.98,low,low,7,namecheap,,,08/08/2026 10:36
 075f6165-c2b1-4272-9fde-51431bc7d6d2,recover.shoes,available,39.99,,high,low,7,name.com,,,
-98593707-0c2a-4982-a7b5-352ed3cf7681,mark.shoes,available,39.99,83.99,low,low,4,name.com,,,24/09/2026 01:59
 f52a6e8a-9f2d-40bd-861f-0d4363752a83,conductor.shoes,available,39.99,,high,low,9,name.com,,,
-b5a0f427-ff5b-4f37-acaf-9eac7f93685b,basined.shoes,available,34.98,81.98,low,low,7,namecheap,,,08/08/2026 22:37
 4a8a3841-4805-4ea6-8c1e-db6c303472f6,act.shoes,available,39.99,,high,low,3,name.com,,,
-d6ac16ba-e1b9-42ae-b029-e82c8f55383e,lviii.shoes,available,34.98,81.98,low,low,5,namecheap,,,
-834bd141-c091-4cd4-87e5-32890f14cc9f,boxer.shoes,available,64.99,64.99,medium,low,5,namesilo,,,23/09/2026 06:29
-6453c275-6907-4cf0-a5e2-95685d738e7b,oldage.shoes,available,39.99,,low,low,7,name.com,,,
 27075529-c853-45a4-bd6f-08e40aed9d60,remember.shoes,available,39.99,,high,low,8,name.com,,,
-6caabe3b-6267-436e-9245-62d00cc90c92,barbarous.shoes,available,34.98,81.98,low,low,9,namecheap,,,08/08/2026 15:40
-f129e966-4340-4f61-b42f-5d5111237e60,confession.shoes,available,39.99,,medium,low,10,name.com,,,
-43d32cd1-cfbf-4557-a21e-9de47e0e3dbc,newbie.shoes,available,39.99,,medium,low,6,name.com,,,
-956707ce-8c9a-4c04-bfc3-6ef73b31fe9c,letterart.shoes,available,39.99,,high,low,10,name.com,,,
-e2af82e3-efec-45fb-95c1-28af476ad12b,baffled.shoes,available,34.98,81.98,low,low,7,namecheap,,,07/08/2026 11:36
-915e4bc7-e412-4238-b80d-30455dec19f1,redplanet.shoes,available,39.99,,medium,low,10,name.com,,,
-276f961e-5906-4cf3-8215-1501c527399a,attested.shoes,available,34.98,81.98,low,low,8,namecheap,,,07/08/2026 15:41
-6ccdb4f0-9869-4b87-94c6-b27867bc96a8,allover.shoes,available,34.98,81.98,low,low,8,namecheap,,,
+6caabe3b-6267-436e-9245-62d00cc90c92,barbarous.shoes,available,34.98,81.98,medium,low,9,namecheap,,,08/08/2026 15:40
+f129e966-4340-4f61-b42f-5d5111237e60,confession.shoes,available,39.99,,high,low,10,name.com,,,
+e2af82e3-efec-45fb-95c1-28af476ad12b,baffled.shoes,available,34.98,81.98,medium,low,7,namecheap,,,07/08/2026 11:36
+276f961e-5906-4cf3-8215-1501c527399a,attested.shoes,available,34.98,81.98,medium,low,8,namecheap,,,07/08/2026 15:41
 ab4f0b4e-91e4-44d1-b1fb-436b35c99cb6,sale.shoes,premium,82.5,,high,low,4,name.com,,,
-2e333c1f-e5fd-4397-b5f3-ff60202f902c,carryoff.shoes,available,39.99,,medium,low,9,name.com,,,
 391297dc-50d3-44e1-9171-4135d811520c,bell.shoes,premium,118.8,118.8,high,low,4,namesilo,,,
-1c3630ff-cc7a-4543-aabf-2884b6b28620,panel.shoes,available,34.98,81.98,low,low,5,namecheap,,,19/09/2026 11:40
-1f4c40bc-1727-4218-b273-36b6d32a2ac8,sitloose.shoes,available,39.99,,low,low,9,name.com,,,
 fa32cf1d-e2ac-4ac1-8084-e6dfdc4a28b5,smartphone.shoes,available,39.99,,high,low,10,name.com,,,
-021a6efe-d288-4484-b683-6746dd2f371e,enterontheboards.shoes,available,39.99,,medium,low,19,name.com,,,
-6f831371-9f24-4ff7-a6c3-6cc30b3a3570,djia.shoes,available,39.99,,medium,low,4,name.com,,,
+6f831371-9f24-4ff7-a6c3-6cc30b3a3570,djia.shoes,available,39.99,,high,low,4,name.com,,,
 695125e1-ec97-4aa2-a949-5d6f12c798c3,microsoft.shoes,available,,,high,low,9,,,,
-84cd8db8-16a7-4ef4-8ab0-e5b32b96809a,fourscore.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-edd24bdc-9f67-464c-9922-6a0fbf8435e4,accurate.shoes,available,64.99,64.99,medium,low,8,namesilo,,,21/09/2026 15:59
-1065577f-540e-41d4-ac1e-e82a72cab7a1,invigorate.shoes,available,64.99,64.99,medium,low,10,namesilo,,,22/09/2026 04:52
-7ca26049-ece2-4484-923d-088f99185c97,dessert.shoes,available,64.99,64.99,medium,low,7,namesilo,,,23/09/2026 04:26
-af2034ef-463c-4083-8624-3555d156b27a,despise.shoes,available,39.99,,medium,low,7,name.com,,,
+84cd8db8-16a7-4ef4-8ab0-e5b32b96809a,fourscore.shoes,available,34.98,81.98,high,low,9,namecheap,,,
+af2034ef-463c-4083-8624-3555d156b27a,despise.shoes,available,39.99,,high,low,7,name.com,,,
 d223b869-75c4-48c0-8b48-a0672b10bc7e,eggs.shoes,available,39.99,,high,low,4,name.com,,,
-4dbf43e4-1442-4723-a198-7bfdf915a510,alchemical.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-fb6f804b-274f-4c64-b761-2b9a2a963cb5,harddrive.shoes,available,39.99,,high,low,10,name.com,,,
+4dbf43e4-1442-4723-a198-7bfdf915a510,alchemical.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
 511866cc-a8c5-4f7b-98fd-5acd6d774cd3,salad.shoes,available,39.99,,high,low,5,name.com,,,
 c773f969-3ead-43da-a2b7-bc5042334947,iphone.shoes,available,,,high,low,6,,,,
 77fcdd85-7523-486c-b317-ede516da84f9,brightness.shoes,available,39.99,,high,low,10,name.com,,,
 894dc283-5781-45f2-9688-160fa2514e02,embracing.shoes,available,39.99,,high,low,9,name.com,,,
-d8132599-0d4b-4e33-b462-d64d7b833efa,hundredth.shoes,available,34.98,81.98,low,low,9,namecheap,,,
+d8132599-0d4b-4e33-b462-d64d7b833efa,hundredth.shoes,available,34.98,81.98,high,low,9,namecheap,,,
 5937782d-6748-43eb-a8cf-a42c231c9a53,chirping.shoes,available,39.99,,high,low,8,name.com,,,
-5b789d77-e735-4c36-a5a8-942804ae0493,lxxvi.shoes,available,34.98,81.98,low,low,5,namecheap,,,
-af229136-df75-46cb-a210-ec0047876961,eightytwo.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-dea8b778-bda3-4bbf-9d0b-19491d3590ee,xxiii.shoes,available,34.98,81.98,low,low,5,namecheap,,,
-6cf83161-bc22-49ea-9b14-1e32d814bb32,funny.shoes,available,64.99,64.99,medium,low,5,namesilo,,,23/09/2026 15:21
+dea8b778-bda3-4bbf-9d0b-19491d3590ee,xxiii.shoes,available,34.98,81.98,high,low,5,namecheap,,,
 164aa7ec-347c-40e3-b116-3995cc06d4a4,adobe.shoes,available,,,high,low,5,,,,
-a2259d50-ec34-4451-88dd-78367579efa7,toeachhisown.shoes,available,39.99,,medium,low,15,name.com,,,
-89004887-6e74-440e-bc5a-821126ec65ed,laudable.shoes,available,34.98,81.98,low,low,8,namecheap,,,06/08/2026 07:01
-12b25713-c4fa-4722-aeac-a8afd6fc31f7,acerate.shoes,available,34.98,81.98,low,low,7,namecheap,,,
+89004887-6e74-440e-bc5a-821126ec65ed,laudable.shoes,available,34.98,81.98,high,low,8,namecheap,,,06/08/2026 07:01
+12b25713-c4fa-4722-aeac-a8afd6fc31f7,acerate.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
 1f31b32e-9e4d-4899-ad36-cd771d05cda9,francesca.shoes,available,39.99,,high,low,9,name.com,,,
-7ad18403-8bc2-4edf-a6e7-79c6a05fa600,antiquated.shoes,available,34.98,81.98,low,low,10,namecheap,,,
+7ad18403-8bc2-4edf-a6e7-79c6a05fa600,antiquated.shoes,available,34.98,81.98,high,low,10,namecheap,,,
 bd2f2c14-686a-40ea-83d2-914d3766bef3,inconsistent.shoes,available,39.99,,medium,low,12,name.com,,,
-2065cf49-ca8e-4ce0-9008-35d4a86e16e1,autolytic.shoes,available,34.98,81.98,low,low,9,namecheap,,,07/08/2026 20:42
+2065cf49-ca8e-4ce0-9008-35d4a86e16e1,autolytic.shoes,available,34.98,81.98,medium,low,9,namecheap,,,07/08/2026 20:42
 54ab085b-bb08-42ff-b484-af7564367302,madrid.shoes,premium,242,242,high,low,6,namesilo,,,
-6d952511-4d78-4eec-94f1-f7baf3d322f9,balzacian.shoes,available,34.98,81.98,low,low,9,namecheap,,,08/08/2026 10:50
-55d0bec8-9ff0-483e-baa2-3390ecc31937,gothedistance.shoes,available,39.99,,high,low,15,name.com,,,
-cec3206f-ce34-4d87-9340-b892bf857207,eventoed.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 23:36
-dcf65b67-f6db-4614-93ee-6f4a05b46353,intelligence.shoes,available,64.99,64.99,medium,low,12,namesilo,,,24/09/2026 02:54
-6c99641b-3bf8-4fac-a61c-182fa46e8e18,firstcousin.shoes,available,39.99,,medium,low,12,name.com,,,
-691aa517-f6f8-4c2a-a897-f563f9003f99,thatgirl.shoes,available,39.99,,medium,low,9,name.com,,,
-9ed516cf-28b9-44bf-97a5-54fe9566711b,weird.shoes,available,39.99,83.99,medium,low,5,name.com,,,
 61fd89dc-450c-463b-8f71-8a8724f042a4,snapchat.shoes,available,39.99,,high,low,8,name.com,,,
-e3d68ee8-0145-48b7-b369-2b1df85aabbf,aphotic.shoes,available,34.98,81.98,low,low,7,namecheap,,,05/08/2026 23:37
+e3d68ee8-0145-48b7-b369-2b1df85aabbf,aphotic.shoes,available,34.98,81.98,medium,low,7,namecheap,,,05/08/2026 23:37
 8451d841-2423-4aaa-853b-58d823576b9e,mint.shoes,available,,,high,low,4,,,,
 5f8c23e9-89b2-493e-b10a-7267f9a11b50,put.shoes,available,39.99,,high,low,3,name.com,,,
-0e711d90-ea1e-480f-aa1f-6166b94b4a0b,adjustive.shoes,available,34.98,81.98,low,low,9,namecheap,,,
 ffa3b039-0cea-49f9-8ae1-a2949eb279a9,deejay.shoes,available,39.99,,high,low,6,name.com,,,
-1746219f-ec7a-4f17-ab3f-47eb14c0835c,recreationroom.shoes,available,39.99,,high,low,15,name.com,,,
-d9d22929-d96c-4258-b7e4-6a0a7daa8546,greatgrandson.shoes,available,39.99,,high,low,14,name.com,,,
-2e17f7b4-530f-4a48-826c-fcad74282d31,yellowpages.shoes,available,39.99,,medium,low,12,name.com,,,
-360e497c-5bd3-4c74-ab62-f3215ee36840,chickenoregg.shoes,available,39.99,,high,low,14,name.com,,,
-0003dadb-b73c-447f-b3b6-34c21cc04798,standbehind.shoes,available,39.99,,low,low,12,name.com,,,
-34175867-813b-43cc-b629-36bf1b4d077f,ghostlike.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 05:23
-8470bb35-0f1d-46d2-945b-d7d391798301,pair.shoes,resell,,,medium,low,4,Dynadot Inc,28/12/2025 21:11,28/12/2026 21:11,
+34175867-813b-43cc-b629-36bf1b4d077f,ghostlike.shoes,available,34.98,81.98,medium,low,9,namecheap,,,06/08/2026 05:23
+8470bb35-0f1d-46d2-945b-d7d391798301,pair.shoes,resell,,,high,low,4,Dynadot Inc,28/12/2025 21:11,28/12/2026 21:11,
 3d47b7a2-e658-412f-a343-7f43bfa20230,sunbelt.shoes,available,39.99,,high,low,7,name.com,,,
 273887b4-06a8-44d6-8f35-c9e7a085d25c,stubborn.shoes,available,39.99,,high,low,8,name.com,,,
-5b13d9fe-5434-492a-a29c-82aa89d4adad,angelical.shoes,available,64.99,64.99,low,low,9,namesilo,,,22/09/2026 04:27
 8616617a-fa2c-486f-a026-604d1476d0e1,theyre.shoes,available,39.99,,medium,low,6,name.com,,,
-79ebcadc-e857-4e9f-873e-bc4e8353885a,bacon.shoes,available,39.99,,medium,low,5,name.com,,,
-9d7d37bd-8f79-4600-bca1-25e89224ff49,luncheonsausage.shoes,available,39.99,,high,low,16,name.com,,,
-62057785-f1fd-46b1-a317-5505cb196515,extensive.shoes,available,34.98,81.98,low,low,9,namecheap,,,
+79ebcadc-e857-4e9f-873e-bc4e8353885a,bacon.shoes,available,39.99,,high,low,5,name.com,,,
+62057785-f1fd-46b1-a317-5505cb196515,extensive.shoes,available,34.98,81.98,high,low,9,namecheap,,,
 d2cb37a5-a0cd-4990-9096-b167d052ebd2,foto.shoes,available,39.99,,high,low,4,name.com,,,
-6d6fc58e-41e7-4d8a-a264-69a398f1c930,carryout.shoes,available,39.99,,high,low,9,name.com,,,
-ee7ab4d6-6594-458e-9fb0-6dcc9fb19582,wintertire.shoes,available,39.99,,high,low,11,name.com,,,
 b08912f2-d2e6-4ac3-a8a1-24150a74d352,election.shoes,available,39.99,,high,low,8,name.com,,,
 0f2c3edf-927b-47e2-b16b-4c24ace7a86d,granddad.shoes,available,39.99,,high,low,8,name.com,,,
-3adb376b-93ab-42fa-8e80-438de9b687d2,phonesurvey.shoes,available,39.99,,medium,low,12,name.com,,,
 bb0de9e6-a9d4-40cf-864a-be23cda90cd5,congratulations.shoes,available,39.99,,high,low,15,name.com,,,
-2d9fdf9d-b4b1-43f2-858e-c774b4ffb532,startup.shoes,available,64.99,64.99,medium,low,7,namesilo,,,23/09/2026 07:16
 314b91f5-de60-46ad-b47e-8b83e52fbbdc,remain.shoes,available,39.99,,high,low,6,name.com,,,
-88e0951f-e213-4f61-b707-efade9e8b4d0,frozenfood.shoes,available,39.99,,high,low,11,name.com,,,
-179cd91f-2a3d-4e79-a6b2-d1c29094f789,standfirm.shoes,available,39.99,,high,low,10,name.com,,,
-5c188543-604d-4198-af6b-2ffbcf05d648,tossacoin.shoes,available,39.99,,low,low,11,name.com,,,
-46173ff8-19e0-42f5-bbce-ae7e4e1c3a21,childabuse.shoes,available,39.99,,medium,low,11,name.com,,,
 ec4f7c28-355d-43f6-a0e7-a4ec88f61eea,excursion.shoes,available,39.99,,high,low,9,name.com,,,
-f0a0eda2-bfbe-4467-8743-73ce7c8a2ed8,howtheturntables.shoes,available,39.99,,medium,low,18,name.com,,,
-0fd6c76d-567d-49e2-8291-3ca4141b76f7,foodcoma.shoes,available,39.99,,medium,low,9,name.com,,,
-8c4009d5-be9a-47dd-a640-0a79937569d2,floor.shoes,available,34.98,81.98,medium,low,5,namecheap,,,08/09/2026 02:52
-40b9ad49-a062-469e-b842-5a0080dcbecf,honestly.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
+8c4009d5-be9a-47dd-a640-0a79937569d2,floor.shoes,available,34.98,81.98,high,low,5,namecheap,,,08/09/2026 02:52
+40b9ad49-a062-469e-b842-5a0080dcbecf,honestly.shoes,available,34.98,81.98,high,low,8,namecheap,,,
 d26c6579-3561-4d5b-adbb-88c1d29971af,glove.shoes,available,39.99,,high,low,5,name.com,,,
-0e86f5b2-53e5-4429-897c-200f517bf6f8,worldwideweb.shoes,available,39.99,,low,low,14,name.com,,,
 9fb8a7fa-989a-40c6-acc8-142f592d0406,gaming.shoes,available,39.99,,high,low,6,name.com,,,
-a4712cda-bceb-4bd5-9a63-739a01a077b6,surgicalmask.shoes,available,39.99,,high,low,13,name.com,,,
 08ec624e-efa3-4144-b49d-cf084ca36eb2,briefs.shoes,available,39.99,,high,low,6,name.com,,,
-b5394ebf-a748-48d4-b370-c2dec0527156,aroused.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-b906c99f-e6b2-46b7-8d69-870cb78c7def,windmill.shoes,available,34.98,81.98,low,low,9,namecheap,,,17/09/2026 13:01
+b5394ebf-a748-48d4-b370-c2dec0527156,aroused.shoes,available,34.98,81.98,high,low,7,namecheap,,,
 13bd2120-d3bf-4e65-a458-cdd73e9c3dde,teamwork.shoes,available,39.99,,high,low,8,name.com,,,
-9d51cc30-bec7-4b74-bdd2-8b92b54cd231,adonic.shoes,available,34.98,81.98,low,low,6,namecheap,,,
-7e5694e4-cc3f-4d7a-a308-56d186525d44,ascribable.shoes,available,34.98,81.98,low,low,10,namecheap,,,07/08/2026 01:17
-ffa69d8e-c0c1-4b18-ab6c-5df49a3a0a72,grumpy.shoes,available,34.98,81.98,low,low,6,namecheap,,,08/08/2026 07:57
+9d51cc30-bec7-4b74-bdd2-8b92b54cd231,adonic.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+ffa69d8e-c0c1-4b18-ab6c-5df49a3a0a72,grumpy.shoes,available,34.98,81.98,high,low,6,namecheap,,,08/08/2026 07:57
 7f07c76e-96cf-4214-aed0-c5a9c544a453,this.shoes,available,39.99,,high,medium,4,name.com,,,
-0c50c36b-985d-41da-a2d2-5b8a9ebd66e0,checkinto.shoes,available,39.99,,high,low,10,name.com,,,
 109e5488-e5d4-4db1-a458-497c6c3f99e2,legend.shoes,available,39.99,,high,low,6,name.com,,,
 fdeee4c5-c0b1-4ead-bb29-2458bea71476,cadillac.shoes,available,39.99,,high,low,8,name.com,,,
-d3b6043b-289f-43e9-9077-d3e3098ccd52,tardy.shoes,available,34.98,81.98,low,low,5,namecheap,,,09/08/2026 12:42
+d3b6043b-289f-43e9-9077-d3e3098ccd52,tardy.shoes,available,34.98,81.98,medium,low,5,namecheap,,,09/08/2026 12:42
 10988357-e027-499f-889e-d64954d142a4,airline.shoes,available,39.99,,high,low,7,name.com,,,
-2017ac4d-db1e-4112-989d-68580d2d5b25,counter.shoes,available,34.98,81.98,medium,low,7,namecheap,,,22/09/2026 05:49
-0056f38b-cfa9-4622-bce7-9bebd86bf42b,alfresco.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-007633c0-2418-44f8-beba-50a111915f6a,toilsome.shoes,available,34.98,81.98,low,low,8,namecheap,,,06/08/2026 17:16
-5e383dcd-af0a-4b73-8cf5-27ea31d69563,wake.shoes,available,64.99,64.99,low,low,4,namesilo,,,22/09/2026 14:42
-29c51b0a-f2b5-4801-937b-7806c1d4856c,atworst.shoes,available,39.99,,medium,low,8,name.com,,,
-225d864a-f839-4cfe-b42e-57c91c5fd9fb,rogue.shoes,available,39.99,,medium,low,5,name.com,,,
-8982dcae-a1fe-4be7-be49-67d8dd5dad29,dollarstore.shoes,available,39.99,,medium,low,12,name.com,,,
+0056f38b-cfa9-4622-bce7-9bebd86bf42b,alfresco.shoes,available,34.98,81.98,high,low,8,namecheap,,,
+225d864a-f839-4cfe-b42e-57c91c5fd9fb,rogue.shoes,available,39.99,,high,low,5,name.com,,,
 a707b8ae-a82b-453e-bf89-b00b0acbd62b,lucrative.shoes,available,39.99,,high,low,9,name.com,,,
-7edc5dd7-1764-4e2d-8879-8292483df37a,qualification.shoes,available,39.99,,medium,low,13,name.com,,,
-6214b27d-608e-42e2-9b82-db49b31366a4,adoptable.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-39ab294b-855c-40c3-9ebe-5de9817cd102,oflate.shoes,available,39.99,,medium,low,7,name.com,,,
+7edc5dd7-1764-4e2d-8879-8292483df37a,qualification.shoes,available,39.99,,high,low,13,name.com,,,
+6214b27d-608e-42e2-9b82-db49b31366a4,adoptable.shoes,available,34.98,81.98,high,low,9,namecheap,,,
 937ccc8a-9569-44cc-9a0d-c8fd3374cc52,lang.shoes,available,39.99,,high,low,4,name.com,,,
-538c5639-0f39-44b6-beb3-45b0804f6f4d,footballhooliganism.shoes,available,39.99,,medium,low,20,name.com,,,
 4c9dafcb-0dc2-4b5d-873a-50f0221e6ced,chimney.shoes,available,39.99,,high,low,7,name.com,,,
-34b5e249-4b75-47d5-ba08-4010692054d8,soaker.shoes,available,34.98,81.98,low,low,6,namecheap,,,
-0b1917c8-848d-4e01-bf21-4d5a50eb1465,assisted.shoes,available,64.99,64.99,low,low,8,namesilo,,,21/09/2026 23:41
-f25c1f6c-d490-4ae9-a3b1-d0afaf928c59,gstring.shoes,available,39.99,,medium,low,8,name.com,,,
-10d29ed3-ad00-42bd-9689-d1f8b95000c6,aphaeretic.shoes,available,34.98,81.98,low,low,10,namecheap,,,05/08/2026 22:45
+34b5e249-4b75-47d5-ba08-4010692054d8,soaker.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
 ff9dce9b-a0fb-4563-80f9-87c446e1c344,sperm.shoes,available,39.99,,high,low,5,name.com,,,
 8c5a1bfd-f7a8-4a91-8894-b127e6b87c0b,fiercely.shoes,available,39.99,,medium,low,8,name.com,,,
-f36386f3-4119-48cd-96d9-e70356e06133,writedown.shoes,available,39.99,,medium,low,10,name.com,,,
 afc34598-00b6-4d28-af76-cd40ff076d79,really.shoes,available,39.99,,high,low,6,name.com,,,
-22c9af31-2f94-441c-9e84-bbdc4ebf3b32,acneiform.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-00f57062-1cb8-41de-9f10-d5898eeb691c,wipeup.shoes,available,39.99,,high,low,7,name.com,,,
 aa498020-d41b-4fc3-a5c0-0c0e6568d024,pleasing.shoes,available,39.99,,high,low,8,name.com,,,
 68b1daca-2d58-48dd-a340-02d78f139fd0,jan.shoes,available,39.99,,high,low,3,name.com,,,
 1e069aa7-4fe9-467a-9606-2b224f17b7c1,passcode.shoes,available,39.99,,high,low,8,name.com,,,
 d167ce0b-dd09-416e-bb99-b8a8878cb979,respectful.shoes,available,39.99,,high,low,10,name.com,,,
-ed75ff03-f20c-487c-933d-33e9de4168a6,briary.shoes,available,34.98,81.98,low,low,6,namecheap,,,08/08/2026 17:02
-4487da2a-13e5-4b41-bf74-7c0fe2fd10bc,flight.shoes,available,39.99,,high,low,6,name.com,,,
-f119b5c7-ed46-472a-a1f2-dabd1b3c5f7a,agonised.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-4f4b383a-1c18-4272-b3d1-fb28cc1d4b79,shrub.shoes,available,64.99,64.99,low,low,5,namesilo,,,23/09/2026 11:56
-7f83d4bb-17ee-4e5c-81d0-fdb4b25ad6ac,auxinic.shoes,available,34.98,81.98,low,low,7,namecheap,,,07/08/2026 21:34
-9a0dea63-c40a-4c15-a355-2500b6a9aee0,noncitizen.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-8759e497-e98b-4d81-9721-d4a11a81577d,stclair.shoes,available,39.99,,medium,low,9,name.com,,,
-3826146f-17e9-45fd-ae2c-797eb04701a3,measuring.shoes,available,39.99,,medium,low,9,name.com,,,
-88f35b87-3eb8-4240-a1aa-82894c2b7e8d,committing.shoes,available,39.99,,medium,low,10,name.com,,,
-d7f3dab8-77bb-4ef2-b4db-7e1bd03c544b,yourstruly.shoes,available,39.99,,medium,low,11,name.com,,,
-ac169ebe-e407-4e78-bfd2-74fe13370a81,barebacked.shoes,available,34.98,81.98,low,low,10,namecheap,,,08/08/2026 18:44
-8b3acbd2-7c2f-4d21-914c-3ed2e019388a,amicable.shoes,available,64.99,64.99,medium,low,8,namesilo,,,22/09/2026 04:19
+ed75ff03-f20c-487c-933d-33e9de4168a6,briary.shoes,available,34.98,81.98,medium,low,6,namecheap,,,08/08/2026 17:02
+9a0dea63-c40a-4c15-a355-2500b6a9aee0,noncitizen.shoes,available,34.98,81.98,high,low,10,namecheap,,,
+3826146f-17e9-45fd-ae2c-797eb04701a3,measuring.shoes,available,39.99,,high,low,9,name.com,,,
+88f35b87-3eb8-4240-a1aa-82894c2b7e8d,committing.shoes,available,39.99,,high,low,10,name.com,,,
+ac169ebe-e407-4e78-bfd2-74fe13370a81,barebacked.shoes,available,34.98,81.98,medium,low,10,namecheap,,,08/08/2026 18:44
 164d2bcf-3761-4fe2-83c0-871dad130123,bash.shoes,available,39.99,,high,low,4,name.com,,,
-f1833839-a118-44ac-ba55-fc03e9e92db6,acetous.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-304292dd-0720-447d-9a3f-369e94fc32fa,adhominem.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-158ef43d-588e-4c24-bdc9-6fd4e2b788f9,olympicflame.shoes,available,39.99,,high,low,13,name.com,,,
+f1833839-a118-44ac-ba55-fc03e9e92db6,acetous.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
 12f2d4eb-5ddf-4684-85a7-4ac3c317d937,phase.shoes,available,39.99,,high,low,5,name.com,,,
 77a72a65-1c4c-40de-882a-3b535450a870,eliza.shoes,available,39.99,,high,low,5,name.com,,,
-10fdb2d1-5c32-4fb7-b0d3-40faf68aeb77,muffincup.shoes,available,39.99,,high,low,10,name.com,,,
-7cbbf4d4-1209-46a9-9f73-3d5ef44ecc35,obviously.shoes,available,39.99,,medium,low,9,name.com,,,
-fce5fb07-e286-42c5-82e2-319077e95955,advisory.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
+7cbbf4d4-1209-46a9-9f73-3d5ef44ecc35,obviously.shoes,available,39.99,,high,low,9,name.com,,,
+fce5fb07-e286-42c5-82e2-319077e95955,advisory.shoes,available,34.98,81.98,high,low,8,namecheap,,,
 948cfc06-12f3-41ec-bec6-ebe2fe188e3b,income.shoes,available,39.99,,high,low,6,name.com,,,
-2972cdad-cee5-462a-85de-05c18b431dbb,appellate.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 06:18
-1707d022-b7ec-4c35-8f04-6c897d698d78,geometry.shoes,available,39.99,,medium,low,8,name.com,,,
-25809f9c-ab6a-428e-baa6-a4297b3fdd2f,limiting.shoes,available,64.99,64.99,low,low,8,namesilo,,,23/09/2026 19:42
+2972cdad-cee5-462a-85de-05c18b431dbb,appellate.shoes,available,34.98,81.98,medium,low,9,namecheap,,,06/08/2026 06:18
+1707d022-b7ec-4c35-8f04-6c897d698d78,geometry.shoes,available,39.99,,high,low,8,name.com,,,
 983ab23b-39c8-473a-8285-83475f5b8133,organs.shoes,available,39.99,,high,low,6,name.com,,,
-b088d0b3-cf55-4f17-ba70-a7c9caa1f7fb,newyear.shoes,available,39.99,,medium,low,8,name.com,,,
 1665fb39-92d8-4411-af2f-6a1fb30bfe82,consensus.shoes,available,39.99,,high,low,9,name.com,,,
-424facfb-50b2-4907-a8f1-2af7f0a2faf8,useup.shoes,available,39.99,,low,low,6,name.com,,,
-29540545-58ae-43af-89e9-dbc84e9f38ec,bean.shoes,available,39.99,,medium,low,4,name.com,,,
+29540545-58ae-43af-89e9-dbc84e9f38ec,bean.shoes,available,39.99,,high,low,4,name.com,,,
 2e0c987d-4bdd-4c1e-9671-4bae504f4588,innocence.shoes,available,39.99,,high,low,9,name.com,,,
-93572e58-8f90-42e5-bd88-3332eff3f8cc,allergic.shoes,available,64.99,64.99,medium,low,8,namesilo,,,22/09/2026 01:25
-2733fff9-901c-4219-a0a5-83f420f974d5,atleast.shoes,available,39.99,,medium,low,8,name.com,,,
-0f1033a2-ad34-4132-a551-7afe5ef9874d,generalinsurance.shoes,available,39.99,,high,low,17,name.com,,,
-379b80b0-99db-412c-991b-de434b95a6e8,namely.shoes,available,39.99,,medium,low,6,name.com,,,
+379b80b0-99db-412c-991b-de434b95a6e8,namely.shoes,available,39.99,,high,low,6,name.com,,,
 6d3726ab-0c22-4b6d-bbda-fa3e00121f8f,supernatural.shoes,available,39.99,,high,low,12,name.com,,,
-e2d7cc11-b78a-4995-8206-80376fd0e7d4,whatisthat.shoes,available,39.99,,low,low,12,name.com,,,
-b580d916-d16d-4664-b82d-578cd3b048c8,bearsized.shoes,available,34.98,81.98,low,low,10,namecheap,,,09/08/2026 04:23
-6e6ab210-2f80-4e65-bc80-db8a1c127294,mobmentality.shoes,available,39.99,,medium,low,13,name.com,,,
-a10f9cf3-508d-4956-b57a-64512fe4d189,befouled.shoes,available,34.98,81.98,low,low,8,namecheap,,,09/08/2026 08:57
-c94e4bf3-9d71-40d3-baf8-00e17ce4bac5,analyzable.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-569654ab-3f0a-4623-a16c-42b2aaf02c6f,rheumy.shoes,available,34.98,81.98,low,low,6,namecheap,,,06/08/2026 23:15
-55ee9aec-2005-4bc4-9836-df7f235db1f0,oil.shoes,available,64.99,64.99,medium,low,3,namesilo,,,24/09/2026 02:16
-0094ee7e-4e90-423b-9e08-9c5cad0ff657,cracked.shoes,available,64.99,64.99,medium,low,7,namesilo,,,22/09/2026 01:30
-a9dfdf66-fe0d-420c-aec0-fdb2b380322d,playacting.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-6fcfc854-ede1-4b15-93da-419dbcb69d2b,alated.shoes,available,34.98,81.98,low,low,6,namecheap,,,
+c94e4bf3-9d71-40d3-baf8-00e17ce4bac5,analyzable.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+a9dfdf66-fe0d-420c-aec0-fdb2b380322d,playacting.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+6fcfc854-ede1-4b15-93da-419dbcb69d2b,alated.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
 f7177356-53da-4e28-b1b5-e39c8720caf2,fame.shoes,available,39.99,,high,low,4,name.com,,,
 24eaf21f-34ee-4e3e-801e-a937d2ac551e,drone.shoes,available,39.99,,high,medium,5,name.com,,,
 39a307ab-4dac-41d3-8a7c-31d791663357,church.shoes,premium,118.8,118.8,high,low,6,namesilo,,,
-6712d10b-d2ec-452e-af0c-2137e24ff4c0,bewildered.shoes,available,34.98,81.98,low,low,10,namecheap,,,07/08/2026 11:52
-cbe62952-7507-46c4-89be-6c8396ec2ec2,eyeofthestorm.shoes,available,39.99,,medium,low,16,name.com,,,
-a6b2aa4b-1ed5-4008-bcbd-3af8a82d35f1,gforce.shoes,available,39.99,,high,low,7,name.com,,,
+6712d10b-d2ec-452e-af0c-2137e24ff4c0,bewildered.shoes,available,34.98,81.98,medium,low,10,namecheap,,,07/08/2026 11:52
 a0e46fdd-d5d5-4ddf-ad16-0c1cbff62b42,unfair.shoes,available,39.99,,high,low,6,name.com,,,
-f278bb01-9a28-4618-abe2-c307876587ae,shocked.shoes,available,34.98,81.98,low,low,7,namecheap,,,
+f278bb01-9a28-4618-abe2-c307876587ae,shocked.shoes,available,34.98,81.98,high,low,7,namecheap,,,
 6b577566-c0b8-4ba6-9d5f-4db0a97e29af,preview.shoes,available,39.99,,high,low,7,name.com,,,
-1774dd51-7dea-4672-a91f-9c132a089854,teamup.shoes,available,39.99,,high,low,7,name.com,,,
-1de59738-2791-49ca-bbef-9c03e61c7de6,figures.shoes,available,39.99,,medium,low,7,name.com,,,
-c9b16f7e-eead-4330-adaf-8e00bb8bcb9c,pretended.shoes,available,34.98,81.98,low,low,9,namecheap,,,07/08/2026 08:01
-f5550de8-f359-45c3-b895-a5e8fcf3b87a,antarctic.shoes,available,34.98,81.98,low,low,9,namecheap,,,
+1de59738-2791-49ca-bbef-9c03e61c7de6,figures.shoes,available,39.99,,high,low,7,name.com,,,
+f5550de8-f359-45c3-b895-a5e8fcf3b87a,antarctic.shoes,available,34.98,81.98,high,low,9,namecheap,,,
 0a61bfd2-a4c2-4e2d-900f-7158d6ca1dc6,shallow.shoes,available,39.99,,medium,low,7,name.com,,,
-a43aca2c-817a-4411-822a-c2b541e7b441,annex.shoes,available,39.99,,medium,low,5,name.com,,,
-d3a1de4d-12a7-4b7c-9295-e4b553707083,dives.shoes,available,39.99,,medium,low,5,name.com,,,
-7af9b632-2b44-4ee8-91cc-adb691fe22c6,supplied.shoes,available,39.99,,low,low,8,name.com,,,
-b48d6a09-34fb-4f61-980d-c8e2d9f884e2,efficient.shoes,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 05:33
+a43aca2c-817a-4411-822a-c2b541e7b441,annex.shoes,available,39.99,,high,low,5,name.com,,,
+d3a1de4d-12a7-4b7c-9295-e4b553707083,dives.shoes,available,39.99,,high,low,5,name.com,,,
+7af9b632-2b44-4ee8-91cc-adb691fe22c6,supplied.shoes,available,39.99,,medium,low,8,name.com,,,
 b23187fe-dd2b-47f0-a78f-feed78cf5b69,jewish.shoes,available,39.99,,high,low,6,name.com,,,
-dc13a89d-598a-4ee4-a1ea-24777535a645,cleansing.shoes,available,34.98,81.98,low,low,9,namecheap,,,
+dc13a89d-598a-4ee4-a1ea-24777535a645,cleansing.shoes,available,34.98,81.98,high,low,9,namecheap,,,
 a0c443eb-9086-4283-8e43-67c81f8e0135,adviser.shoes,available,39.99,,high,low,7,name.com,,,
-6fb68759-ba7e-48ea-895c-e8d5939eded9,incidental.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-92009055-c58f-4d90-92e4-f335b0df761a,adequately.shoes,available,39.99,,medium,low,10,name.com,,,
-a32dd584-cbf5-4feb-bf8b-7d8d9d097da6,mere.shoes,available,39.99,,medium,low,4,name.com,,,
-f6ac0494-31e7-4632-b8ea-985bd5bc173e,slanting.shoes,available,34.98,81.98,low,low,8,namecheap,,,07/08/2026 04:20
-794a7bd2-6fce-4dd8-ad7a-9e13e71767c4,swift.shoes,available,,,medium,low,5,,,,
+6fb68759-ba7e-48ea-895c-e8d5939eded9,incidental.shoes,available,34.98,81.98,high,low,10,namecheap,,,
+92009055-c58f-4d90-92e4-f335b0df761a,adequately.shoes,available,39.99,,high,low,10,name.com,,,
+a32dd584-cbf5-4feb-bf8b-7d8d9d097da6,mere.shoes,available,39.99,,high,low,4,name.com,,,
+f6ac0494-31e7-4632-b8ea-985bd5bc173e,slanting.shoes,available,34.98,81.98,medium,low,8,namecheap,,,07/08/2026 04:20
 0abbef1c-d24f-4cb5-b376-ecf176444953,word.shoes,available,39.99,,high,low,4,name.com,,,
-8ed4ee3f-8ac2-4861-bc25-f23d7aa6088d,acritical.shoes,available,34.98,81.98,low,low,9,namecheap,,,
 0a639d9c-0125-4796-b916-27c6eadea861,pitching.shoes,available,39.99,,high,low,8,name.com,,,
-c320a857-f0dd-4e95-ad0b-8c3c9d540206,pulloff.shoes,available,39.99,,low,low,8,name.com,,,
-4c5f23a8-7de6-44f3-9134-2b022c88646e,officelandscape.shoes,available,39.99,,high,low,16,name.com,,,
-999f6a6c-c828-41f7-a02d-524adafd1c95,ascensive.shoes,available,34.98,81.98,low,low,9,namecheap,,,07/08/2026 00:46
-c4d41bff-cdf2-41dc-aa43-c1484bb65722,documentation.shoes,available,39.99,,medium,low,13,name.com,,,
-1d9bee6b-d485-40d6-9209-6a8fb04b4847,austenitic.shoes,available,34.98,81.98,low,low,10,namecheap,,,07/08/2026 18:21
+999f6a6c-c828-41f7-a02d-524adafd1c95,ascensive.shoes,available,34.98,81.98,medium,low,9,namecheap,,,07/08/2026 00:46
+c4d41bff-cdf2-41dc-aa43-c1484bb65722,documentation.shoes,available,39.99,,high,low,13,name.com,,,
 e540dcb9-e4b7-4b2f-9974-ace8e77a4389,count.shoes,available,39.99,,high,low,5,name.com,,,
-e6101184-f245-4ed0-b732-61f573788478,grandkid.shoes,available,39.99,,high,low,8,name.com,,,
-ea321cb5-c52c-4522-ab23-0b4e62b0b338,quickly.shoes,available,39.99,,medium,low,7,name.com,,,
-122f02b7-25d3-41f1-b6d8-d7d4f5c5680d,ontheplusside.shoes,available,39.99,,high,low,16,name.com,,,
+ea321cb5-c52c-4522-ab23-0b4e62b0b338,quickly.shoes,available,39.99,,high,low,7,name.com,,,
 c3cdf346-92df-4993-9a31-cfcdc11ef535,andromeda.shoes,available,39.99,,high,low,9,name.com,,,
-62ef7457-175c-48b7-9466-3a458191abdd,arch.shoes,available,64.99,64.99,low,low,4,namesilo,,,22/09/2026 07:38
 b480e39b-68b4-4028-9da7-b7fef6f69b33,bellicose.shoes,available,34.98,81.98,low,low,9,namecheap,,,09/08/2026 01:44
-fcd20689-a823-4fa4-94c5-18ad3f084dc1,verymuch.shoes,available,39.99,,high,low,9,name.com,,,
-2e9a4c74-c3f0-451b-a4f9-6682a90b4df4,inexpert.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-b9311fbd-2b09-4940-ada6-6f52828b845a,prior.shoes,available,39.99,,medium,low,5,name.com,,,
-788accbd-adda-47f7-9bb6-3eb4c3b72dbe,shaking.shoes,available,39.99,,medium,low,7,name.com,,,
-ac4484f1-0763-4235-ac3e-1839620edf79,barred.shoes,available,34.98,81.98,low,low,6,namecheap,,,08/08/2026 20:37
+b9311fbd-2b09-4940-ada6-6f52828b845a,prior.shoes,available,39.99,,high,low,5,name.com,,,
+788accbd-adda-47f7-9bb6-3eb4c3b72dbe,shaking.shoes,available,39.99,,high,low,7,name.com,,,
+ac4484f1-0763-4235-ac3e-1839620edf79,barred.shoes,available,34.98,81.98,medium,low,6,namecheap,,,08/08/2026 20:37
 848d2c97-0263-4307-bac5-8172f8789523,indeed.shoes,available,,,high,low,6,,,,
-e6759ea0-859b-47b2-8544-e5efe74549ca,astronomic.shoes,available,34.98,81.98,low,low,10,namecheap,,,07/08/2026 10:10
-fc43dde3-d55b-431c-b3c9-9e9c1a0f99d9,holly.shoes,available,39.99,,medium,low,5,name.com,,,
-ac6362ef-a2b8-4d19-a768-cf6a49fec571,babelike.shoes,available,34.98,81.98,low,low,8,namecheap,,,08/08/2026 03:37
-fd1d1abe-7d1f-4416-9f10-4a6b60e4bb9a,accrued.shoes,available,34.98,81.98,low,low,7,namecheap,,,
+e6759ea0-859b-47b2-8544-e5efe74549ca,astronomic.shoes,available,34.98,81.98,medium,low,10,namecheap,,,07/08/2026 10:10
+fc43dde3-d55b-431c-b3c9-9e9c1a0f99d9,holly.shoes,available,39.99,,high,low,5,name.com,,,
+fd1d1abe-7d1f-4416-9f10-4a6b60e4bb9a,accrued.shoes,available,34.98,81.98,high,low,7,namecheap,,,
 f51fb9b0-5c99-450a-bba0-3cd7796015b3,snicker.shoes,available,39.99,,high,low,7,name.com,,,
-9219ee6e-c396-4cb3-9d72-312642cd968b,atypical.shoes,available,34.98,81.98,medium,low,8,namecheap,,,07/08/2026 16:06
+9219ee6e-c396-4cb3-9d72-312642cd968b,atypical.shoes,available,34.98,81.98,high,low,8,namecheap,,,07/08/2026 16:06
 0b93f92e-dab2-4a2e-88f2-bd4cb07db356,expedite.shoes,available,39.99,,high,low,8,name.com,,,
-1f8963ff-b4a6-4ef5-ac10-4b528429551b,seriousness.shoes,available,39.99,,low,low,11,name.com,,,
 85cbb549-5fc7-4991-9b5b-c382632f806e,upstairs.shoes,available,39.99,,high,low,8,name.com,,,
-8c7f8e72-c1a5-4d6a-a4cb-9cf0d598acd9,attack.shoes,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 17:14
-76e4e113-1e47-4075-93d1-5c4c2a1d4d87,razor.shoes,available,39.99,,medium,low,5,name.com,,,
+76e4e113-1e47-4075-93d1-5c4c2a1d4d87,razor.shoes,available,39.99,,high,low,5,name.com,,,
 ff0c92ba-89b1-4626-8152-a40da4ece00b,car.shoes,available,39.99,,high,medium,3,name.com,,,
 8ea67f15-63c0-4ce9-b2cb-79907d0199a8,blowout.shoes,available,39.99,,high,low,7,name.com,,,
 d36580e8-ddec-4498-878a-d5bd443a83c8,manner.shoes,available,39.99,,high,low,6,name.com,,,
 4a74f053-2670-40e1-a4c4-1e6f8f3eda72,kangeroo.shoes,available,39.99,,high,low,8,name.com,,,
-a4449387-fa0a-4990-8c9e-93cb61c5d1ba,bareassed.shoes,available,34.98,81.98,low,low,10,namecheap,,,08/08/2026 18:05
-d45ef979-8535-4981-af82-231ed9e19895,hidden.shoes,available,34.98,81.98,low,low,6,namecheap,,,23/09/2026 18:38
-d7e1491d-e922-421d-8be8-dc0d874d10c5,befitting.shoes,available,34.98,81.98,low,low,9,namecheap,,,09/08/2026 08:38
-133bca02-9881-4a74-ad37-122adb3b4182,gillless.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-3b84fca3-882b-4fc6-9a1f-098480d86ef3,poor.shoes,available,39.99,,medium,low,4,name.com,,,
-bad08e6e-5ffb-4197-a443-363ef0dfde60,foodbank.shoes,available,39.99,,high,low,9,name.com,,,
-0e3ec933-6f58-49e5-9fb3-a845485ed354,tonic.shoes,available,64.99,64.99,medium,low,5,namesilo,,,19/09/2026 16:01
+d7e1491d-e922-421d-8be8-dc0d874d10c5,befitting.shoes,available,34.98,81.98,medium,low,9,namecheap,,,09/08/2026 08:38
 b6a0e9cb-49d2-4944-8cb4-9144ab570a94,antioxidant.shoes,available,39.99,,high,low,11,name.com,,,
-ce234be1-4b2b-486d-9f1f-0739cb84379d,bread.shoes,available,34.98,81.98,medium,low,5,namecheap,,,08/09/2026 03:15
-0238db86-0199-4279-9d8d-4217f095c84b,wowfactor.shoes,available,39.99,,high,low,10,name.com,,,
-0b83c87d-98db-45f4-a8eb-faf8d0733900,bandy.shoes,available,34.98,81.98,low,low,5,namecheap,,,08/08/2026 11:45
-2071dd48-9645-49ce-ba41-4476bafa18f0,bali.shoes,available,39.99,,medium,medium,4,name.com,,,
-8f310606-2173-4f9a-8faf-28d29c1c1a58,newsgroup.shoes,available,39.99,,medium,low,9,name.com,,,
-26316847-521e-4051-b7a5-15055069c13e,plate.shoes,available,39.99,,medium,low,5,name.com,,,
-e55d7077-07eb-421d-8d63-c91df9cc262d,bawdy.shoes,available,34.98,81.98,low,low,5,namecheap,,,09/08/2026 02:05
-92337f32-08bb-4557-86e7-cd842c5bbdb3,gregg.shoes,available,39.99,,medium,low,5,name.com,,,
-6b7bb59c-db19-4c7a-bec4-b9fe26c035a7,notime.shoes,available,39.99,,low,low,7,name.com,,,
-97ecc387-a3c1-447a-8670-79ce93beffd6,twentyfour.shoes,available,39.99,,low,low,11,name.com,,,
-28a57d50-b4ad-464c-99d9-dfefb223d9af,gregor.shoes,available,39.99,,medium,low,6,name.com,,,
+ce234be1-4b2b-486d-9f1f-0739cb84379d,bread.shoes,available,34.98,81.98,high,low,5,namecheap,,,08/09/2026 03:15
+0b83c87d-98db-45f4-a8eb-faf8d0733900,bandy.shoes,available,34.98,81.98,medium,low,5,namecheap,,,08/08/2026 11:45
+2071dd48-9645-49ce-ba41-4476bafa18f0,bali.shoes,available,39.99,,high,medium,4,name.com,,,
+8f310606-2173-4f9a-8faf-28d29c1c1a58,newsgroup.shoes,available,39.99,,high,low,9,name.com,,,
+26316847-521e-4051-b7a5-15055069c13e,plate.shoes,available,39.99,,high,low,5,name.com,,,
+e55d7077-07eb-421d-8d63-c91df9cc262d,bawdy.shoes,available,34.98,81.98,medium,low,5,namecheap,,,09/08/2026 02:05
+92337f32-08bb-4557-86e7-cd842c5bbdb3,gregg.shoes,available,39.99,,high,low,5,name.com,,,
+28a57d50-b4ad-464c-99d9-dfefb223d9af,gregor.shoes,available,39.99,,high,low,6,name.com,,,
 89483b70-4d45-4064-89f5-3145214cd73c,lace.shoes,premium,118.8,118.8,high,low,4,namesilo,,,
-13673cc1-b950-4da0-9073-e8cabd061788,literally.shoes,available,39.99,,medium,low,9,name.com,,,
+13673cc1-b950-4da0-9073-e8cabd061788,literally.shoes,available,39.99,,high,low,9,name.com,,,
 9fa7a948-77a4-4863-b79a-534aa21dd5d4,its.shoes,available,39.99,,high,medium,3,name.com,,,
-041983f5-d1d8-4629-9383-7e0cb8e392ca,heel.shoes,resell,,,medium,low,4,Dynadot Inc,01/04/2021 23:18,01/04/2027 23:18,
-8eeea70c-61a2-41f3-9a77-9aaf5f0f43a3,twentieth.shoes,available,64.99,64.99,medium,low,9,namesilo,,,21/09/2026 12:27
-cee5fcd4-f7fd-455b-93b9-17c8711c4d32,amnesic.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-b170ba41-8aec-4967-bfe8-36ccc3f64257,chance.shoes,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 13:44
-abae3dbb-7d51-4465-a586-b8526765c28c,infuriated.shoes,available,34.98,81.98,low,low,10,namecheap,,,
+041983f5-d1d8-4629-9383-7e0cb8e392ca,heel.shoes,resell,,,high,low,4,Dynadot Inc,01/04/2021 23:18,01/04/2027 23:18,
+cee5fcd4-f7fd-455b-93b9-17c8711c4d32,amnesic.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
+abae3dbb-7d51-4465-a586-b8526765c28c,infuriated.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
 67da5486-7834-4f48-9d2c-30dc11d597aa,airplane.shoes,available,39.99,,high,low,8,name.com,,,
-eeef40ab-0c36-453e-bbb1-78311e3ac34e,relate.shoes,available,34.98,81.98,low,low,6,namecheap,,,07/08/2026 07:03
+eeef40ab-0c36-453e-bbb1-78311e3ac34e,relate.shoes,available,34.98,81.98,high,low,6,namecheap,,,07/08/2026 07:03
 3580f653-2a33-453b-8b53-d5deee27d52e,adorables.shoes,available,39.99,,high,low,9,name.com,,,
-ca46a4fc-d931-4e46-aab8-8bec82c1fca2,mitigative.shoes,available,34.98,81.98,low,low,10,namecheap,,,
 75e6b55e-d8cb-421b-9964-2da50573a911,cucumber.shoes,available,39.99,,high,low,8,name.com,,,
-e538ecac-1a77-46f5-844b-bbb73c9d026f,istandcorrected.shoes,available,39.99,,medium,low,17,name.com,,,
-a8a73a32-18b9-4f0b-a2ad-b761d3ff7cff,selfless.shoes,available,34.98,81.98,medium,low,8,namecheap,,,22/09/2026 02:51
-1b79937d-8b92-4bb2-a715-2979402971db,punk.shoes,available,64.99,64.99,medium,low,4,namesilo,,,23/09/2026 11:14
-8c8a7c39-27e7-4af3-9102-4fa53e8fc6cf,convenient.shoes,available,34.98,81.98,medium,low,10,namecheap,,,23/09/2026 15:48
 64adb388-7ba1-4d1b-bed0-3d486a796ae3,pope.shoes,available,39.99,,high,low,4,name.com,,,
-e8804838-cd13-457a-8be3-31a4e2469e5b,capable.shoes,available,34.98,81.98,medium,low,7,namecheap,,,21/09/2026 18:33
-b93a6b41-996c-49f9-ab47-b1109e9ad378,acrophobic.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-9f284c39-e35d-40bc-9d54-bdc333cdd3e1,laurelandhardy.shoes,available,39.99,,medium,low,16,name.com,,,
 5879d29c-6594-44c1-a1aa-a7ca0339fd36,anybody.shoes,available,39.99,,medium,low,7,name.com,,,
-1f0fcb21-27d9-4fd2-8382-dda35d6e529f,ametabolic.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-35b69994-a0d7-496a-a151-c03d932de816,completing.shoes,available,64.99,64.99,low,low,10,namesilo,,,23/09/2026 17:20
-b28a3bdc-4256-45c8-8990-5b8ed46e6c62,calloff.shoes,available,39.99,,medium,low,8,name.com,,,
 e948d1f5-1529-4748-b8f6-fc84da7f98c0,tues.shoes,available,39.99,,high,low,4,name.com,,,
-f73a7e20-f260-4f5a-8b26-fc6f55e6b57f,diagonal.shoes,available,34.98,81.98,low,low,8,namecheap,,,07/08/2026 04:07
+f73a7e20-f260-4f5a-8b26-fc6f55e6b57f,diagonal.shoes,available,34.98,81.98,medium,low,8,namecheap,,,07/08/2026 04:07
 5eade5a4-52a1-45cf-ba48-fec5d5855dac,stepson.shoes,available,39.99,,high,low,7,name.com,,,
-88c663c7-6699-421e-a3f2-8f6b7500e4c8,apsidal.shoes,available,34.98,81.98,low,low,7,namecheap,,,06/08/2026 10:18
-0c2ba9ef-e733-4afe-9e19-8778e3d1eeda,onschedule.shoes,available,39.99,,high,low,11,name.com,,,
-f16bc2ba-db8d-460a-bef3-ba303ac99779,databaseanalyst.shoes,available,39.99,,medium,low,16,name.com,,,
-2a65f662-0bb1-4eab-bb86-4326fa9ec2ef,idarebebound.shoes,available,39.99,,medium,low,15,name.com,,,
-c9b6b9c1-9959-4d4c-9e91-4f6a135c75a3,fuzzy.shoes,available,64.99,64.99,low,low,5,namesilo,,,22/09/2026 23:28
+88c663c7-6699-421e-a3f2-8f6b7500e4c8,apsidal.shoes,available,34.98,81.98,medium,low,7,namecheap,,,06/08/2026 10:18
 317d68e3-5941-4ba4-8ce0-3d110ee84ada,list.shoes,available,39.99,,high,low,4,name.com,,,
-f9db744d-f916-491d-8f64-2397710d0186,cover.shoes,available,34.98,81.98,medium,low,5,namecheap,,,22/09/2026 21:52
-fe03e954-06be-42ee-b06b-a09e261e900d,nowandagain.shoes,available,39.99,,low,low,13,name.com,,,
-31fc48c6-d973-41d9-86ff-79edfac05907,helminthic.shoes,available,34.98,81.98,low,low,10,namecheap,,,
 07f15640-baeb-4404-851c-f3464325c9cf,bridget.shoes,available,39.99,,high,low,7,name.com,,,
-9c2a4527-0d06-4d46-9319-1aad5295f304,englishspeaking.shoes,available,39.99,,medium,low,16,name.com,,,
-68e2bf8b-827f-4c2e-b38b-de3f29c5bbc1,ifallen.shoes,available,39.99,,medium,low,8,name.com,,,
-adb82375-2f75-4c60-ad43-1c86682c35ff,amylaceous.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-136d34ca-7ae2-48ca-94fb-8d6c7a8338b3,correct.shoes,available,64.99,64.99,medium,low,7,namesilo,,,23/09/2026 23:33
-d697f167-e866-4572-a788-17220f8aded5,gotoilet.shoes,available,39.99,,medium,low,9,name.com,,,
-697da3af-7d71-4494-89e2-a9bd669a67ad,conclusive.shoes,premium,39.99,,medium,low,10,name.com,,,23/09/2026 19:11
+adb82375-2f75-4c60-ad43-1c86682c35ff,amylaceous.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
 2a8cabe6-f764-44b9-95bb-328bc9df484f,peaceful.shoes,available,39.99,,high,low,8,name.com,,,
-b9bf8d47-fe94-4179-a0f9-0b0c5557e7a1,practicalnurse.shoes,available,39.99,,high,low,15,name.com,,,
-ff6367da-432a-4d9e-b2db-562b53b60d43,fell.shoes,available,34.98,81.98,low,low,4,namecheap,,,08/08/2026 15:49
-730c14ab-ded7-4195-abdf-6a4c28380ed0,multiplication.shoes,available,39.99,,low,low,14,name.com,,,
-302cdbe5-507f-4f9d-b36a-2d2d7cccd6ef,town.shoes,premium,118.8,118.8,medium,low,4,namesilo,,,
+ff6367da-432a-4d9e-b2db-562b53b60d43,fell.shoes,available,34.98,81.98,high,low,4,namecheap,,,08/08/2026 15:49
+730c14ab-ded7-4195-abdf-6a4c28380ed0,multiplication.shoes,available,39.99,,medium,low,14,name.com,,,
+302cdbe5-507f-4f9d-b36a-2d2d7cccd6ef,town.shoes,premium,118.8,118.8,high,low,4,namesilo,,,
 a2a0c4b5-3491-49c1-9d2c-35d650848ae8,supplier.shoes,available,39.99,,high,low,8,name.com,,,
 edaf219c-988c-440c-978c-d193bea089d9,bayer.shoes,available,,,high,low,5,,,,
-36160b30-417f-42e3-a993-b31f36597ed9,mothahfuggah.shoes,available,39.99,,medium,low,12,name.com,,,
-44de61bf-4f9b-4ead-97e6-9cff8af3a6ae,inthehand.shoes,available,39.99,,medium,low,11,name.com,,,
-fc598eff-4f4b-4c92-9eca-c1a783174a43,advised.shoes,available,34.98,81.98,low,low,7,namecheap,,,23/09/2026 07:10
-21917c50-6ff4-4ae4-9acb-fc6b5cbc0f90,ripening.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-0230c488-4823-4f34-a0d6-fa5f9385e832,bomb.shoes,available,39.99,,medium,low,4,name.com,,,
-85fa03b0-ff3d-4a07-8da2-a7d057ba6ec0,mordacious.shoes,available,34.98,81.98,low,low,10,namecheap,,,08/08/2026 16:52
-5ff86d01-534a-4d2f-b58b-b379fe64bf43,youknowit.shoes,available,39.99,,high,low,11,name.com,,,
+21917c50-6ff4-4ae4-9acb-fc6b5cbc0f90,ripening.shoes,available,34.98,81.98,high,low,8,namecheap,,,
+0230c488-4823-4f34-a0d6-fa5f9385e832,bomb.shoes,available,39.99,,high,low,4,name.com,,,
 196feea2-553a-430b-851a-dfb3c6d8b529,whereas.shoes,available,39.99,,high,low,7,name.com,,,
 6e538293-61c2-478c-ba2b-04e96c645ac3,feelings.shoes,available,39.99,,high,low,8,name.com,,,
 655046fc-75f2-45c7-ac23-55b1c6a439d3,boxing.shoes,resell,,,high,low,6,Porkbun LLC,04/10/2025 10:48,04/10/2026 10:48,
-09e15a45-e140-4317-9107-98db1458bfe2,blind.shoes,available,64.99,64.99,low,low,5,namesilo,,,22/09/2026 21:56
 3a438b6d-01b0-4eeb-8c51-9b670dcf4c15,stereotype.shoes,available,39.99,,high,low,10,name.com,,,
-b5a5b4e2-aa84-48b8-929a-b8b0b3875148,abdicable.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-45eea88d-0333-49d4-8c8d-6e454250eb34,flickering.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-5ff2bdfe-feb3-41b6-8a4d-6c64faa12716,dothedishes.shoes,available,39.99,,medium,low,13,name.com,,,
-7cb191a5-7262-43dd-acd0-63c6829fc30f,ontheroad.shoes,available,39.99,,low,low,11,name.com,,,
+b5a5b4e2-aa84-48b8-929a-b8b0b3875148,abdicable.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+45eea88d-0333-49d4-8c8d-6e454250eb34,flickering.shoes,available,34.98,81.98,high,low,10,namecheap,,,
 14932461-0d0b-4a75-b42f-83d7783fb474,astound.shoes,available,39.99,,high,low,7,name.com,,,
-91a0b4f2-9750-4ac9-912d-f8b86e066ff6,fla.shoes,available,39.99,,medium,low,3,name.com,,,
+91a0b4f2-9750-4ac9-912d-f8b86e066ff6,fla.shoes,available,39.99,,high,low,3,name.com,,,
 b4616b85-e48b-481f-9809-ef4f29b555ce,despite.shoes,available,39.99,,high,low,7,name.com,,,
-39f54d19-9560-4396-bbd9-445914bae776,knowsomeone.shoes,available,39.99,,medium,low,12,name.com,,,
-2ae6174e-379c-4830-9394-491919c0b17e,chiliad.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-b2750ea3-ad29-4f5b-9369-95acd66a4d69,tectonic.shoes,available,34.98,81.98,low,low,8,namecheap,,,06/08/2026 15:47
+2ae6174e-379c-4830-9394-491919c0b17e,chiliad.shoes,available,34.98,81.98,high,low,7,namecheap,,,
+b2750ea3-ad29-4f5b-9369-95acd66a4d69,tectonic.shoes,available,34.98,81.98,high,low,8,namecheap,,,06/08/2026 15:47
 465404a0-844e-4b90-b7e1-979a34e4c12b,prudent.shoes,available,39.99,,high,low,7,name.com,,,
-a5f2f13b-10df-412f-a89c-346b19bea943,rejection.shoes,available,39.99,,medium,low,9,name.com,,,
-b44f475b-f814-4a7e-8150-afce3b1f114b,gun.shoes,available,39.99,,medium,low,3,name.com,,,
-fcb43585-85cf-42f5-925b-8ab7203c8ad4,yeahnah.shoes,available,39.99,,low,low,8,name.com,,,
-236fb693-80e1-4070-ac33-ef00a4e2857e,cleveland.shoes,available,39.99,,medium,low,9,name.com,,,
+a5f2f13b-10df-412f-a89c-346b19bea943,rejection.shoes,available,39.99,,high,low,9,name.com,,,
+b44f475b-f814-4a7e-8150-afce3b1f114b,gun.shoes,available,39.99,,high,low,3,name.com,,,
+236fb693-80e1-4070-ac33-ef00a4e2857e,cleveland.shoes,available,39.99,,high,low,9,name.com,,,
 e7825763-185c-472c-9508-8ec1d70d393e,convince.shoes,available,39.99,,high,low,8,name.com,,,
-af7b8875-74dd-409f-8a09-982d464064c1,basic.shoes,available,34.98,81.98,low,low,5,namecheap,,,22/09/2026 17:57
 687d681d-1db6-4908-9c8a-b31dd890dd2d,allergy.shoes,available,39.99,,high,low,7,name.com,,,
-41dad81e-9068-450d-9e79-913e34a1221d,hangloose.shoes,available,39.99,,high,low,10,name.com,,,
 9de02b58-5c45-4a17-9c59-0ad00494cd62,grinning.shoes,available,39.99,,high,low,8,name.com,,,
-9fd66f5e-f8f8-42f5-a636-ba0aa5681767,subsidiary.shoes,available,34.98,81.98,medium,low,10,namecheap,,,22/09/2026 14:17
-a51e0274-d5fd-486d-a119-979985988d73,twinkly.shoes,available,34.98,81.98,low,low,7,namecheap,,,09/08/2026 04:13
+a51e0274-d5fd-486d-a119-979985988d73,twinkly.shoes,available,34.98,81.98,medium,low,7,namecheap,,,09/08/2026 04:13
 ed51afcf-41b3-4585-9c88-5c9f96ed2801,perceiving.shoes,available,39.99,,high,low,10,name.com,,,
 0736aa87-01aa-41f0-87f0-2bfc4606bd84,hang.shoes,available,39.99,,high,low,4,name.com,,,
-6bfc974a-f88a-49a8-a401-0bae9c38a396,mouthtomouth.shoes,available,39.99,,low,low,14,name.com,,,
 5aa450b6-2ab9-49c3-8541-49ae776e0cfe,variable.shoes,available,39.99,,high,low,8,name.com,,,
 f98dbb9b-0dc7-425c-a499-f532f38eec82,tug.shoes,available,39.99,,high,low,3,name.com,,,
-f545ba47-0ed5-436b-b1c4-0c8bd7a51ee2,myson.shoes,available,39.99,,high,low,6,name.com,,,
-75e56575-7275-4737-ab25-6ed0e3dec41a,ecru.shoes,available,34.98,81.98,low,low,4,namecheap,,,09/08/2026 12:26
+75e56575-7275-4737-ab25-6ed0e3dec41a,ecru.shoes,available,34.98,81.98,medium,low,4,namecheap,,,09/08/2026 12:26
 92a75a8f-0a83-456e-88ed-3cc6afe39abe,chips.shoes,available,39.99,,high,low,5,name.com,,,
-52bbc189-cf67-4244-a78d-3d8a90c5ac2c,amorous.shoes,available,64.99,64.99,low,low,7,namesilo,,,22/09/2026 03:25
 50c754d5-1331-4213-ba88-3a26cc7fcc58,saucepan.shoes,available,39.99,,high,low,8,name.com,,,
 a2dbf602-90f3-438f-a171-acd95b57a357,moment.shoes,available,39.99,,high,low,6,name.com,,,
-510ad70a-2a09-4403-b61f-d884a342434e,trip.shoes,available,34.98,81.98,medium,low,4,namecheap,,,08/09/2026 04:57
-92513c78-a5e5-4929-bf7f-5cb377b0ac51,beetling.shoes,available,34.98,81.98,low,low,8,namecheap,,,09/08/2026 08:22
-d25524e2-1796-4b67-98ab-422c8c8016e0,hey.shoes,available,39.99,,medium,medium,3,name.com,,,
-004aaaff-3329-452a-b728-25c4347cdcd8,becalmed.shoes,available,34.98,81.98,low,low,8,namecheap,,,09/08/2026 06:03
-37af152a-7e50-4dfc-9ab7-c437f05986bf,vantagepoint.shoes,available,39.99,,high,low,13,name.com,,,
+510ad70a-2a09-4403-b61f-d884a342434e,trip.shoes,available,34.98,81.98,high,low,4,namecheap,,,08/09/2026 04:57
+92513c78-a5e5-4929-bf7f-5cb377b0ac51,beetling.shoes,available,34.98,81.98,medium,low,8,namecheap,,,09/08/2026 08:22
+d25524e2-1796-4b67-98ab-422c8c8016e0,hey.shoes,available,39.99,,high,medium,3,name.com,,,
+004aaaff-3329-452a-b728-25c4347cdcd8,becalmed.shoes,available,34.98,81.98,medium,low,8,namecheap,,,09/08/2026 06:03
 1244148c-38c0-425b-bef2-854a50eddbc9,uncover.shoes,available,39.99,,high,low,7,name.com,,,
-0b8b5006-d00c-4980-9067-149c312659ca,actiongame.shoes,available,39.99,,high,low,11,name.com,,,
 c5dce25f-1c21-4496-9487-a53b1707d4e5,donation.shoes,available,39.99,,high,low,8,name.com,,,
-59abd473-6526-40ed-aece-227dc5f341db,abuzz.shoes,available,34.98,81.98,low,low,5,namecheap,,,
-fbddc49f-a4e8-42d0-8569-cef73bf343d4,prevention.shoes,available,34.98,81.98,medium,low,10,namecheap,,,08/09/2026 14:09
-374c2d87-27aa-4812-afeb-f840adf0de77,dreadful.shoes,available,64.99,64.99,low,low,8,namesilo,,,22/09/2026 15:15
-0aa9f0f5-4c94-4a3d-ad1d-d492db5264fc,siamesecat.shoes,available,39.99,,high,low,11,name.com,,,
-06784c2f-bd66-4980-97cb-efcbee3463e8,abandoned.shoes,available,64.99,64.99,low,low,9,namesilo,,,21/09/2026 13:36
+59abd473-6526-40ed-aece-227dc5f341db,abuzz.shoes,available,34.98,81.98,high,low,5,namecheap,,,
+fbddc49f-a4e8-42d0-8569-cef73bf343d4,prevention.shoes,available,34.98,81.98,high,low,10,namecheap,,,08/09/2026 14:09
 e0a232b4-ed1c-47b2-9183-660eb7bf22d2,vibrate.shoes,available,39.99,,high,low,7,name.com,,,
 c7c1b5b6-4767-4fc7-b2f3-f3d94595be99,times.shoes,available,39.99,,high,low,5,name.com,,,
-f2a42251-10ee-48f2-a29c-7e139674e257,chief.shoes,available,64.99,64.99,medium,low,5,namesilo,,,23/09/2026 00:59
 87b7e593-10c1-4966-8a72-acc09a8635fd,disapproval.shoes,available,39.99,,medium,low,11,name.com,,,
-e5880975-efcf-4617-b6f8-d282d7278456,phoney.shoes,available,34.98,81.98,low,low,6,namecheap,,,08/08/2026 23:14
-9e6f69bc-f736-4044-b9c6-3fa0cc418337,lowpriced.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-0ecd44fa-73d6-4ccf-b86b-719f799e54c5,effectively.shoes,available,39.99,,medium,low,11,name.com,,,
-8c36a8a4-1158-41a3-aab3-0c7037ab78be,armlike.shoes,available,34.98,81.98,low,low,7,namecheap,,,06/08/2026 19:59
-762d1899-6f67-4e4f-8bfa-f70125e8e08b,peer.shoes,available,39.99,,high,low,4,name.com,,,
-810e8eeb-60db-4326-a720-8ef99870a588,atsixandseven.shoes,available,39.99,,medium,low,16,name.com,,,
-b2e2c52c-0a73-45cb-95cc-e3b5a471abc2,havegot.shoes,available,39.99,,high,low,8,name.com,,,
+e5880975-efcf-4617-b6f8-d282d7278456,phoney.shoes,available,34.98,81.98,medium,low,6,namecheap,,,08/08/2026 23:14
+0ecd44fa-73d6-4ccf-b86b-719f799e54c5,effectively.shoes,available,39.99,,high,low,11,name.com,,,
 c73ba565-327f-4276-8bd8-a3a90b5aefd1,pita.shoes,available,39.99,,high,low,4,name.com,,,
-4429be33-8d77-49bd-bb4f-12d0ef8d7364,adorable.shoes,available,34.98,81.98,medium,low,8,namecheap,,,21/09/2026 19:18
-039b4e0e-2ae9-48ce-81ee-c9f2157000fd,acknowledge.shoes,available,39.99,,medium,low,11,name.com,,,
+039b4e0e-2ae9-48ce-81ee-c9f2157000fd,acknowledge.shoes,available,39.99,,high,low,11,name.com,,,
 6b9f4193-a2ce-4899-9e03-40499e98c0d2,november.shoes,available,39.99,,high,low,8,name.com,,,
-ccf827f7-d8a4-4139-9b03-1fe18c4c889e,damn.shoes,available,64.99,64.99,medium,low,4,namesilo,,,22/09/2026 00:35
-e86fbf35-9534-4d40-ba38-98539063fe63,manytime.shoes,available,39.99,,medium,low,9,name.com,,,
-01f0d655-38e1-4917-8ee7-f6550135848f,elusive.shoes,available,34.98,81.98,low,low,7,namecheap,,,08/08/2026 08:07
+01f0d655-38e1-4917-8ee7-f6550135848f,elusive.shoes,available,34.98,81.98,high,low,7,namecheap,,,08/08/2026 08:07
 4d0dbc0b-0dd3-4d25-b9e5-bf79774ff6d0,session.shoes,available,39.99,,high,low,7,name.com,,,
 bef0c20e-2c2b-4b3a-9084-cec3dee8416a,thank.shoes,available,39.99,,high,low,5,name.com,,,
-cdc7c80e-47b3-4da7-8934-6559e7196534,heck.shoes,available,39.99,,medium,low,4,name.com,,,
-64799c18-e75f-49b8-b83c-490588ab0d46,corny.shoes,available,64.99,64.99,low,low,5,namesilo,,,23/09/2026 23:25
-f1f8b05b-0f37-4ddf-98b1-f023891c30aa,crosswordpuzzle.shoes,available,39.99,,high,low,16,name.com,,,
-d093d1ef-d4f6-4ae9-bd0e-d063e6c92cfb,humourous.shoes,available,39.99,,high,low,9,name.com,,,
+cdc7c80e-47b3-4da7-8934-6559e7196534,heck.shoes,available,39.99,,high,low,4,name.com,,,
 b828cde6-155c-4f67-8cbc-b1f92968c58b,boo.shoes,available,39.99,,high,low,3,name.com,,,
-da4d3727-18c7-40e2-8951-3d84ac020cdf,returned.shoes,available,39.99,,medium,low,8,name.com,,,
-f76ba70a-7d97-41fa-97fa-25df9c611e2b,true.shoes,available,64.99,64.99,medium,low,4,namesilo,,,24/09/2026 04:47
+da4d3727-18c7-40e2-8951-3d84ac020cdf,returned.shoes,available,39.99,,high,low,8,name.com,,,
 14fdf3e6-78df-48dd-b949-b3a9ebe25474,young.shoes,premium,118.8,118.8,high,low,5,namesilo,,,
-1381d70d-9467-46f0-9428-195c6c2856a9,grownup.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-7b4d5cfd-e4cc-45ac-80d4-19015edf8ec8,wild.shoes,available,64.99,64.99,low,low,4,namesilo,,,22/09/2026 17:18
-d9018e52-b6e5-460a-82d0-1532e185069b,calm.shoes,available,64.99,64.99,medium,low,4,namesilo,,,23/09/2026 12:30
+1381d70d-9467-46f0-9428-195c6c2856a9,grownup.shoes,available,34.98,81.98,high,low,7,namecheap,,,
 344195fd-ee66-4284-a2de-e9cbf0e11852,regret.shoes,available,39.99,,high,low,6,name.com,,,
-e7051971-d488-49e3-a336-d4ac33ae9139,belated.shoes,available,34.98,81.98,low,low,7,namecheap,,,09/08/2026 12:37
-a09a50ea-f50f-4462-b00a-cf3ac2af48ae,assigned.shoes,available,34.98,81.98,low,low,8,namecheap,,,07/08/2026 06:35
+e7051971-d488-49e3-a336-d4ac33ae9139,belated.shoes,available,34.98,81.98,medium,low,7,namecheap,,,09/08/2026 12:37
+a09a50ea-f50f-4462-b00a-cf3ac2af48ae,assigned.shoes,available,34.98,81.98,medium,low,8,namecheap,,,07/08/2026 06:35
 94371d73-687b-4aa1-9da1-ae06149691fd,sentence.shoes,available,39.99,,high,low,8,name.com,,,
 aceb7453-c1db-4c6a-8a32-94c95c87ea95,effect.shoes,available,39.99,,high,low,6,name.com,,,
-e3dbfa23-2350-4c56-be88-30fad449b38a,stmoritz.shoes,available,39.99,,medium,low,10,name.com,,,
-c874f425-252f-4e89-9cf5-ff18e46583bb,theft.shoes,available,64.99,64.99,low,low,5,namesilo,,,08/09/2026 07:55
-847b2581-2e0a-4d91-a80b-bac5eb7d48ed,travelled.shoes,available,39.99,,medium,low,9,name.com,,,
+c874f425-252f-4e89-9cf5-ff18e46583bb,theft.shoes,available,64.99,64.99,high,low,5,namesilo,,,08/09/2026 07:55
+847b2581-2e0a-4d91-a80b-bac5eb7d48ed,travelled.shoes,available,39.99,,high,low,9,name.com,,,
 c3d455bd-3fcb-43d2-bda5-ace5c2e0b659,hazard.shoes,available,39.99,,medium,low,6,name.com,,,
 73ee5a04-a110-47d8-a6e4-78008a74c4be,cannot.shoes,available,39.99,,high,low,6,name.com,,,
-3773c0f1-a4ab-45f9-b546-ed1935b31170,araneidan.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 12:24
-19c67c19-af3b-4a46-8873-c51acd4aa304,controversial.shoes,available,39.99,,high,low,13,name.com,,,
+19c67c19-af3b-4a46-8873-c51acd4aa304,controversial.shoes,available,39.99,,medium,low,13,name.com,,,
 639ab89f-4b63-43a1-82f9-a07eb6940936,wages.shoes,available,39.99,,high,low,5,name.com,,,
-941616ba-7fd9-48c3-8101-a030ec767bdf,shrewd.shoes,available,64.99,64.99,low,low,6,namesilo,,,22/09/2026 10:37
-818b76aa-c020-400e-8c54-fc702a70e1cc,confounded.shoes,available,34.98,81.98,low,low,10,namecheap,,,07/08/2026 11:57
+818b76aa-c020-400e-8c54-fc702a70e1cc,confounded.shoes,available,34.98,81.98,medium,low,10,namecheap,,,07/08/2026 11:57
 af3483cc-0ed5-41d7-aeb2-e69d6b0291d0,wisdom.shoes,available,39.99,,high,low,6,name.com,,,
-3dec7fd2-be50-4500-9b7f-6bb6d206b3f6,cairo.shoes,premium,118.8,118.8,medium,low,5,namesilo,,,
+3dec7fd2-be50-4500-9b7f-6bb6d206b3f6,cairo.shoes,premium,118.8,118.8,high,low,5,namesilo,,,
 6282e2b7-85bc-4ee9-9122-1058f34a5928,analyze.shoes,available,39.99,,high,low,7,name.com,,,
-081b8d35-c0a4-401c-8b37-6a3cf712fd79,annotated.shoes,available,39.99,,medium,low,9,name.com,,,
-8f25f47f-a075-4c00-9cda-b188d262fc5a,blistering.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-71f736be-59ff-4f47-b602-e74cb09cf289,tshirt.shoes,available,39.99,,high,low,7,name.com,,,
-db87b231-f501-46e7-9bb8-9a318c43ae02,reversed.shoes,available,39.99,,medium,low,8,name.com,,,
+081b8d35-c0a4-401c-8b37-6a3cf712fd79,annotated.shoes,available,39.99,,high,low,9,name.com,,,
+8f25f47f-a075-4c00-9cda-b188d262fc5a,blistering.shoes,available,34.98,81.98,high,low,10,namecheap,,,
+db87b231-f501-46e7-9bb8-9a318c43ae02,reversed.shoes,available,39.99,,high,low,8,name.com,,,
 c04e04e3-784d-4aa6-b1bc-f19e3d08cfd4,that.shoes,available,39.99,,high,low,4,name.com,,,
-da931b32-888b-4e0c-b9f4-4741b4699c75,anarmandaleg.shoes,available,39.99,,medium,low,16,name.com,,,
 b1cfa844-2842-4f67-8072-9d9a089774d6,smoke.shoes,available,39.99,,high,low,5,name.com,,,
 91992f0e-133a-4251-b057-f7b7c568be5f,outcome.shoes,available,39.99,,high,low,7,name.com,,,
-08aac6cb-6823-40ff-a675-ca616031c564,televisionprogram.shoes,available,39.99,,high,low,18,name.com,,,
 b6241124-5fcd-4f61-a8d6-2e5dfe05605c,yes.shoes,resell,,,high,low,3,,,,22/09/2026 20:22
-cffb0102-5fa6-41b0-b7a9-92f98dd132ea,estival.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-b0ea43c5-c23b-4649-8bbf-8fac97dfe7be,whatthe.shoes,available,39.99,,low,low,8,name.com,,,
-e1f83b9c-f3fc-4172-ae93-173e386d202b,imustsay.shoes,available,39.99,,medium,low,10,name.com,,,
-ddb4ac66-f648-42f6-b294-45c49b9f1e0f,apologetic.shoes,available,34.98,81.98,low,low,10,namecheap,,,06/08/2026 02:07
-b3fe3301-781a-4cb8-a819-d6dae13f44c5,babyfaced.shoes,available,34.98,81.98,low,low,10,namecheap,,,08/08/2026 03:48
-7089c001-6756-4049-bdcf-ac0f3564eb49,fantasy.shoes,available,39.99,,high,low,7,name.com,,,
-4b8e0277-edb8-4e2d-81f4-6744e0087ab0,given.shoes,available,39.99,,high,low,5,name.com,,,
+cffb0102-5fa6-41b0-b7a9-92f98dd132ea,estival.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
+ddb4ac66-f648-42f6-b294-45c49b9f1e0f,apologetic.shoes,available,34.98,81.98,high,low,10,namecheap,,,06/08/2026 02:07
 ac025254-7a00-4ec6-acf6-c6ce7ce31486,identifier.shoes,available,39.99,,high,low,10,name.com,,,
-1c48288a-3c4e-4fd2-adcb-e1cc39fd8a76,terribly.shoes,available,64.99,64.99,low,low,8,namesilo,,,22/09/2026 15:23
-f7ed48b2-a945-4d53-a190-67a424cb63f0,atpeace.shoes,available,39.99,,high,low,8,name.com,,,
-0a495019-8e9b-4bf3-9690-3e26ad5093a2,confirmed.shoes,available,34.98,81.98,medium,low,9,namecheap,,,23/09/2026 19:53
-022f11fa-a8ff-4ff2-8ec1-f4e7525f5487,adjunctive.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-3a621d12-997b-4984-ba36-2851edd2eda8,getwiththetimes.shoes,available,39.99,,high,low,18,name.com,,,
-447ce733-95cc-43ab-8f20-44a570fd675e,halfdozen.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-3eb707cb-fc2d-43f7-9560-89d262056d77,consequent.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-a495edcf-c0ca-451c-a77c-0dbcfe13e809,covered.shoes,available,64.99,64.99,medium,low,7,namesilo,,,24/09/2026 00:50
+3eb707cb-fc2d-43f7-9560-89d262056d77,consequent.shoes,available,34.98,81.98,high,low,10,namecheap,,,
 3eac938a-6f94-497f-9cdf-03d5d24ea866,upc.shoes,available,39.99,,high,low,3,name.com,,,
-23dd31bf-c9cf-4554-b607-42ff6a4026d0,accessible.shoes,available,64.99,64.99,medium,low,10,namesilo,,,21/09/2026 15:38
 b6121378-1b34-4227-a54a-711351dbe86a,bye.shoes,available,39.99,,high,low,3,name.com,,,
-a1c389b2-d557-4cef-b4bd-dc946873a0d8,communicationmix.shoes,available,39.99,,high,low,17,name.com,,,
 64eed9d2-d2ad-4596-8e14-fb94b6102d3f,interact.shoes,available,39.99,,high,low,8,name.com,,,
-0cbe0040-29f2-42c3-98ba-b220c9b98eab,marktwain.shoes,available,39.99,,high,low,10,name.com,,,
 f7c79b43-4b04-45cc-bdc9-afd96060fd7a,might.shoes,available,39.99,,high,low,5,name.com,,,
-a349cd23-d67b-49f4-a2bc-35cb9effeb2c,cooked.shoes,available,64.99,64.99,low,low,6,namesilo,,,23/09/2026 22:56
 f4f62f02-9f8d-4a8f-a42f-1612bcccde6b,shove.shoes,available,39.99,,high,low,5,name.com,,,
-e98ce46c-012c-4f1c-bca9-7acb8804f70d,antimonic.shoes,available,34.98,81.98,low,low,9,namecheap,,,
 f6e031a8-4f8f-4255-9ad7-27242b07baca,leave.shoes,available,39.99,,high,low,5,name.com,,,
-054604ae-932d-48fb-bbf8-f9399255b9b9,abused.shoes,available,34.98,81.98,low,low,6,namecheap,,,
-9b1c549f-3715-49ee-8658-5f0ab17fa251,corrective.shoes,available,64.99,64.99,medium,low,10,namesilo,,,23/09/2026 23:46
+054604ae-932d-48fb-bbf8-f9399255b9b9,abused.shoes,available,34.98,81.98,high,low,6,namecheap,,,
 8460d0be-02f5-4232-ad38-873c96735707,kgb.shoes,available,39.99,,high,low,3,name.com,,,
-322ee493-4cc4-486b-9136-d7159440074d,drippy.shoes,available,34.98,81.98,low,low,6,namecheap,,,09/08/2026 00:32
-0d8b94a3-e3b5-48ba-8858-5eadd4e7155b,lxxxi.shoes,available,34.98,81.98,low,low,5,namecheap,,,
-21599fef-97fc-4a3c-99e7-e2b540b74dd8,contracted.shoes,available,64.99,64.99,low,low,10,namesilo,,,23/09/2026 22:26
-da919b5e-d33c-4b01-95f6-452d14db0c23,pretending.shoes,available,39.99,,medium,low,10,name.com,,,
-9cdfe701-f441-45d1-9308-3f56f7c06c3c,cherryontop.shoes,available,39.99,,high,low,13,name.com,,,
-569ab5c6-6bdd-4b7e-b6e8-66b1fb56104c,humanbeing.shoes,available,39.99,,high,low,11,name.com,,,
+322ee493-4cc4-486b-9136-d7159440074d,drippy.shoes,available,34.98,81.98,medium,low,6,namecheap,,,09/08/2026 00:32
+0d8b94a3-e3b5-48ba-8858-5eadd4e7155b,lxxxi.shoes,available,34.98,81.98,medium,low,5,namecheap,,,
+da919b5e-d33c-4b01-95f6-452d14db0c23,pretending.shoes,available,39.99,,high,low,10,name.com,,,
 28a93944-f0b9-4aea-b06a-5de9689ced90,brie.shoes,available,39.99,,high,low,4,name.com,,,
-7c0c33fc-1deb-4362-8de1-f707a11fc9c6,combative.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-6bf94584-07a4-41f2-81ac-0cdef394f1fc,rising.shoes,available,34.98,81.98,low,low,6,namecheap,,,
-d4bed595-8e9d-4839-b0d8-b698e1f0a3d1,ribald.shoes,available,34.98,81.98,low,low,6,namecheap,,,09/08/2026 02:15
-ff1ed1e7-daa1-4fdd-a8e3-b7f98ba3b99a,tea.shoes,available,64.99,64.99,medium,low,3,namesilo,,,23/09/2026 02:52
-b6f02e38-a979-4e7b-a1cf-247c1460ed6b,alkaloidal.shoes,available,34.98,81.98,low,low,10,namecheap,,,
+7c0c33fc-1deb-4362-8de1-f707a11fc9c6,combative.shoes,available,34.98,81.98,high,low,9,namecheap,,,
+6bf94584-07a4-41f2-81ac-0cdef394f1fc,rising.shoes,available,34.98,81.98,high,low,6,namecheap,,,
+b6f02e38-a979-4e7b-a1cf-247c1460ed6b,alkaloidal.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
 7d17d361-6422-4d70-8281-6cf09249ea08,laundry.shoes,available,39.99,,high,low,7,name.com,,,
-a96a10f2-5348-4221-9b4a-04141cc61fd0,soil.shoes,available,64.99,64.99,low,low,4,namesilo,,,24/09/2026 02:55
-08c2eafa-bf44-4d2b-b9bd-ce4923194d99,received.shoes,available,39.99,,medium,low,8,name.com,,,
+08c2eafa-bf44-4d2b-b9bd-ce4923194d99,received.shoes,available,39.99,,high,low,8,name.com,,,
 b77983b0-7a3a-4b4d-b07a-50f62aee50ba,ellen.shoes,available,39.99,,high,low,5,name.com,,,
-e4ac6059-2118-450d-8e26-b7ee674520a2,painkiller.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-5cae6e0e-bd77-4f6d-8af6-f2a05186edda,beside.shoes,available,39.99,,medium,low,6,name.com,,,
-64b341ce-601c-4da2-81a5-291c20cb3093,economy.shoes,available,34.98,81.98,medium,low,7,namecheap,,,08/09/2026 12:29
-2d6f8e2e-4063-45e4-99bb-90b5095390bd,highquality.shoes,available,39.99,,medium,low,12,name.com,,,
-6db6459d-902e-4c17-b8fa-00903d170fc9,holdoff.shoes,available,39.99,,medium,low,8,name.com,,,
-bb42787a-511b-40a5-84f1-d243d8afd0ca,shed.shoes,available,64.99,64.99,low,low,4,namesilo,,,23/09/2026 12:18
-87268e4a-2d24-4f31-831e-2d2fb6881fc0,vicious.shoes,available,34.98,81.98,low,low,7,namecheap,,,08/08/2026 16:00
+e4ac6059-2118-450d-8e26-b7ee674520a2,painkiller.shoes,available,34.98,81.98,high,low,10,namecheap,,,
+5cae6e0e-bd77-4f6d-8af6-f2a05186edda,beside.shoes,available,39.99,,high,low,6,name.com,,,
+64b341ce-601c-4da2-81a5-291c20cb3093,economy.shoes,available,34.98,81.98,high,low,7,namecheap,,,08/09/2026 12:29
+87268e4a-2d24-4f31-831e-2d2fb6881fc0,vicious.shoes,available,34.98,81.98,medium,low,7,namecheap,,,08/08/2026 16:00
 af55e383-9d0b-445f-94b5-27dfd24e91f7,xoxoxo.shoes,available,39.99,,high,low,6,name.com,,,
-a5ebe859-167f-4232-b977-b048830a1e35,avionic.shoes,available,34.98,81.98,low,low,7,namecheap,,,07/08/2026 23:35
-60157195-a295-4a24-bfff-858b8a6b5ab4,autogamic.shoes,available,34.98,81.98,low,low,9,namecheap,,,07/08/2026 20:11
-35c47908-def7-440d-82b3-6e02e3870986,silotruck.shoes,available,39.99,,medium,low,10,name.com,,,
+a5ebe859-167f-4232-b977-b048830a1e35,avionic.shoes,available,34.98,81.98,medium,low,7,namecheap,,,07/08/2026 23:35
 bf890d5d-f0d2-44c8-9456-345c3c3aaa95,asking.shoes,available,39.99,,high,low,6,name.com,,,
-64761aed-9b16-4595-a245-8286bff69ad0,tempting.shoes,available,64.99,64.99,medium,low,8,namesilo,,,22/09/2026 01:44
 70e107da-f1ff-49ac-ab71-f39d971abbc5,barring.shoes,available,39.99,,medium,low,7,name.com,,,
 7d520a66-717b-45e7-9400-9713e05a35fd,calf.shoes,available,39.99,,high,low,4,name.com,,,
-4b21a493-e52e-4ebb-96f6-9d886cf6835c,formless.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-014cd162-e73a-4d59-9381-3ae48a21ed6c,ageold.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-c365f192-bad1-4004-a372-eb2169dc7bb4,device.shoes,available,39.99,,high,low,6,name.com,,,
+4b21a493-e52e-4ebb-96f6-9d886cf6835c,formless.shoes,available,34.98,81.98,high,low,8,namecheap,,,
 c74189ab-8665-4842-9e70-8d635a8c9c86,yearly.shoes,available,39.99,,high,low,6,name.com,,,
-e6e67392-9d75-440b-91b6-c6a64aa526f3,beborn.shoes,available,39.99,,medium,low,7,name.com,,,
-adb1d5b3-75da-4259-b944-3da43ad519fe,clayey.shoes,available,34.98,81.98,low,low,6,namecheap,,,06/08/2026 18:22
-3cd3534e-561d-4830-aec4-ec3438e8f8a2,comp.shoes,available,34.98,81.98,low,low,4,namecheap,,,23/09/2026 17:59
 1af9dd48-b03a-45b5-b9d8-11265d482243,imagination.shoes,available,39.99,,high,low,11,name.com,,,
-971a66f8-d37d-40e6-8d2a-943dbc177118,anaphoric.shoes,available,34.98,81.98,low,low,9,namecheap,,,
 5955c49e-81e8-43e0-abb9-c9aee89e5c9a,nash.shoes,available,39.99,,high,low,4,name.com,,,
 471d9151-8246-481b-b3b5-e891f454acfc,altruism.shoes,available,39.99,,high,low,8,name.com,,,
-dc11923b-03c9-4fd0-a637-dca7cc9f1b2c,howcome.shoes,available,39.99,,medium,low,8,name.com,,,
-c334c8e4-f368-455f-afbb-b3cbe1cc8a36,connection.shoes,available,39.99,,medium,low,10,name.com,,,
-f0501d25-55ff-4ad6-aa92-4441b2f231f6,aphetic.shoes,available,34.98,81.98,low,low,7,namecheap,,,05/08/2026 23:12
-d574d5b6-1e03-4734-a17f-73015ec9a471,todate.shoes,available,39.99,,medium,low,7,name.com,,,
-1303d384-e7d0-47e7-8c5f-3feedae9495c,aneroid.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-3b344451-412d-46e0-8210-bde1d4be12a8,awninged.shoes,available,34.98,81.98,low,low,8,namecheap,,,08/08/2026 01:30
+c334c8e4-f368-455f-afbb-b3cbe1cc8a36,connection.shoes,available,39.99,,high,low,10,name.com,,,
+1303d384-e7d0-47e7-8c5f-3feedae9495c,aneroid.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
 076f619e-4928-4511-8b0d-56d627c61cbf,iso.shoes,available,,,high,low,3,,,,
-c3053b39-1572-497c-989c-5a4e911afe41,inthewakeof.shoes,available,39.99,,medium,low,14,name.com,,,
 e50cde53-0475-420d-9e01-125607d8eb5c,property.shoes,available,39.99,,high,low,8,name.com,,,
 279efd5c-6e5c-4612-9294-134751dc74c6,distance.shoes,available,39.99,,high,low,8,name.com,,,
-e2511ce9-5dee-4835-94cc-cfeef1d9939f,getthewordout.shoes,available,39.99,,high,low,16,name.com,,,
 45fa1d07-9fb9-4060-8004-eca738cb079e,accusive.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-740b342a-4bb1-4948-9d91-cca7bc8870dd,intoodeep.shoes,available,39.99,,medium,low,11,name.com,,,
-1de40d26-9c50-4f62-953e-07f8465cc9e1,junction.shoes,available,34.98,81.98,low,low,8,namecheap,,,08/09/2026 09:48
+1de40d26-9c50-4f62-953e-07f8465cc9e1,junction.shoes,available,34.98,81.98,high,low,8,namecheap,,,08/09/2026 09:48
 96d5264b-1b35-4e7b-879a-31f71b6bfc06,living.shoes,available,39.99,,high,low,6,name.com,,,
 7c088fab-ae63-40af-9a99-497323fab3eb,concern.shoes,available,39.99,,high,low,7,name.com,,,
-392cbf6a-602f-4a0d-b9a0-57949d6bbcd3,aldermanly.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-08f273f0-5585-42f4-8bd9-6c4f9afc416f,showandtell.shoes,available,39.99,,high,low,13,name.com,,,
-a723bf8d-4446-4d34-92a8-5da9ac8c9c9f,cipher.shoes,available,34.98,81.98,medium,low,6,namecheap,,,08/09/2026 15:11
-c471af13-5471-4199-91eb-6ec9e272cdfc,substitute.shoes,available,39.99,83.99,medium,low,10,name.com,,,22/09/2026 02:40
-7930f3a5-497e-4110-b697-def9da5ab476,simultaneously.shoes,available,39.99,,low,low,14,name.com,,,
+a723bf8d-4446-4d34-92a8-5da9ac8c9c9f,cipher.shoes,available,34.98,81.98,high,low,6,namecheap,,,08/09/2026 15:11
 577b7011-dc49-470e-82f6-ba30d249d3fb,ladder.shoes,available,39.99,,high,low,6,name.com,,,
 cabee6de-4909-4424-af27-413c8f53ee77,divide.shoes,available,39.99,,high,low,6,name.com,,,
-b7634029-18e8-4722-a37c-a3e892654f8b,earshaped.shoes,available,34.98,81.98,low,low,10,namecheap,,,07/08/2026 18:02
-c49f8b68-6f10-4c21-8475-e843a1f72d2b,bloodstream.shoes,available,39.99,,medium,low,11,name.com,,,
+c49f8b68-6f10-4c21-8475-e843a1f72d2b,bloodstream.shoes,available,39.99,,high,low,11,name.com,,,
 1aed274c-fd8e-42a7-b8d4-035d35066bd6,mantra.shoes,available,39.99,,high,low,6,name.com,,,
-9b161039-06ae-4c9c-87bc-5225b8f76507,keys.shoes,available,39.99,,medium,medium,4,name.com,,,
-6c13012b-8957-47e1-b247-43f0ebf1d8e1,affined.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-18088e63-d24d-4b8f-b5e7-53a33851c1c1,rodshaped.shoes,available,34.98,81.98,low,low,10,namecheap,,,08/08/2026 05:07
-9a00809a-e579-4ec4-90bd-02d74bcda72b,ageing.shoes,available,64.99,64.99,low,low,6,namesilo,,,21/09/2026 22:43
+9b161039-06ae-4c9c-87bc-5225b8f76507,keys.shoes,available,39.99,,high,medium,4,name.com,,,
+6c13012b-8957-47e1-b247-43f0ebf1d8e1,affined.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
 ce4dc6a3-9120-4167-904f-d830c4930d9b,truth.shoes,available,39.99,,high,medium,5,name.com,,,
 4561b866-bb48-4f4a-9a9d-b7848217d32a,wanting.shoes,available,39.99,,high,low,7,name.com,,,
-93e56e13-3acd-4df5-b965-665375801fac,toad.shoes,available,34.98,81.98,low,low,4,namecheap,,,05/08/2026 21:06
-bc14f48b-01b2-46c3-9d19-c9728792a84c,hydroponic.shoes,available,34.98,81.98,low,low,10,namecheap,,,06/08/2026 10:34
-abd72fe4-e156-4307-a918-1f8daff4c068,allegretto.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-6ec8443e-b8d5-4086-96e3-de463b563504,cxxxv.shoes,available,34.98,81.98,low,low,5,namecheap,,,
-4d5fc386-fca7-4931-ae6d-e2de69e09bb4,xliv.shoes,available,34.98,81.98,low,low,4,namecheap,,,
-d855a70d-5f32-423d-8f82-94a036094910,task.shoes,available,64.99,64.99,medium,low,4,namesilo,,,24/09/2026 03:25
-f554c10b-9732-4330-8c6a-87c39ee89348,firstly.shoes,available,39.99,,medium,low,7,name.com,,,
+93e56e13-3acd-4df5-b965-665375801fac,toad.shoes,available,34.98,81.98,high,low,4,namecheap,,,05/08/2026 21:06
+bc14f48b-01b2-46c3-9d19-c9728792a84c,hydroponic.shoes,available,34.98,81.98,medium,low,10,namecheap,,,06/08/2026 10:34
+abd72fe4-e156-4307-a918-1f8daff4c068,allegretto.shoes,available,34.98,81.98,high,low,10,namecheap,,,
+6ec8443e-b8d5-4086-96e3-de463b563504,cxxxv.shoes,available,34.98,81.98,medium,low,5,namecheap,,,
+4d5fc386-fca7-4931-ae6d-e2de69e09bb4,xliv.shoes,available,34.98,81.98,high,low,4,namecheap,,,
 7c5edcbc-ad6f-4295-9f4a-73edc0a4a192,invent.shoes,available,39.99,,high,low,6,name.com,,,
-4268774c-6631-4985-831a-431a69940d7b,asyetunknown.shoes,available,39.99,,medium,low,14,name.com,,,
-120fd282-73c1-400e-b77d-60190a562da3,lxx.shoes,available,34.98,81.98,low,low,3,namecheap,,,
-fcb485d1-3397-4d25-8bd2-11bc821d3130,asofright.shoes,available,39.99,,medium,low,11,name.com,,,
+120fd282-73c1-400e-b77d-60190a562da3,lxx.shoes,available,34.98,81.98,medium,low,3,namecheap,,,
 67704583-111f-4e98-97f0-2239aa2ce520,disguise.shoes,available,39.99,,high,low,8,name.com,,,
-98b9da3a-ee06-4946-852d-d6feb4ffefdc,voiceless.shoes,available,34.98,81.98,low,low,9,namecheap,,,05/08/2026 23:23
+98b9da3a-ee06-4946-852d-d6feb4ffefdc,voiceless.shoes,available,34.98,81.98,medium,low,9,namecheap,,,05/08/2026 23:23
 d6292418-6941-4a31-af23-a556a80cbc17,cancer.shoes,available,39.99,,high,low,6,name.com,,,
 e5319036-c835-42fe-abf3-11245daad211,verb.shoes,available,39.99,,high,low,4,name.com,,,
-6768cafe-ba03-4d88-b719-1bb668403938,golfclub.shoes,available,39.99,,high,low,9,name.com,,,
 b81eeadc-b456-40df-b8af-3d237359429c,affect.shoes,available,39.99,,high,low,6,name.com,,,
-b3b53f51-92ae-44b0-9a3f-382116cdb9a7,balconied.shoes,available,34.98,81.98,low,low,9,namecheap,,,08/08/2026 09:11
-5a3f1bc1-05f1-4f4e-8c2e-4c44ad593ebc,swiftly.shoes,available,39.99,,medium,low,7,name.com,,,
+5a3f1bc1-05f1-4f4e-8c2e-4c44ad593ebc,swiftly.shoes,available,39.99,,high,low,7,name.com,,,
 0c87c3e2-4a92-4aeb-84c3-166026ebeb9c,mill.shoes,available,39.99,,high,low,4,name.com,,,
-1e83045d-a993-4f07-b099-ad14d2a12e23,allophonic.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-1af54ab0-294c-48ae-af25-ef4f36231eb4,toorder.shoes,available,39.99,,medium,low,8,name.com,,,
-afb9cec2-f8ed-4a40-91af-eac29a686933,hell.shoes,available,39.99,,medium,low,4,name.com,,,
-95956e44-39a5-4c65-a785-f28fe9b75bf6,absorbable.shoes,available,34.98,81.98,low,low,10,namecheap,,,
+1e83045d-a993-4f07-b099-ad14d2a12e23,allophonic.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+afb9cec2-f8ed-4a40-91af-eac29a686933,hell.shoes,available,39.99,,high,low,4,name.com,,,
 4debdb52-d719-4164-9893-71fa7d38c9c7,rideshare.shoes,available,39.99,,high,low,9,name.com,,,
 af030ccd-cfa1-43f0-8a20-64c11d7ce9cf,verify.shoes,available,39.99,,high,medium,6,name.com,,,
 98c30ffb-4ff6-4043-9c26-79159942595f,vodka.shoes,available,39.99,,high,low,5,name.com,,,
-60d6878c-1f8e-4dd0-9276-aaf5c80d9d6f,panes.shoes,available,39.99,,medium,low,5,name.com,,,
+60d6878c-1f8e-4dd0-9276-aaf5c80d9d6f,panes.shoes,available,39.99,,high,low,5,name.com,,,
 929fd051-b587-4653-955c-d44aec423bc3,congrats.shoes,available,39.99,,high,low,8,name.com,,,
-a25833cf-67e3-49c7-8612-9ecea4981807,quadruplet.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-356fac97-79e9-4fe4-beea-12a3bfe80449,covert.shoes,available,64.99,64.99,low,low,6,namesilo,,,24/09/2026 00:53
-47d7ca27-5303-4c68-b124-07d380175675,esthetic.shoes,available,34.98,81.98,medium,low,8,namecheap,,,21/09/2026 21:16
-bb8b210d-f6e3-4339-b438-3a8827d2ee73,biology.shoes,available,64.99,64.99,medium,low,7,namesilo,,,24/09/2026 02:45
 fff9c180-a626-4a22-8c56-adae2816bccf,mono.shoes,available,39.99,,high,low,4,name.com,,,
-4e4a1a64-4550-4a4e-a01d-317441bca5ec,sportsday.shoes,available,39.99,,high,low,10,name.com,,,
-a18dbe77-c6a5-4dda-bc61-e1a9dca188f9,block.shoes,available,39.99,,medium,low,5,name.com,,,
-99155e52-a520-4da2-a6ad-5365abd1b5d5,makefunof.shoes,available,39.99,,high,low,11,name.com,,,
+a18dbe77-c6a5-4dda-bc61-e1a9dca188f9,block.shoes,available,39.99,,high,low,5,name.com,,,
 2e64b8e7-1edc-4d60-ac07-862e013a5131,mentor.shoes,available,39.99,,high,low,6,name.com,,,
-75582599-42d9-4ef6-b9c2-42750fcd3b2f,wise.shoes,available,,,high,low,4,,,,
-813852bd-73e4-42cd-a648-58af73860d06,respiratory.shoes,available,39.99,,low,low,11,name.com,,,
+813852bd-73e4-42cd-a648-58af73860d06,respiratory.shoes,available,39.99,,high,low,11,name.com,,,
 33b9bd0d-6ea8-4d10-b6c9-e0655a003ee3,brownie.shoes,available,39.99,,high,low,7,name.com,,,
-18810235-2212-4b58-8cdb-e812106ad5c9,indecent.shoes,available,39.99,,medium,low,8,name.com,,,
-66b2c108-6956-4d6c-b54e-a345c9f086cb,carousing.shoes,available,34.98,81.98,low,low,9,namecheap,,,08/08/2026 04:24
-25da635a-b400-41db-acd2-96ac6527cff4,lxxxiv.shoes,available,34.98,81.98,low,low,6,namecheap,,,
-cc1da070-b2ee-4885-a79d-0c201ea2831f,hole.shoes,available,39.99,,medium,low,4,name.com,,,
-a286476b-f1d2-4f37-be88-74e335e0bef2,wonky.shoes,available,34.98,81.98,low,low,5,namecheap,,,07/08/2026 03:46
-cbf362c8-beab-4248-b33b-80764cb30db3,television.shoes,available,64.99,64.99,medium,low,10,namesilo,,,23/09/2026 06:07
-7ca4367e-0b40-4780-b697-e63fe56912bc,jason.shoes,available,39.99,,medium,low,5,name.com,,,
+18810235-2212-4b58-8cdb-e812106ad5c9,indecent.shoes,available,39.99,,high,low,8,name.com,,,
+66b2c108-6956-4d6c-b54e-a345c9f086cb,carousing.shoes,available,34.98,81.98,medium,low,9,namecheap,,,08/08/2026 04:24
+25da635a-b400-41db-acd2-96ac6527cff4,lxxxiv.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+cc1da070-b2ee-4885-a79d-0c201ea2831f,hole.shoes,available,39.99,,high,low,4,name.com,,,
+a286476b-f1d2-4f37-be88-74e335e0bef2,wonky.shoes,available,34.98,81.98,medium,low,5,namecheap,,,07/08/2026 03:46
+7ca4367e-0b40-4780-b697-e63fe56912bc,jason.shoes,available,39.99,,high,low,5,name.com,,,
 0d65c7d5-09d9-44cd-a14f-b672ec4dbd21,antiblack.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-9324e528-eb55-4ade-aac1-e88e92afad2a,ninetieth.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-a2fb6197-02ec-481c-9b1b-e33211df0349,recumbent.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-3e8d649e-0113-4e6a-8e3a-7b12c2a1f1ed,bucolic.shoes,available,34.98,81.98,low,low,7,namecheap,,,06/08/2026 14:14
-6ecfee8b-5e4c-4ca5-b375-eb9272576ef0,mouthless.shoes,available,34.98,81.98,low,low,9,namecheap,,,07/08/2026 09:50
-d03608bf-8f83-41c9-acf2-a3998be3de35,richmond.shoes,premium,78.54,78.54,medium,low,8,namesilo,,,
-7ac2cf28-4c55-4689-af53-9544eb329769,yougotthis.shoes,available,39.99,,low,low,12,name.com,,,
-7c442907-da03-44a2-81a3-342e2c31d1c4,realizable.shoes,available,34.98,81.98,medium,low,10,namecheap,,,21/09/2026 15:51
-d731a361-15e5-4a6e-8efe-c5140c5af25a,dilute.shoes,available,34.98,81.98,low,low,6,namecheap,,,
-e4ffdfc4-7084-4d34-b5df-3727cc6565fc,physically.shoes,available,64.99,64.99,low,low,10,namesilo,,,19/09/2026 14:53
+a2fb6197-02ec-481c-9b1b-e33211df0349,recumbent.shoes,available,34.98,81.98,high,low,9,namecheap,,,
+3e8d649e-0113-4e6a-8e3a-7b12c2a1f1ed,bucolic.shoes,available,34.98,81.98,high,low,7,namecheap,,,06/08/2026 14:14
+d03608bf-8f83-41c9-acf2-a3998be3de35,richmond.shoes,premium,78.54,78.54,high,low,8,namesilo,,,
+d731a361-15e5-4a6e-8efe-c5140c5af25a,dilute.shoes,available,34.98,81.98,high,low,6,namecheap,,,
 67a7e7f4-8be9-4684-828f-58cf1f467a3b,mid.shoes,available,39.99,,high,low,3,name.com,,,
-a2771078-9dfb-4562-926a-b200f098d5be,howthefuck.shoes,available,39.99,,medium,low,12,name.com,,,
-88f76b80-5af8-40e7-a10d-f6680eb56562,title.shoes,available,64.99,64.99,medium,low,5,namesilo,,,24/09/2026 03:07
-882d927e-0f60-4473-a24b-bf0bd29c831e,traveller.shoes,available,39.99,,medium,low,9,name.com,,,
-b452b229-bcd0-40be-8145-20882a26bce5,astonied.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-a35c2a11-6f61-4625-9f4d-31f41f5a38ea,hard.shoes,available,34.98,81.98,low,low,4,namecheap,,,06/08/2026 16:55
-f88aba33-8ddf-419d-8517-27eeb2078cb4,christian.shoes,premium,78.54,78.54,medium,low,9,namesilo,,,23/09/2026 14:35
-095d79bb-2bee-4360-bdb5-8a8de380ece1,buirdly.shoes,available,34.98,81.98,low,low,7,namecheap,,,09/08/2026 08:07
+882d927e-0f60-4473-a24b-bf0bd29c831e,traveller.shoes,available,39.99,,high,low,9,name.com,,,
+a35c2a11-6f61-4625-9f4d-31f41f5a38ea,hard.shoes,available,34.98,81.98,high,low,4,namecheap,,,06/08/2026 16:55
 28a77a98-3226-448d-9deb-3b8c4cf46c87,unused.shoes,available,39.99,,medium,low,6,name.com,,,
 26de5e54-e2e8-4c0f-a9ff-6deb5ba860eb,swastika.shoes,available,39.99,,medium,low,8,name.com,,,
-ad56e3d5-baef-46f9-b462-3f23054b0f00,holycrap.shoes,available,39.99,,medium,low,9,name.com,,,
-a3305510-68e5-4c5d-bd8d-f07508d4326b,bahreini.shoes,available,34.98,81.98,low,low,8,namecheap,,,08/08/2026 08:41
-7cea24d5-c3c5-4d14-9e62-35517348ba11,lookunderrocks.shoes,available,39.99,,medium,low,16,name.com,,,
-23fd8afc-dfff-4cce-b2f5-0a365dcf1ea8,contested.shoes,available,64.99,64.99,low,low,9,namesilo,,,23/09/2026 22:01
-8701f439-a3af-4aca-a7a6-5751dba700fe,asteroidal.shoes,available,34.98,81.98,low,low,10,namecheap,,,07/08/2026 09:10
-78022751-fd85-446b-a1db-bd1b80691d17,abomb.shoes,available,39.99,,medium,low,6,name.com,,,
-16b46451-63cc-404e-a348-7f921bd5d6ee,burred.shoes,available,34.98,81.98,low,low,6,namecheap,,,08/08/2026 17:23
-ce5c9205-b9f7-427c-bf20-f1ec943714b4,helmethair.shoes,available,39.99,,medium,low,11,name.com,,,
-a9f53481-bba2-4aad-bc5c-a03473044b65,batholitic.shoes,available,34.98,81.98,low,low,10,namecheap,,,09/08/2026 01:30
-dab0f3bc-078f-4ca9-bedb-6fd8febb8fd0,worthit.shoes,available,39.99,,medium,low,8,name.com,,,
-03d53152-892d-486a-829c-a9d67546b202,whizz.shoes,available,34.98,81.98,medium,low,5,namecheap,,,21/09/2026 18:06
-9a93bee4-904b-48b6-8f5d-061c9cc901b0,longhaired.shoes,available,39.99,,low,low,11,name.com,,,
+a3305510-68e5-4c5d-bd8d-f07508d4326b,bahreini.shoes,available,34.98,81.98,medium,low,8,namecheap,,,08/08/2026 08:41
+16b46451-63cc-404e-a348-7f921bd5d6ee,burred.shoes,available,34.98,81.98,medium,low,6,namecheap,,,08/08/2026 17:23
 c461d351-ccdd-4a3d-964a-709770051fd0,diving.shoes,available,39.99,,high,low,6,name.com,,,
 86779b91-1d2e-4c49-b733-819ca9447510,slacking.shoes,available,39.99,,medium,low,8,name.com,,,
 5c3b67b9-be97-4ec1-8077-6f108d7c27b5,wastebasket.shoes,available,39.99,,high,low,11,name.com,,,
-acf48088-1092-48fe-873f-b9b851942940,serveup.shoes,available,39.99,,high,low,8,name.com,,,
-2eccf891-22db-42ad-9924-3c73bd585430,playdate.shoes,available,39.99,,medium,low,9,name.com,,,
-31218f09-cbe8-41a3-bb4c-6416c6b08a2a,abducent.shoes,available,34.98,81.98,low,low,8,namecheap,,,
+2eccf891-22db-42ad-9924-3c73bd585430,playdate.shoes,available,39.99,,high,low,9,name.com,,,
+31218f09-cbe8-41a3-bb4c-6416c6b08a2a,abducent.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
 522bf06b-4d8d-4719-92c5-2e2753ae4ec7,disregarded.shoes,available,39.99,,medium,low,11,name.com,,,
-cfe2f48b-08d1-43fa-8078-e8a0f855720a,outdoors.shoes,available,64.99,64.99,medium,low,8,namesilo,,,21/09/2026 23:54
-36f2efab-fd5b-4b9f-b964-47e18c5976d9,taxswap.shoes,available,39.99,,medium,low,8,name.com,,,
-1872870f-d5a9-4b4e-a955-9cbb16945b76,seven.shoes,available,34.98,81.98,low,medium,5,namecheap,,,
-db91697d-1faf-4cea-932e-2d6903cd35bc,identified.shoes,available,39.99,,medium,low,10,name.com,,,
+1872870f-d5a9-4b4e-a955-9cbb16945b76,seven.shoes,available,34.98,81.98,high,medium,5,namecheap,,,
+db91697d-1faf-4cea-932e-2d6903cd35bc,identified.shoes,available,39.99,,high,low,10,name.com,,,
 509cfe35-0f1d-4cce-92a4-17cf984bd106,participant.shoes,available,39.99,,high,low,11,name.com,,,
-5b1fbc6d-ef25-4c84-a839-223e5f8ce661,gaydog.shoes,available,39.99,,medium,low,7,name.com,,,
-a76ed0c7-fcad-493b-b9ef-d57e2bc9f310,contralto.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-6adbed9a-c170-4f6f-950a-2ff65f5cc892,mouth.shoes,available,34.98,81.98,medium,low,5,namecheap,,,08/09/2026 03:51
-31d149ac-dc1c-4ddf-992f-5d8437195aac,dying.shoes,available,39.99,83.99,high,low,5,name.com,,,
+a76ed0c7-fcad-493b-b9ef-d57e2bc9f310,contralto.shoes,available,34.98,81.98,high,low,9,namecheap,,,
+6adbed9a-c170-4f6f-950a-2ff65f5cc892,mouth.shoes,available,34.98,81.98,high,low,5,namecheap,,,08/09/2026 03:51
 6a372e0d-9cfc-4d92-acb3-291552f385af,curiosity.shoes,available,39.99,,high,low,9,name.com,,,
 8f36694e-e0dd-4c5b-9aa5-b48f2ecacce8,modest.shoes,available,39.99,,high,low,6,name.com,,,
-82e04b92-7259-432c-959a-1faa2e8fc3a7,cavitied.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-a899f0b9-d6d2-4934-a699-7bf6248f9daa,concussion.shoes,available,39.99,,medium,low,10,name.com,,,
+a899f0b9-d6d2-4934-a699-7bf6248f9daa,concussion.shoes,available,39.99,,high,low,10,name.com,,,
 f0eebb51-fc36-4145-a1bd-5facefda21ce,conscience.shoes,available,39.99,,high,low,10,name.com,,,
 a564714d-498f-4407-bf70-f066b86ee5e8,fanta.shoes,available,39.99,,high,low,5,name.com,,,
-80a02c42-79d4-43dd-aea1-dfaaadac1ede,puton.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
-46515636-a3fb-4c4f-beda-551e4b9bf085,fillout.shoes,available,34.98,81.98,low,low,8,namecheap,,,17/08/2026 23:11
 9ebb6d7b-206b-475a-86d0-2ddd0f77a3ae,keeping.shoes,available,39.99,,high,low,7,name.com,,,
 38b89ca9-89a1-40c1-b8bd-fbd8babd88ba,universe.shoes,available,39.99,,high,low,8,name.com,,,
-45f56bf4-3b5b-48b9-bc76-0ba333f7f7ca,givealight.shoes,available,39.99,,medium,low,12,name.com,,,
 e45e6ee6-fd37-476c-8e70-081387a0452a,resort.shoes,available,,,high,low,6,,,,
-01c1eb76-dcf1-4300-9a2f-2176741a44ba,patent.shoes,available,34.98,81.98,medium,low,6,namecheap,,,06/08/2026 05:19
-3bfd327c-d305-4a70-90e7-8bdae8b845dc,nostrils.shoes,available,39.99,,low,low,8,name.com,,,
-614baf81-a7b3-4490-beb6-22899002983d,afterward.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-182d9356-25b2-48f2-9e5a-adf436320f07,peacock.shoes,available,,,medium,low,7,,,,
-8cf2e3c5-4c5e-4319-aeaa-95edbc790c57,options.shoes,available,64.99,64.99,low,low,7,namesilo,,,19/09/2026 14:29
-4b55f617-7777-4ea4-aaf4-41acca0e001c,sixth.shoes,available,34.98,81.98,low,low,5,namecheap,,,
-18e3b188-d993-45ea-acdc-a110a3462177,myapologies.shoes,available,39.99,,high,low,12,name.com,,,
-8920235e-673b-44a7-84ca-77a856921244,our.shoes,available,39.99,,medium,medium,3,name.com,,,
-66131b81-7268-453b-96ca-68f944219dc7,illusion.shoes,available,39.99,,medium,low,8,name.com,,,
-e81a9485-3bb1-4585-93e9-989c02a9c41a,accommodate.shoes,available,39.99,,medium,low,11,name.com,,,
+01c1eb76-dcf1-4300-9a2f-2176741a44ba,patent.shoes,available,34.98,81.98,high,low,6,namecheap,,,06/08/2026 05:19
+3bfd327c-d305-4a70-90e7-8bdae8b845dc,nostrils.shoes,available,39.99,,medium,low,8,name.com,,,
+614baf81-a7b3-4490-beb6-22899002983d,afterward.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+182d9356-25b2-48f2-9e5a-adf436320f07,peacock.shoes,available,,,high,low,7,,,,
+4b55f617-7777-4ea4-aaf4-41acca0e001c,sixth.shoes,available,34.98,81.98,high,low,5,namecheap,,,
+8920235e-673b-44a7-84ca-77a856921244,our.shoes,available,39.99,,high,medium,3,name.com,,,
+e81a9485-3bb1-4585-93e9-989c02a9c41a,accommodate.shoes,available,39.99,,high,low,11,name.com,,,
 3e1da464-c9b7-4f7d-8f45-ce589b1461dc,revealing.shoes,available,39.99,,high,low,9,name.com,,,
-2ea07291-06dc-44b1-93b1-36486d1471ee,thunder.shoes,available,39.99,,medium,low,7,name.com,,,
-64d2e984-e9bb-4bec-a5cf-01d1c0752971,fierce.shoes,available,64.99,64.99,low,low,6,namesilo,,,23/09/2026 01:48
+2ea07291-06dc-44b1-93b1-36486d1471ee,thunder.shoes,available,39.99,,high,low,7,name.com,,,
 1c31eb16-109b-4729-a01d-8c2d3e2caca7,marvel.shoes,available,39.99,,high,low,6,name.com,,,
-920bf920-9b63-4c79-a0eb-3a8168dd8b4f,beatenup.shoes,available,34.98,81.98,low,low,9,namecheap,,,22/09/2026 18:22
 1b85dfad-0b3e-4f84-a9fa-ece348979b32,minecraft.shoes,available,,,high,low,9,,,,
 b45410c7-279e-4952-a5e4-4ba292695b7e,rely.shoes,available,39.99,,high,low,4,name.com,,,
-5d65bbf8-8d1e-4be1-87e9-732a5338c387,rustic.shoes,available,34.98,81.98,low,low,6,namecheap,,,
-f272fec7-49db-4e43-8516-210b207d3e45,carriage.shoes,available,39.99,,medium,low,8,name.com,,,
-b594985e-592c-4581-aaf5-eab384ab8629,arc.shoes,available,34.98,81.98,medium,medium,3,namecheap,,,06/08/2026 15:03
-72290949-9968-4e10-a4d4-6199ccdd68fd,openbar.shoes,available,39.99,,high,low,8,name.com,,,
-0a64b96f-ee56-4e46-8497-b91374490577,albanian.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-6b915a1f-ecc9-4980-8b9a-22204ecf16bc,smash.shoes,available,64.99,64.99,low,low,5,namesilo,,,22/09/2026 17:11
-2b7ed4a4-848d-4824-9a3f-ce512f012107,butif.shoes,available,39.99,,medium,low,6,name.com,,,
-31fff4b6-1d49-4721-918b-c047c1e603a3,beach.shoes,resell,,,medium,low,5,Dynadot Inc,08/09/2018 16:15,08/09/2026 16:15,
+5d65bbf8-8d1e-4be1-87e9-732a5338c387,rustic.shoes,available,34.98,81.98,high,low,6,namecheap,,,
+f272fec7-49db-4e43-8516-210b207d3e45,carriage.shoes,available,39.99,,high,low,8,name.com,,,
+b594985e-592c-4581-aaf5-eab384ab8629,arc.shoes,available,34.98,81.98,high,medium,3,namecheap,,,06/08/2026 15:03
+0a64b96f-ee56-4e46-8497-b91374490577,albanian.shoes,available,34.98,81.98,high,low,8,namecheap,,,
+31fff4b6-1d49-4721-918b-c047c1e603a3,beach.shoes,resell,,,high,low,5,Dynadot Inc,08/09/2018 16:15,08/09/2026 16:15,
 ca2f4c0f-6464-4a46-89e4-1fcdd566341e,cleaner.shoes,available,39.99,,high,low,7,name.com,,,
-b93c008a-3119-4520-a555-baee205bdb56,seeingas.shoes,available,39.99,,medium,low,9,name.com,,,
 86223770-264a-4aea-abd1-88a7cd5faf10,interested.shoes,available,39.99,,high,low,10,name.com,,,
-8adcf6bf-723b-4948-b5a2-4ce7f6b5d481,altissimo.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-ed21be1a-e8dd-4840-b102-7220a3f3ffd4,valueable.shoes,available,39.99,,high,low,9,name.com,,,
-482f2ac4-fbf7-4a16-8b1b-884636907a9d,esthetical.shoes,available,34.98,81.98,medium,low,10,namecheap,,,21/09/2026 21:22
+8adcf6bf-723b-4948-b5a2-4ce7f6b5d481,altissimo.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+ed21be1a-e8dd-4840-b102-7220a3f3ffd4,valueable.shoes,available,39.99,,medium,low,9,name.com,,,
 2489a172-7de5-4c32-9e40-5863e58d5766,pamper.shoes,available,39.99,,high,low,6,name.com,,,
-8398c275-56a1-4703-b1ae-8dd960a3946a,peremptory.shoes,available,34.98,81.98,low,low,10,namecheap,,,07/08/2026 19:45
-afb08bfa-43e4-4525-b864-5ccf92c90747,resultant.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-f7c65da5-14dd-4d84-af4a-8826578764f0,tooright.shoes,available,39.99,,low,low,9,name.com,,,
-65e7a0b9-93be-46d2-9a49-c4999212850b,quarter.shoes,available,39.99,,medium,low,7,name.com,,,
-f7cf65b4-1d5b-4024-8c23-ac370003faed,acquirable.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-0837e509-d963-403c-8bd1-4515486890be,bothersome.shoes,available,34.98,81.98,low,low,10,namecheap,,,
+afb08bfa-43e4-4525-b864-5ccf92c90747,resultant.shoes,available,34.98,81.98,high,low,9,namecheap,,,
+65e7a0b9-93be-46d2-9a49-c4999212850b,quarter.shoes,available,39.99,,high,low,7,name.com,,,
+f7cf65b4-1d5b-4024-8c23-ac370003faed,acquirable.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+0837e509-d963-403c-8bd1-4515486890be,bothersome.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
 e3e38473-e1f6-48df-b0cf-b2f541c6cfad,seek.shoes,available,39.99,,high,low,4,name.com,,,
-a3e4de44-358f-486d-971a-3cfe5e66434a,anesthetic.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-4a8d0d44-f02a-4dcb-95b4-705f060e9450,fire.shoes,available,,,high,medium,4,,,,
-95f769a3-4a19-4025-b986-069d2106e5a1,franks.shoes,premium,78.54,78.54,medium,low,6,namesilo,,,
+a3e4de44-358f-486d-971a-3cfe5e66434a,anesthetic.shoes,available,34.98,81.98,high,low,10,namecheap,,,
+95f769a3-4a19-4025-b986-069d2106e5a1,franks.shoes,premium,78.54,78.54,high,low,6,namesilo,,,
 7b2abbb2-9da3-4b6c-8178-e4bfa0ed5ecb,allowed.shoes,available,39.99,,high,low,7,name.com,,,
-41c5b711-fb80-4042-b674-3c58a194a25f,belittled.shoes,available,34.98,81.98,low,low,9,namecheap,,,09/08/2026 13:06
-6058e960-63d8-4fd8-8e40-4c7f1032ddd1,groundless.shoes,available,34.98,81.98,low,low,10,namecheap,,,08/08/2026 21:49
-5bb058fa-ebe5-4736-a308-e76f59e0db5c,titlepolicy.shoes,available,39.99,,medium,low,12,name.com,,,
-3a033f5d-0dec-48d5-b91a-d7d432509596,dorsal.shoes,available,34.98,81.98,low,low,6,namecheap,,,
+6058e960-63d8-4fd8-8e40-4c7f1032ddd1,groundless.shoes,available,34.98,81.98,medium,low,10,namecheap,,,08/08/2026 21:49
+3a033f5d-0dec-48d5-b91a-d7d432509596,dorsal.shoes,available,34.98,81.98,high,low,6,namecheap,,,
 83377886-0fe1-4073-a676-fa03ab3d5206,monthly.shoes,available,39.99,,high,low,7,name.com,,,
-502810eb-3526-4502-bebe-1c9766af948b,gruelling.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 16:50
 2d8498de-2d44-4412-a28e-d53eb2952462,pocket.shoes,available,39.99,,high,medium,6,name.com,,,
-13c2775f-aa84-4b0a-ada9-1fed354d0522,raise.shoes,available,39.99,,high,low,5,name.com,,,
-b88fd57d-9e98-4671-b021-172fe437657e,spam.shoes,available,39.99,,medium,low,4,name.com,,,
-20278f1f-7b99-40ae-a555-4e447ad1015a,omnipotent.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-ad72848d-b210-4e5b-854d-ddd2a873b696,knockknock.shoes,available,39.99,,high,low,11,name.com,,,
+b88fd57d-9e98-4671-b021-172fe437657e,spam.shoes,available,39.99,,high,low,4,name.com,,,
+20278f1f-7b99-40ae-a555-4e447ad1015a,omnipotent.shoes,available,34.98,81.98,high,low,10,namecheap,,,
 b670afde-256e-4af0-bf86-346adc52b287,perform.shoes,available,39.99,,high,low,7,name.com,,,
 0f8ac85a-e960-4ba7-97c7-7d63d54d42b3,sensitive.shoes,available,39.99,,high,low,9,name.com,,,
 e3e7afa6-dd18-49ba-b6c3-54a387abd3be,devote.shoes,available,39.99,,high,low,6,name.com,,,
-5360f347-877c-4b1d-9da7-6f1790195639,abreast.shoes,available,34.98,81.98,low,low,7,namecheap,,,
+5360f347-877c-4b1d-9da7-6f1790195639,abreast.shoes,available,34.98,81.98,high,low,7,namecheap,,,
 ad63f3bd-e9ff-4fe2-aba4-5b77a3584847,protective.shoes,available,39.99,,high,low,10,name.com,,,
-666d48b4-70e8-4a68-81fc-fe25527a5048,gogreen.shoes,available,39.99,,medium,low,8,name.com,,,
-7463ad57-1961-4566-aa1a-bd18f8acbeaa,acanthotic.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-d59ea69d-d659-453b-a6eb-da1e92c938e8,coffeetablebook.shoes,available,39.99,,high,low,17,name.com,,,
-bbfdf958-a206-4ead-82df-49e5407522b6,prone.shoes,available,39.99,,medium,low,5,name.com,,,
-33e2fd9b-4583-480b-bdc2-4d7e0eca5d04,frame.shoes,available,39.99,,medium,low,5,name.com,,,
-ec74d3bd-bc84-418c-a14b-d8b886986c71,converted.shoes,available,34.98,81.98,low,low,9,namecheap,,,23/09/2026 00:43
+bbfdf958-a206-4ead-82df-49e5407522b6,prone.shoes,available,39.99,,high,low,5,name.com,,,
+33e2fd9b-4583-480b-bdc2-4d7e0eca5d04,frame.shoes,available,39.99,,high,low,5,name.com,,,
 98944f55-faa3-44b7-98d6-a156710aae5b,holding.shoes,available,39.99,,high,low,7,name.com,,,
-24149824-f1fa-447f-8390-0949fb43e171,adjuratory.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-f7309ca9-b20b-4eec-a159-1edb1dd80a49,glittering.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-a51c0f61-5038-4f86-a2f7-d65f6ea3b357,upabove.shoes,available,39.99,,low,low,8,name.com,,,
+f7309ca9-b20b-4eec-a159-1edb1dd80a49,glittering.shoes,available,34.98,81.98,high,low,10,namecheap,,,
 6f4f43f6-5b85-42e9-944c-7f8c4d68b6c9,oreo.shoes,available,39.99,,high,low,4,name.com,,,
-cffe47f8-8d8a-4366-95b6-3639e1d71c0a,gram.shoes,available,39.99,,medium,low,4,name.com,,,
-d1183bb2-08e7-497a-9ebb-f153be1d990f,diamond.shoes,premium,23.6,23.6,medium,low,7,namesilo,,,21/09/2026 16:47
+cffe47f8-8d8a-4366-95b6-3639e1d71c0a,gram.shoes,available,39.99,,high,low,4,name.com,,,
 6966b435-0d00-4039-a3f2-74bade3b39b7,greatly.shoes,available,39.99,,high,low,7,name.com,,,
-5af09f1f-9270-4a02-933f-4cbdd37d5e26,trinity.shoes,available,34.98,81.98,low,low,7,namecheap,,,21/09/2026 13:07
 a0837333-b1c0-423b-a852-8803f39c353f,atrip.shoes,available,34.98,81.98,low,low,5,namecheap,,,07/08/2026 14:33
-101621fa-4384-41c9-b742-15b80b043cc7,affected.shoes,available,34.98,81.98,low,low,8,namecheap,,,
-6b0a1d6c-624e-4350-bfb8-55edb0141aa4,useless.shoes,available,39.99,,medium,low,7,name.com,,,
-2e90cd10-b7b6-443c-b51a-accac04bba08,total.shoes,available,64.99,64.99,medium,low,5,namesilo,,,21/09/2026 22:55
-8242e231-3a4a-4443-81ca-e57f0b80e94a,batup.shoes,available,39.99,,medium,low,6,name.com,,,
-06d5be18-227e-4f40-9b44-7deafc1c11c1,acanthous.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-f94e95af-215c-4141-956f-3c32056309f2,montreal.shoes,available,39.99,,medium,low,8,name.com,,,
+101621fa-4384-41c9-b742-15b80b043cc7,affected.shoes,available,34.98,81.98,high,low,8,namecheap,,,
+6b0a1d6c-624e-4350-bfb8-55edb0141aa4,useless.shoes,available,39.99,,high,low,7,name.com,,,
+f94e95af-215c-4141-956f-3c32056309f2,montreal.shoes,available,39.99,,high,low,8,name.com,,,
 1893a9e5-36cc-4a46-a710-f57813d45a2f,circuit.shoes,available,39.99,,high,low,7,name.com,,,
 54891f17-3a8c-4c2e-a10b-cb9b4067357d,secondly.shoes,available,39.99,,medium,low,8,name.com,,,
-5ccaccb8-69e6-4d38-bad1-64b5844434cd,intent.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+5ccaccb8-69e6-4d38-bad1-64b5844434cd,intent.shoes,available,34.98,81.98,high,low,6,namecheap,,,
 36f75230-195d-4319-8435-6dab7e8ad524,rooms.shoes,available,39.99,,high,low,5,name.com,,,
-93d34864-b3c0-4ad6-b258-50aaa254da6c,analogue.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
-b627ef3b-364c-4681-9ffe-2f85b19b5d78,letknow.shoes,available,39.99,,high,low,8,name.com,,,
-54717c86-39df-49dd-827f-f3bd764c6883,arse.shoes,available,34.98,81.98,low,low,4,namecheap,,,09/08/2026 10:35
-e761fe88-85bb-41b1-b5ca-7f74ed894b40,penandink.shoes,available,39.99,,medium,low,11,name.com,,,
+93d34864-b3c0-4ad6-b258-50aaa254da6c,analogue.shoes,available,34.98,81.98,high,low,8,namecheap,,,
+54717c86-39df-49dd-827f-f3bd764c6883,arse.shoes,available,34.98,81.98,medium,low,4,namecheap,,,09/08/2026 10:35
 d490bb12-4297-484f-9ae0-c26a62a2b08d,sit.shoes,available,39.99,,high,low,3,name.com,,,
-8b696cf3-11b5-4e82-92e6-83d1179f5718,anatropous.shoes,available,34.98,81.98,low,low,10,namecheap,,,
-6aa91ba8-352a-4f7c-ad6d-ce66ac86eea5,chocolatemilk.shoes,available,39.99,,low,low,14,name.com,,,
-2bece3bf-8f5f-4548-aeb2-300ab6fe2708,newguinea.shoes,available,39.99,,low,low,10,name.com,,,
-8bde4919-765a-43d1-b992-8b38e9b006f9,cryout.shoes,available,39.99,,high,low,7,name.com,,,
+8b696cf3-11b5-4e82-92e6-83d1179f5718,anatropous.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
 91328e0f-8fc9-4b47-9940-b09c8343a05d,punch.shoes,available,39.99,,high,low,5,name.com,,,
-85c46f52-a699-4bcc-8939-7ec1f7db4068,closeoneeye.shoes,available,39.99,,high,low,13,name.com,,,
-13792c3d-69b4-4425-b9de-1f862235d93d,objects.shoes,available,39.99,,low,low,7,name.com,,,
-94f872a4-8f1c-4db2-b40a-fb02557eb300,anionic.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-01ac1393-079b-49db-9ead-84c5d3cc757f,sothat.shoes,available,39.99,,high,low,7,name.com,,,
+13792c3d-69b4-4425-b9de-1f862235d93d,objects.shoes,available,39.99,,medium,low,7,name.com,,,
+94f872a4-8f1c-4db2-b40a-fb02557eb300,anionic.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
 b4dca4da-63d4-4872-bc85-d4ebb96c45bf,buttons.shoes,available,39.99,,high,low,7,name.com,,,
-151d67cc-317c-4cb6-8a04-32d9e1d17b5a,temple.shoes,available,,,medium,low,6,,,,
-d311f3ed-8d33-43a6-8bc1-ee971ffb897c,passionately.shoes,available,39.99,,medium,low,12,name.com,,,
+151d67cc-317c-4cb6-8a04-32d9e1d17b5a,temple.shoes,available,,,high,low,6,,,,
+d311f3ed-8d33-43a6-8bc1-ee971ffb897c,passionately.shoes,available,39.99,,high,low,12,name.com,,,
 947bb56e-6ebf-43f8-8943-8f1bdbd0af52,fence.shoes,available,39.99,,high,low,5,name.com,,,
-a43117e6-7720-4e36-932c-a0f9d9c1ae19,onthebubble.shoes,available,39.99,,medium,low,13,name.com,,,
 4eb0db88-1eae-4e86-8167-e7743a511a9e,phrase.shoes,available,39.99,,high,low,6,name.com,,,
 d6d95388-e274-4a8e-a45f-2a8fb5aa7c2d,diplomate.shoes,available,39.99,,high,low,9,name.com,,,
-780b35fa-f51e-4f3f-b78f-1cac2951b072,atatime.shoes,available,39.99,,medium,low,9,name.com,,,
-685c3dd0-8f01-4516-b0b4-7d7f01b43e17,upward.shoes,available,39.99,,medium,low,6,name.com,,,
-79fc1089-c5f8-4ca5-98cc-8b2526dc5216,recognition.shoes,available,39.99,,medium,low,11,name.com,,,
-c1ef7512-6c05-4941-92ab-6cc3d363ae0d,agape.shoes,available,34.98,81.98,medium,low,5,namecheap,,,
-339825de-7dce-4489-af49-19dd6ee3e402,crap.shoes,available,39.99,,medium,low,4,name.com,,,
-9007fbd6-234b-459d-b151-f833f2b66faa,asshole.shoes,available,34.98,81.98,low,low,7,namecheap,,,08/08/2026 23:24
-35867511-d71c-4fa7-8b46-796e4fc9d0b1,important.shoes,available,64.99,64.99,medium,low,9,namesilo,,,22/09/2026 13:54
-f0b8524c-4433-4638-9cbe-a7ba54600737,onehundred.shoes,available,39.99,,low,low,11,name.com,,,
+685c3dd0-8f01-4516-b0b4-7d7f01b43e17,upward.shoes,available,39.99,,high,low,6,name.com,,,
+79fc1089-c5f8-4ca5-98cc-8b2526dc5216,recognition.shoes,available,39.99,,high,low,11,name.com,,,
+c1ef7512-6c05-4941-92ab-6cc3d363ae0d,agape.shoes,available,34.98,81.98,high,low,5,namecheap,,,
+339825de-7dce-4489-af49-19dd6ee3e402,crap.shoes,available,39.99,,high,low,4,name.com,,,
+9007fbd6-234b-459d-b151-f833f2b66faa,asshole.shoes,available,34.98,81.98,medium,low,7,namecheap,,,08/08/2026 23:24
 a6085592-b74d-4a57-ad47-7dc9d03e5f50,drawing.shoes,available,39.99,,high,low,7,name.com,,,
-628e11ff-716b-48c0-b459-e900fb338322,approving.shoes,available,34.98,81.98,low,low,9,namecheap,,,06/08/2026 08:49
+628e11ff-716b-48c0-b459-e900fb338322,approving.shoes,available,34.98,81.98,high,low,9,namecheap,,,06/08/2026 08:49
 f074e8ec-af69-4faf-86ce-9486b2ef6cbb,parent.shoes,available,39.99,,high,low,6,name.com,,,
-5ff85a6c-e336-4817-b06c-f64f3ace9bb1,fail.shoes,available,39.99,,medium,low,4,name.com,,,
-867b04e0-28f1-4900-b07e-0711ba0fec57,asternal.shoes,available,34.98,81.98,low,low,8,namecheap,,,07/08/2026 09:06
-44646442-cba0-42a6-b90e-a287f9cf0499,bareass.shoes,available,34.98,81.98,low,low,8,namecheap,,,08/08/2026 18:10
+5ff85a6c-e336-4817-b06c-f64f3ace9bb1,fail.shoes,available,39.99,,high,low,4,name.com,,,
 99a9d0ea-6e78-4539-8ec3-d01ab45734d9,loosely.shoes,available,39.99,,medium,low,7,name.com,,,
-84ca1505-8470-475d-b44b-6fa0a7b0c514,letout.shoes,available,39.99,,high,low,7,name.com,,,
-b3251c4e-4297-48b2-8c5b-1912fd793909,move.shoes,available,39.99,,high,medium,4,name.com,,,
-a7c3f54a-bcda-4cd5-b7b9-11398235683f,distribution.shoes,available,34.98,81.98,low,low,12,namecheap,,,23/09/2026 07:20
-3ebc99b0-367e-4a07-a79e-52b20f353f23,apocrine.shoes,available,34.98,81.98,low,low,8,namecheap,,,06/08/2026 01:05
-ed0cb6b6-9323-4f67-b0bc-cfad3b60d04c,balletic.shoes,available,34.98,81.98,medium,low,8,namecheap,,,08/08/2026 10:26
+ed0cb6b6-9323-4f67-b0bc-cfad3b60d04c,balletic.shoes,available,34.98,81.98,high,low,8,namecheap,,,08/08/2026 10:26
 322c57bf-e5fc-4f57-bb75-fbcbbcdf98cf,footballer.shoes,available,39.99,,high,low,10,name.com,,,
 3031ac6a-cfda-44a0-89c2-24669933072f,voting.shoes,available,39.99,,high,low,6,name.com,,,
-b3049ad8-bc1a-433f-97a2-0ea33c9cb277,ham.shoes,available,39.99,,medium,low,3,name.com,,,
-465d513a-1066-4e6a-be13-e24a01ec2b5b,recognisable.shoes,available,39.99,,high,low,12,name.com,,,
+b3049ad8-bc1a-433f-97a2-0ea33c9cb277,ham.shoes,available,39.99,,high,low,3,name.com,,,
 84aaf606-a9cf-49db-8532-7c92c0e55c8b,critique.shoes,available,39.99,,high,low,8,name.com,,,
-e786ab06-5795-44c3-bfe7-275c09ace317,unfounded.shoes,available,34.98,81.98,low,low,9,namecheap,,,08/08/2026 21:57
-39a09901-c9c3-48ae-b536-65fde15ee082,ricemilk.shoes,available,39.99,,low,low,9,name.com,,,
-e2800fec-2c3e-4cca-a20c-b96ca473c0a1,oyster.shoes,available,39.99,,medium,low,6,name.com,,,
+e786ab06-5795-44c3-bfe7-275c09ace317,unfounded.shoes,available,34.98,81.98,medium,low,9,namecheap,,,08/08/2026 21:57
+e2800fec-2c3e-4cca-a20c-b96ca473c0a1,oyster.shoes,available,39.99,,high,low,6,name.com,,,
 03269a9a-e2f6-413e-b2af-1a4780d660c3,measure.shoes,available,39.99,,high,low,7,name.com,,,
-ad8512e7-dcbf-4020-9c01-d80b080a7f3a,fun.shoes,premium,78.54,78.54,medium,low,3,namesilo,,,23/09/2026 04:48
-6da2ba53-b75e-46e2-ad37-1cbb0150d6a1,unshakable.shoes,available,64.99,64.99,medium,low,10,namesilo,,,23/09/2026 10:41
 d5efd235-2fa4-4b1b-a27b-8093ffc95db2,song.shoes,available,39.99,,high,low,4,name.com,,,
-9bc0ab65-8bce-4dd3-a4d0-3c6fc42ca100,absurd.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
-159d06aa-c2d0-4eca-b690-d7459b092330,merely.shoes,available,39.99,,medium,low,6,name.com,,,
-e6c0909d-5bbf-413c-8480-6f15e0c8908b,arts.shoes,available,64.99,64.99,medium,low,4,namesilo,,,23/09/2026 06:35
-ab959ab6-95dc-4052-9680-69c886c94430,sweettea.shoes,available,39.99,,medium,low,9,name.com,,,
-1923ce7b-f480-43b2-82a3-5a925859f095,tilted.shoes,available,34.98,81.98,low,low,6,namecheap,,,07/08/2026 13:29
-daf25641-fe85-43dc-908a-1255b4c69c45,oilandwater.shoes,available,39.99,,low,low,13,name.com,,,
+9bc0ab65-8bce-4dd3-a4d0-3c6fc42ca100,absurd.shoes,available,34.98,81.98,high,low,6,namecheap,,,
+159d06aa-c2d0-4eca-b690-d7459b092330,merely.shoes,available,39.99,,high,low,6,name.com,,,
+1923ce7b-f480-43b2-82a3-5a925859f095,tilted.shoes,available,34.98,81.98,high,low,6,namecheap,,,07/08/2026 13:29
 23b54a1a-2c61-4a1a-8602-14fa40c360cb,outer.shoes,available,39.99,,high,low,5,name.com,,,
 5863f2c2-d961-4382-a378-2921456e4ae9,paul.shoes,available,39.99,,high,medium,4,name.com,,,
-e5d8d756-6a64-4494-abae-207edcade10b,surrogate.shoes,available,64.99,64.99,low,low,9,namesilo,,,22/09/2026 02:27
 8d2415e9-1a1f-4d6f-ae30-2d989919346e,resolved.shoes,available,39.99,,high,low,8,name.com,,,
-da907d70-f3f5-419d-b226-b6b49c385f20,ideally.shoes,available,39.99,,medium,low,7,name.com,,,
-db76e8cd-a1ed-4f24-b948-b342a617fddd,grandniece.shoes,available,39.99,,high,low,10,name.com,,,
+da907d70-f3f5-419d-b226-b6b49c385f20,ideally.shoes,available,39.99,,high,low,7,name.com,,,
 116dfcb4-ac37-4410-a516-9b31e5de90e5,extraordinary.shoes,available,39.99,,high,low,13,name.com,,,
-de94c8f0-3a0a-483d-9edf-2e5954be156c,prescription.shoes,available,39.99,,medium,low,12,name.com,,,
+de94c8f0-3a0a-483d-9edf-2e5954be156c,prescription.shoes,available,39.99,,high,low,12,name.com,,,
 7e490bb5-ac98-438d-92c9-a588f41f7d5c,casket.shoes,available,39.99,,high,low,6,name.com,,,
-5b6a6511-f9aa-4eeb-959f-1c7635cbc90d,restless.shoes,available,39.99,,medium,low,8,name.com,,,
+5b6a6511-f9aa-4eeb-959f-1c7635cbc90d,restless.shoes,available,39.99,,high,low,8,name.com,,,
 6b2b7407-64f5-4ac9-8594-0e570bf24aaa,arena.shoes,available,39.99,,high,medium,5,name.com,,,
-69df6cbd-2ebf-4e6c-b1ba-2e6051db96c6,parents.shoes,available,39.99,,medium,low,7,name.com,,,
+69df6cbd-2ebf-4e6c-b1ba-2e6051db96c6,parents.shoes,available,39.99,,high,low,7,name.com,,,
 f57cc2e4-6988-4639-94b7-10f0ba770efe,nation.shoes,available,39.99,,high,low,6,name.com,,,
-94e4aae7-d9a4-422d-8be9-df7687256654,turtlenecksweater.shoes,available,39.99,,high,low,18,name.com,,,
-f6b58062-0459-4975-a7e2-1cb9da9995ac,web.shoes,premium,128.7,128.7,medium,low,3,namecheap,,,19/09/2026 18:14
-e0eef883-02f0-4750-8703-def80984a206,touchbase.shoes,available,39.99,,medium,low,10,name.com,,,
-f1b3d4ca-2529-4602-a932-e65b5999d587,before.shoes,available,64.99,64.99,medium,low,6,namesilo,,,21/09/2026 23:34
 9d5adb28-f97b-4b18-9858-cce760e832d3,fatuous.shoes,available,34.98,81.98,low,low,7,namecheap,,,07/08/2026 02:39
 f886a2e8-308e-45f2-b9cb-8abe020763ac,asia.shoes,premium,500,,high,low,4,name.com,,,
 3259c9d8-9441-4cf0-9b7a-131043c19e75,icu.shoes,available,39.99,,high,low,3,name.com,,,
 f2063c97-5ca6-49d5-8b2d-0f2b82826b17,bang.shoes,available,39.99,,high,low,4,name.com,,,
 34b74585-d585-45d6-85f3-d8182a0609bd,christ.shoes,available,39.99,,high,low,6,name.com,,,
 317b6f6e-b978-4ef1-9e9d-ba575fd204c8,march.shoes,available,,,high,low,5,,,,
-486c17b8-9c56-417f-8db1-106e4d822566,apparent.shoes,available,34.98,81.98,low,low,8,namecheap,,,06/08/2026 05:08
-86a830e2-9a27-4f2a-98fe-b6167c8d3050,artgallery.shoes,available,39.99,,high,low,11,name.com,,,
-750e5cb4-9731-4f8b-a875-fa05c287553b,nonstop.shoes,available,64.99,64.99,medium,low,7,namesilo,,,22/09/2026 08:07
+486c17b8-9c56-417f-8db1-106e4d822566,apparent.shoes,available,34.98,81.98,high,low,8,namecheap,,,06/08/2026 05:08
 c3e80eea-9c89-4b83-ac53-8e0e86a25dec,woman.shoes,premium,78.54,78.54,high,low,5,namesilo,,,
-ae7d8157-d5fd-4241-9b8e-ba6a2411d5ba,billbird.shoes,available,39.99,,medium,low,9,name.com,,,
 6b6d3e79-1bbe-44b8-91f5-f73c36c3a2ae,baric.shoes,available,34.98,81.98,low,low,5,namecheap,,,08/08/2026 19:31
 f57734be-b728-428b-b78d-e8cf08e86d57,fist.shoes,available,39.99,,high,low,4,name.com,,,
 58418b65-ee6d-4987-a6d3-8858a3857181,argentine.shoes,available,,,high,low,9,,,,
 9977399d-bf4b-4c53-b9d6-e5dace830d97,chanukkah.shoes,available,39.99,,medium,low,9,name.com,,,
 b9cbb047-9b64-4749-b84d-7cf6ab127806,roar.shoes,available,39.99,,high,low,4,name.com,,,
-db12fe56-0db7-4bcf-a907-995c6b3d36de,noticeable.shoes,available,39.99,83.99,medium,low,10,name.com,,,
-96a26e55-3b00-434e-bc66-28c4dc51ddca,gotten.shoes,available,39.99,,medium,low,6,name.com,,,
+96a26e55-3b00-434e-bc66-28c4dc51ddca,gotten.shoes,available,39.99,,high,low,6,name.com,,,
 e6b8b5d4-7afb-493e-a7e2-5eddf5aa77bb,per.shoes,available,39.99,,high,low,3,name.com,,,
-780b6f27-8a56-40cd-b8bb-8ccb3da53961,upsidedowncake.shoes,available,39.99,,high,low,16,name.com,,,
-5a4f116f-439d-4b0c-81af-851f5013d263,harrowing.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-a4d098b1-0d92-4bb1-8f6d-6b7121dd8770,sise.shoes,available,34.98,81.98,low,low,4,namecheap,,,
-d6fdf76f-7c4b-4dfb-aeda-d0cf1c531bff,xviii.shoes,available,64.99,64.99,low,low,5,namesilo,,,21/09/2026 12:00
+5a4f116f-439d-4b0c-81af-851f5013d263,harrowing.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+a4d098b1-0d92-4bb1-8f6d-6b7121dd8770,sise.shoes,available,34.98,81.98,medium,low,4,namecheap,,,
 d4ebc197-0655-49a9-bc90-76f2a3bbfc39,dslr.shoes,available,39.99,,high,low,4,name.com,,,
-8fc65351-a627-416a-92cc-379969c6f07e,wiz.shoes,available,34.98,81.98,medium,low,3,namecheap,,,21/09/2026 18:16
-434e9ea5-7912-4e59-806c-4c160e627c84,givein.shoes,available,39.99,,high,low,7,name.com,,,
-98a363c4-6831-47e1-a377-c007d0bf11b3,sideways.shoes,available,64.99,64.99,low,low,8,namesilo,,,24/09/2026 01:14
-3dd4d8b3-90e4-40ae-b5c9-e6bd23dfadd0,thereagain.shoes,available,39.99,,low,low,11,name.com,,,
-0e63555b-3dea-4277-a904-bf15060d0cf3,silverprint.shoes,available,39.99,,low,low,12,name.com,,,
-04d12935-d4c9-42cc-93c6-dd5379bbff9f,asof.shoes,available,39.99,,medium,low,5,name.com,,,
-618c090b-000e-4b72-9c35-3bb03e3b19c3,ascendant.shoes,available,34.98,81.98,low,low,9,namecheap,,,
-6a57f65e-aaba-4869-898d-c1e3801acb7f,spectral.shoes,available,34.98,81.98,low,low,8,namecheap,,,06/08/2026 05:38
-e00290ab-705f-48fe-91c5-6c0037eb19bc,wealthy.shoes,available,64.99,64.99,medium,low,7,namesilo,,,21/09/2026 21:57
-61a2cd13-817b-46c7-a1bc-4d39975b02cd,overagain.shoes,available,34.98,81.98,low,low,10,namecheap,,,13/09/2026 18:13
+618c090b-000e-4b72-9c35-3bb03e3b19c3,ascendant.shoes,available,34.98,81.98,high,low,9,namecheap,,,
+6a57f65e-aaba-4869-898d-c1e3801acb7f,spectral.shoes,available,34.98,81.98,high,low,8,namecheap,,,06/08/2026 05:38
 fad39420-118c-4e91-b735-410988e61fcd,customer.shoes,available,39.99,,high,low,8,name.com,,,
-2ad83e95-0985-4f3f-98e9-f456cd330f32,airsick.shoes,available,34.98,81.98,low,low,7,namecheap,,,
-2972e1d5-eeaa-43ac-97b5-59f86281e49d,halt.shoes,available,64.99,64.99,low,low,4,namesilo,,,24/09/2026 01:49
-fbce21c2-e452-4dc7-b432-fee8fb4a5758,name.shoes,available,,,high,low,4,,,,
-30e3bf3d-9da3-4dc1-8de7-8b3801c0aede,cod.shoes,available,64.99,64.99,low,low,3,namesilo,,,23/09/2026 14:56
 22235d9f-bcbc-4397-8a3e-0336dabdc50a,mother.shoes,available,39.99,,high,low,6,name.com,,,
-d2998a2a-171d-4dcc-8b03-4381b6625a11,network.shoes,available,64.99,64.99,low,low,7,namesilo,,,23/09/2026 02:58
 4bc6b317-ec64-41c1-84d5-b461ca63068b,smell.shoes,available,39.99,,high,low,5,name.com,,,
-b594d019-3081-48ae-a841-611ac62c1dd8,awny.shoes,available,34.98,81.98,low,low,4,namecheap,,,08/08/2026 01:25
-8c93cfe9-1244-41c4-b6e7-92691657fb59,middleeastern.shoes,available,39.99,,medium,low,14,name.com,,,
-8e27c827-0437-44e5-878b-96161e2494e7,stretch.shoes,available,34.98,81.98,medium,low,7,namecheap,,,21/09/2026 20:13
-d86bce06-3b2c-4028-9a52-3572fba0a60a,reflexively.shoes,available,39.99,,low,low,11,name.com,,,
+b594d019-3081-48ae-a841-611ac62c1dd8,awny.shoes,available,34.98,81.98,medium,low,4,namecheap,,,08/08/2026 01:25
+3b438d2e-11a4-4e0f-a308-2b44b0a1769e,lxiii.shoes,available,34.98,81.98,medium,low,5,namecheap,,,
+11a15ec4-313c-44e7-9aeb-bc5a490de1de,she.shoes,available,39.99,,high,low,3,name.com,,,
+79cde474-f59c-49f3-b177-5a3a9023ea71,commend.shoes,available,39.99,,high,low,7,name.com,,,
+0195391a-d717-4e2b-be7f-4f8de7c8fd6c,regardless.shoes,available,39.99,,high,low,10,name.com,,,
+36807787-a6c5-4c5d-b366-d99de6de4f25,surprised.shoes,available,39.99,,high,low,9,name.com,,,
+7a0b80e7-7839-4c91-9678-5595af05fef7,adieu.shoes,available,39.99,,high,low,5,name.com,,,
+0e3194ea-eca0-4200-8b46-5983b3934a2d,original.shoes,available,39.99,,high,low,8,name.com,,,
+a5d3f70f-c002-4952-b284-358b5299b9f1,signal.shoes,available,39.99,,high,medium,6,name.com,,,
+c7c856d5-fad6-4c7e-9d1f-97adaf9dc44c,humorous.shoes,available,39.99,,high,low,8,name.com,,,
+77d38014-0d58-423d-90ab-b465d7479758,discussion.shoes,available,39.99,,high,low,10,name.com,,,
+913d5ba9-709a-4cfd-8802-d60faa56b1da,antitoxic.shoes,available,34.98,81.98,medium,low,9,namecheap,,,05/08/2026 19:55
+30075b5f-d750-468f-9a7c-83623975df68,philippines.shoes,available,,,high,low,11,,,,
+a2bf8601-fd9b-4a20-bc75-5d9f14da11a7,reply.shoes,available,39.99,,high,low,5,name.com,,,
+ac08df33-789f-4e7b-978b-7dbf3aba54da,aciculate.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+465f2677-aef1-4c50-a66c-3c2dd677e4e6,eolian.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+346db7a8-6429-4ee6-95dd-399d8c814cb5,brutal.shoes,available,34.98,81.98,high,low,6,namecheap,,,08/08/2026 15:45
+d857d37d-e455-4b10-9b3a-79868410761c,eat.shoes,available,39.99,,high,low,3,name.com,,,
+b6807482-30b1-4bc5-a9b4-c58d680bb95d,sounded.shoes,available,39.99,,medium,low,7,name.com,,,
+7161b370-424b-4e2f-8abe-725212585585,anaemia.shoes,available,39.99,,medium,low,7,name.com,,,
+fc39d3b7-05d4-4b26-ad2a-fdf7c7b3ee61,thorny.shoes,available,34.98,81.98,medium,low,6,namecheap,,,08/08/2026 17:55
+81c61a1f-d527-42e9-b693-4b64225658c6,evolve.shoes,available,39.99,,high,low,6,name.com,,,
+09b2db80-ab50-4244-8da3-4e090deb8f43,represent.shoes,available,39.99,,high,low,9,name.com,,,
+dcafb32a-46f1-47ef-b63b-2435889eff01,pungent.shoes,available,34.98,81.98,high,low,7,namecheap,,,
+f916c688-6389-4b67-a213-05b17192c98c,discard.shoes,available,39.99,,high,low,7,name.com,,,
+5822480a-2d27-432b-830a-cb39866c0450,scream.shoes,available,39.99,,high,low,6,name.com,,,
+b0f75c96-4a46-4aac-8f79-41723edd1e3a,wikimedia.shoes,available,,,medium,low,9,,,,
+83b89ccc-45f3-41c0-a266-36584fbd034e,wig.shoes,available,39.99,,high,low,3,name.com,,,
+4dbd979f-b4a3-4be4-a06b-31478d28d44f,younger.shoes,available,39.99,,high,low,7,name.com,,,
+5f1b781e-90a0-4c2c-a54a-14787d13cb1f,whom.shoes,available,39.99,,medium,low,4,name.com,,,
+7c1eefac-c8c9-4abb-b66d-259757234edf,nokia.shoes,available,,,high,low,5,,,,
+1f7a1e38-f451-41f5-a3d7-8ac98b24f6fa,soundlike.shoes,available,39.99,,medium,low,10,name.com,,,
+42c4c904-ac1a-4c0e-86fd-c4fb44c9beb1,adverse.shoes,available,34.98,81.98,high,low,7,namecheap,,,
+db4ea2ac-3d9c-4c86-90f9-c45b5b624dbc,bar.shoes,available,39.99,,high,low,3,name.com,,,
+92a3ac80-4f9a-4291-be78-ade2cd90c299,acyclic.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
+a4a63640-4b6c-4cec-aebb-a43e8e91838d,apoplectic.shoes,available,34.98,81.98,medium,low,10,namecheap,,,06/08/2026 03:29
+16ac5ccb-c080-43ab-aad9-fd5886c3fec3,ale.shoes,available,39.99,,high,low,3,name.com,,,
+bfa8ae3a-04e7-4be1-9484-416fd15ed8da,coruscant.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+504d22ab-e119-4fb5-ab0c-5d695bef9bb2,vomiting.shoes,available,39.99,,high,low,8,name.com,,,
+094a11f6-ee6c-4e00-9891-3c324aa5a112,scrubbed.shoes,available,39.99,,high,low,8,name.com,,,
+2cfb93ad-1714-4c87-81f5-ed60b994759b,batwing.shoes,available,34.98,81.98,medium,low,7,namecheap,,,09/08/2026 01:49
+46fe3eaf-8b6d-4142-83aa-a2a900c743f4,specific.shoes,available,39.99,,high,low,8,name.com,,,
+6d93f856-1a4d-4886-bb47-5b51fbd01064,amerind.shoes,available,34.98,81.98,high,low,7,namecheap,,,
+d5928454-931f-4345-a713-5ec602d33d36,scented.shoes,available,39.99,,high,low,7,name.com,,,
+b35c7a0f-bd39-46f9-836a-f6854378f9cd,collision.shoes,available,39.99,,high,low,9,name.com,,,
+7bde9938-8392-4e8a-9a5b-57a7d1bab5d5,topless.shoes,available,34.98,81.98,medium,low,7,namecheap,,,08/08/2026 18:33
+cf72f794-7ec9-48c7-b37e-89ec6a516a5e,autologous.shoes,available,34.98,81.98,medium,low,10,namecheap,,,07/08/2026 20:37
+db5c9988-e0df-4103-a732-cf848dae21b3,dissonant.shoes,available,34.98,81.98,medium,low,9,namecheap,,,07/08/2026 12:26
+8095f03e-3d46-491d-a7d7-d7f1b66099b8,tasking.shoes,available,39.99,,high,low,7,name.com,,,
+675606d0-a3ef-4f8e-bc23-929143ba7545,needle.shoes,available,39.99,,high,low,6,name.com,,,
+ad9d96fe-4a2e-449e-bf97-298eca3b6ac4,asymptotic.shoes,available,34.98,81.98,medium,low,10,namecheap,,,07/08/2026 10:30
+2a986ace-5204-4dc5-8406-cdfc513cf372,coast.shoes,available,39.99,,high,low,5,name.com,,,
+f9b1ca55-84ec-4cb1-918f-3af24782d880,dvd.shoes,available,39.99,,high,low,3,name.com,,,
+14db10cf-f351-4400-8bef-8ab61f79acd0,pronounce.shoes,available,39.99,,high,low,9,name.com,,,
+58f759bc-bf5b-483a-a0c9-80eb77b98a9b,aslant.shoes,available,34.98,81.98,medium,low,6,namecheap,,,07/08/2026 03:56
+7e60a043-f7f6-4f8f-8486-1e771bb3b20c,turncoat.shoes,available,34.98,81.98,medium,low,8,namecheap,,,06/08/2026 03:49
+9ad52851-4134-4e3e-8196-563cb342e39d,dewy.shoes,available,34.98,81.98,medium,low,4,namecheap,,,09/08/2026 06:51
+9b4df49d-93d9-4930-9f61-9402d5760a92,miffed.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+62475680-d5fa-4c00-8b21-3f7f2eaf3b25,bahraini.shoes,available,34.98,81.98,medium,low,8,namecheap,,,08/08/2026 08:36
+a7ffb6f0-c989-4c3c-beea-c79f82f5c536,identical.shoes,available,39.99,,high,low,9,name.com,,,
+0b4b8047-6b3f-47a4-acb2-b609fda3de7e,recommendation.shoes,available,39.99,,high,low,14,name.com,,,
+6276261d-945e-4c10-b950-769aa7a6c242,net.shoes,available,,,high,low,3,,,,
+ad01607f-e2ad-47dc-a8ce-f29ceb516734,successes.shoes,available,39.99,,medium,low,9,name.com,,,
+83e9f0e4-4d3a-4c97-92a5-d94c0bdf2f68,basement.shoes,available,39.99,,high,low,8,name.com,,,
+814af969-e735-4599-9b39-35a3c7514167,sourcecode.shoes,available,34.98,81.98,high,low,11,namecheap,,,08/09/2026 07:26
+426adadc-9ce8-4b96-b14e-e151616e9fd0,pete.shoes,available,39.99,,high,low,4,name.com,,,
+cc753abc-d3e5-403e-aeb0-fef5e31a5973,supervise.shoes,available,39.99,,high,low,9,name.com,,,
+728096d4-e45c-4563-abbb-df11ad6a8982,resignation.shoes,available,39.99,,high,low,11,name.com,,,
+8f10b2a0-fa3c-4fc8-aef5-b2cfb107f49b,society.shoes,available,39.99,,high,low,7,name.com,,,
+02c8a1e0-94c8-44f8-8200-a6a602000b25,road.shoes,available,39.99,,high,low,4,name.com,,,
+37705a62-53f5-4879-8ed9-a46e09b95a75,relating.shoes,available,39.99,,high,low,8,name.com,,,
+50383368-a7cd-4e5f-b6f3-f5124c69325b,fraud.shoes,available,39.99,,high,low,5,name.com,,,
+5b3d8e4b-365e-4a09-bf86-55866e93079f,talks.shoes,available,39.99,,high,low,5,name.com,,,
+59204c4c-cc21-4c10-bb8a-fc1dac3471e3,hater.shoes,available,39.99,,medium,low,5,name.com,,,
+2719eebe-dcf9-4b59-8046-fe62aa3ec52e,industrialize.shoes,available,39.99,,medium,low,13,name.com,,,
+10b8bbac-9828-4daa-b995-5d7862caed37,bay.shoes,available,34.98,81.98,high,low,3,namecheap,,,09/08/2026 02:26
+8222f6b5-b846-459c-980e-946d32a32425,scarface.shoes,available,39.99,,high,low,8,name.com,,,
+421d340b-3ac8-4e0e-a474-4b7ebe37617e,allergist.shoes,available,39.99,,medium,low,9,name.com,,,
+fa7de829-569b-4aef-bfa2-66efefdcc5ef,temperature.shoes,available,39.99,,high,low,11,name.com,,,
+2def55e9-65a9-4288-b47d-18cec0e50d74,distinguished.shoes,available,39.99,,high,low,13,name.com,,,
+229cb594-d2b0-4efe-9fad-d27f498e1784,damascus.shoes,premium,118.8,118.8,high,low,8,namesilo,,,
+b7e4a310-9bee-4c94-935e-f0a2c64f0cc2,die.shoes,available,39.99,,high,low,3,name.com,,,
+03fc8a68-83b8-462d-83ac-e42dc625aa27,unlocking.shoes,available,39.99,,high,low,9,name.com,,,
+7c27474a-10a2-4236-9ed8-ad18b444153a,francisca.shoes,available,39.99,,high,low,9,name.com,,,
+ef2892f8-843e-4382-bcc5-4dd81da53931,week.shoes,available,39.99,,high,low,4,name.com,,,
+68ba4de6-f3d1-4578-8a0d-e6b1befd5274,flu.shoes,available,39.99,,high,low,3,name.com,,,
+c350dd5e-d7bd-44b3-9fea-2b2abd67840a,spirits.shoes,available,39.99,,high,low,7,name.com,,,
+eb86a5c5-ac4d-4618-af0a-a5496b10319d,laura.shoes,available,39.99,,high,low,5,name.com,,,
+13a8db28-1289-4f84-9c94-24046242f85f,consultive.shoes,available,34.98,81.98,high,low,10,namecheap,,,
+a10ea9df-87d1-4813-96be-3e2a44f04bdf,bashful.shoes,available,34.98,81.98,high,low,7,namecheap,,,08/08/2026 22:01
+f3c30b5b-6bb7-46cf-b4d0-6d6dee10c4ac,eonian.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+9ee0e13b-4753-49ed-81db-3b548d42ab41,oak.shoes,available,39.99,,high,low,3,name.com,,,
+30ab8281-91b5-46c6-9fef-6a9de8c9890d,deviate.shoes,available,34.98,81.98,high,low,7,namecheap,,,
+a8d8a650-4130-4212-8f84-a008e7ad202c,amok.shoes,available,34.98,81.98,high,low,4,namecheap,,,
+3f5a1689-f3f5-440c-a44e-e48458fcbf30,oslo.shoes,available,39.99,,high,low,4,name.com,,,
+17db815e-47b8-47fb-b9d1-a45349b92ce8,people.shoes,available,39.99,,high,medium,6,name.com,,,
+44d5ee52-502d-4a35-b03c-358f49c48c2e,consumer.shoes,available,39.99,,high,low,8,name.com,,,
+2a91dab1-9dd8-4211-aef6-6f10a07a7142,newton.shoes,available,39.99,,high,low,6,name.com,,,
+368bfe75-c86f-47df-ba3a-21b22e7038f4,prison.shoes,available,39.99,,high,low,6,name.com,,,
+1c843a51-1c9b-4946-a9e5-35e80345a954,bareback.shoes,available,34.98,81.98,medium,low,8,namecheap,,,08/08/2026 18:38
+ec6a2313-f318-41d4-a63f-ca503b62a7b4,echo.shoes,available,39.99,,high,medium,4,name.com,,,
+40430f65-e0a4-4d82-8706-6c1a9a510123,owned.shoes,available,39.99,,high,low,5,name.com,,,
+dfa4a36a-f7cc-4684-885e-47018c0c738b,poster.shoes,available,39.99,,high,low,6,name.com,,,
+d4be00a6-62bc-4c0f-9fb4-d71cb355ffb3,sleeping.shoes,available,39.99,,high,low,8,name.com,,,
+7d62b803-d2ce-47e3-95c4-a2dda7e91327,screening.shoes,available,39.99,,high,low,9,name.com,,,
+45c6bc51-e2ed-4a7a-9c2f-8a138b0a61fa,assessable.shoes,available,34.98,81.98,medium,low,10,namecheap,,,07/08/2026 06:04
+37b21334-5b07-423b-8ebc-75b1edb2383d,grueling.shoes,available,34.98,81.98,high,low,8,namecheap,,,06/08/2026 16:45
+4055e72d-2a91-45ba-8dfe-d15a354e81dd,mmr.shoes,available,39.99,,high,low,3,name.com,,,
+eaf3905c-e67e-4f5d-8b0f-013d7fb420c3,kilogramme.shoes,available,39.99,,high,low,10,name.com,,,
+913e7ad0-0933-49f1-9504-00899899b015,ambrosial.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+7be5f059-4831-4246-b831-8b2b51c55905,overlook.shoes,available,39.99,,high,low,8,name.com,,,
+0a516da2-2f24-4c66-987d-88d5d0e947a9,mild.shoes,available,39.99,,high,low,4,name.com,,,
+966b39b0-d59c-4dd2-948c-0cad2de1cc42,prat.shoes,available,34.98,81.98,medium,low,4,namecheap,,,09/08/2026 11:18
+f4ee45c5-f93b-4b02-af9a-eb0e992c1aff,speeding.shoes,available,39.99,,high,low,8,name.com,,,
+4187ddc3-ffc7-4346-ae00-9e1e08f9233d,bankable.shoes,available,34.98,81.98,high,low,8,namecheap,,,08/08/2026 13:24
+6029cf8e-fc79-488d-8459-c9242b008297,ingenuous.shoes,available,34.98,81.98,medium,low,9,namecheap,,,06/08/2026 23:41
+b77d53e7-77a7-4ebc-a7ae-a29ff0fc2ab7,dining.shoes,available,39.99,,high,low,6,name.com,,,
+9d291c1c-ba1b-4134-b562-a13fc3c52444,significantly.shoes,available,39.99,,medium,low,13,name.com,,,
+f3cd5182-b64d-4254-852e-d7a43f952c24,existence.shoes,available,39.99,,high,low,9,name.com,,,
+b028f4ae-41b1-4bde-81a8-b5e5c3d81c11,interesting.shoes,available,39.99,,high,low,11,name.com,,,
+ac867a29-2dda-485d-8f62-0b83e22b02ae,archean.shoes,available,34.98,81.98,medium,low,7,namecheap,,,06/08/2026 15:05
+6d116371-9d51-4716-bad3-24c0574ae7eb,visibility.shoes,available,39.99,,high,low,10,name.com,,,
+b679b951-13f2-496f-8e61-13170bf7bd1c,adient.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+48fcde0f-cbba-4316-903b-c2aab4cfb77e,clickbait.shoes,available,39.99,,medium,low,9,name.com,,,
+01223435-0d63-41e0-ab6b-965418f2b845,sacrificial.shoes,available,39.99,,high,low,11,name.com,,,
+99c8ff12-2d32-4447-bac3-525961b92387,printable.shoes,available,39.99,,high,low,9,name.com,,,
+9d771605-6faf-4009-8b82-ac9abdcd589a,quarters.shoes,available,39.99,,high,low,8,name.com,,,
+dd8b89a7-e28f-4ba0-a0fc-83dd6dd8fee4,hunger.shoes,available,39.99,,high,low,6,name.com,,,
+afa1f65e-37c4-46f2-9081-765628ceb8ef,court.shoes,available,39.99,,high,low,5,name.com,,,
+e1593fa1-4b4f-4f0f-a7db-768d8c24cb05,breathtaking.shoes,available,39.99,,high,low,12,name.com,,,
+8533ddff-5b45-4c27-ae59-db78b89334cf,widowed.shoes,available,39.99,,medium,low,7,name.com,,,
+b7aeeb8a-9f83-4d93-9bff-30159cf55dac,merit.shoes,available,39.99,,high,low,5,name.com,,,
+1267cbb7-ac69-410d-8ac0-c3f4215c28c4,algonkin.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
+5bedb341-3a66-4d1e-a022-8283e7be4960,tillable.shoes,available,34.98,81.98,medium,low,8,namecheap,,,06/08/2026 11:25
+bab6d5d3-90f5-47cd-9aa3-40c08e587c0c,atacama.shoes,available,39.99,,high,low,7,name.com,,,
+6160ed05-ad94-4d47-9570-c5dad4985ba5,hindsight.shoes,available,39.99,,high,low,9,name.com,,,
+f9cf2716-3819-4beb-ac59-7995215b2e8d,brain.shoes,available,39.99,,high,medium,5,name.com,,,
+83ee9898-6195-48a2-b6ea-b4a754ce6745,sniff.shoes,available,39.99,,high,low,5,name.com,,,
+9e3f343e-f368-4491-8a38-d76ad2ff6fd9,ahorseback.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+11167d26-27ba-4a32-9536-32dd364964c5,football.shoes,resell,,,high,low,8,"Sav.com, LLC",19/07/2015 16:03,19/07/2027 16:03,19/09/2026 12:47
+f3189233-c8a3-48e8-a50e-b2cff2c48e21,actinide.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
+4fd2dec4-7844-4fce-a41f-49a603e289f2,bravo.shoes,available,,,high,low,5,,,,
+68b71155-6c88-46c5-8c99-21a5f943df24,mods.shoes,available,39.99,,high,low,4,name.com,,,
+775c34ed-c0a8-400d-8c0c-7ac69f389283,trapped.shoes,available,34.98,81.98,medium,low,7,namecheap,,,07/08/2026 11:08
+39a87b6d-6677-4018-829b-5f5c27f44160,autogenic.shoes,available,34.98,81.98,medium,low,9,namecheap,,,07/08/2026 20:21
+d5a91b5d-38c5-4645-82fa-54d61bf0b8b8,worthy.shoes,available,39.99,,high,low,6,name.com,,,
+e4f23b2f-9d76-42ae-a670-acd442c4c05a,eyes.shoes,available,39.99,,high,low,4,name.com,,,
+ff5bb581-90c0-4b8c-8e47-451fd04dca2e,macedonia.shoes,available,39.99,,high,medium,9,name.com,,,
+31c370e2-b114-4d96-9816-ac2d81096e1a,packed.shoes,available,39.99,,high,low,6,name.com,,,
+e3ed99e5-f6f8-48d7-88f3-6c590ded25dc,bottom.shoes,available,34.98,81.98,high,low,6,namecheap,,,09/08/2026 11:50
+47d01f32-0a0e-48a7-9e44-a28a4405c560,aphoristic.shoes,available,34.98,81.98,medium,low,10,namecheap,,,05/08/2026 23:31
+7c47f11b-4a86-4acb-b484-183853f3aca5,glory.shoes,available,39.99,,high,low,5,name.com,,,
+c588aa39-1fad-44d4-a3e1-92e2ee7b2da7,respond.shoes,available,39.99,,high,low,7,name.com,,,
+22acc5e2-0069-4b2a-a767-3ea1e9bc8b7a,flowers.shoes,available,39.99,,high,medium,7,name.com,,,
+94bd12de-482b-475e-b0e1-5603f69d04e0,eyewitness.shoes,available,39.99,,high,low,10,name.com,,,
+f239c104-cb92-425f-ac26-d812bcb6eb78,talent.shoes,available,39.99,,high,medium,6,name.com,,,
+e1ae63fd-59a5-4a3a-a440-0c39176110e9,masses.shoes,available,39.99,,high,low,6,name.com,,,
+4eae784a-80fb-475e-a107-d6fc726532ca,weeks.shoes,available,39.99,,high,low,5,name.com,,,
+1cc6b4f7-28f5-4bd6-93a0-c1cbd9860691,sales.shoes,resell,,,high,medium,5,"GoDaddy.com, LLC",21/12/2016 19:03,21/12/2026 19:03,
+c01cf5b2-c746-466e-bab2-1fb6ec1c6b73,acinic.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+fea448be-7266-49e0-a41a-927d50fbb30f,plastic.shoes,premium,78.54,78.54,high,low,7,namesilo,,,
+3df02cca-069f-40f0-bb7d-107fc8901f7b,souls.shoes,available,39.99,,high,low,5,name.com,,,
+65b1ac42-65ee-45ca-80bf-e93419ba7dda,praise.shoes,available,39.99,,high,low,6,name.com,,,
+4808f7d8-1e51-4fb3-892c-e4c781b37ca9,assamese.shoes,available,34.98,81.98,medium,low,8,namecheap,,,07/08/2026 05:38
+4a2fe237-46c5-43ea-adba-e4332b2d4b00,grocery.shoes,available,34.98,81.98,high,low,7,namecheap,,,08/09/2026 13:48
+14c957f3-c5ca-4940-a62d-1b7752e3fa08,whitefish.shoes,available,39.99,,high,low,10,name.com,,,
+521dee52-9e80-4efd-833a-9b55f5cb4d3f,abaxial.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
+0602def1-ecec-4208-bb8d-266892563a72,profile.shoes,available,39.99,,high,low,7,name.com,,,
+677d1b8a-e348-45e7-b4f2-2458c4fec470,cornered.shoes,available,34.98,81.98,medium,low,8,namecheap,,,07/08/2026 11:02
+eafa0544-6f2f-4a08-950b-e1568de978d5,ignore.shoes,available,39.99,,high,low,6,name.com,,,
+5c8d0d04-fa7f-4318-927e-a5ecdb662ec9,crack.shoes,available,34.98,81.98,high,low,5,namecheap,,,
+ed92db8b-c533-4b47-9fa5-bdfc8511db1f,ser.shoes,available,39.99,,high,low,3,name.com,,,
+fcdb573c-bca0-425e-b6e1-f7cf95609dc9,will.shoes,available,39.99,,high,medium,4,name.com,,,
+7d5c1dda-7c6e-4576-af60-66bc0ce98a9a,massive.shoes,available,39.99,,high,low,7,name.com,,,
+2496c047-fe31-4f42-b015-0610a9dd2f26,buyer.shoes,available,39.99,,high,low,5,name.com,,,
+6c051c60-6bbd-4e23-9322-d52c4335f555,status.shoes,available,39.99,,high,medium,6,name.com,,,
+0aace075-37db-48da-9750-b0ef772039ee,unemployment.shoes,available,39.99,,high,low,12,name.com,,,
+99cc1445-f841-4652-9f6b-8b1a0ec32295,grammar.shoes,available,39.99,,high,low,7,name.com,,,
+e87e4562-ea57-4396-ba12-1b1cb280c72e,auxetic.shoes,available,34.98,81.98,medium,low,7,namecheap,,,07/08/2026 21:28
+4b69eb36-88ee-4f5d-92de-1f057952bfbe,strain.shoes,available,39.99,,medium,low,6,name.com,,,
+5896556e-e48e-45dc-90e4-9db2d3752348,conduction.shoes,available,39.99,,high,low,10,name.com,,,
+ad1149ba-a7e3-4b10-be90-079f57b62c48,cord.shoes,available,39.99,,high,low,4,name.com,,,
+dcc49f3f-0fc4-42c1-bd39-58d9ba3c87be,words.shoes,available,39.99,,high,low,5,name.com,,,
+09b225d1-bacf-4ed5-a29a-7fc916c778f5,glitter.shoes,available,39.99,,high,low,7,name.com,,,
+2cc6dc6d-d6ff-4ed6-afb6-8a66cd0591c5,appellant.shoes,available,34.98,81.98,medium,low,9,namecheap,,,06/08/2026 06:23
+a41575bd-f1e3-4fa1-9b84-fb8818692404,simpson.shoes,available,39.99,,high,low,7,name.com,,,
+e6c5a92e-ef2c-42f8-94a4-449a250aaa18,aguish.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+fbed2131-cf7c-49bb-afda-cdc420ee2d34,retreat.shoes,available,39.99,,high,low,7,name.com,,,
+5bce2192-611a-480d-961a-2018bcd3f901,enter.shoes,available,39.99,,high,low,5,name.com,,,
+d9be6d4a-1f52-43ed-ab3e-9218c43494ad,cancel.shoes,available,39.99,,high,low,6,name.com,,,
+5b45226d-647a-4d16-8b12-c7083ec6b639,distress.shoes,available,39.99,,high,low,8,name.com,,,
+0553ca16-dbac-40a6-a22a-4b5768aadbf5,psychic.shoes,available,39.99,,high,low,7,name.com,,,
+57139466-1eea-400d-86e3-18b48153bef5,surrounding.shoes,available,39.99,,high,low,11,name.com,,,
+999cda76-bb70-4a58-929a-a0c793fc0dc4,public.shoes,available,39.99,,high,low,6,name.com,,,
+96909a77-e837-4242-9cd7-2b34eb5b5b6c,proper.shoes,available,39.99,,high,low,6,name.com,,,
+fe6aee83-b5b9-4446-94e6-a4695ed52379,published.shoes,available,39.99,,high,low,9,name.com,,,
+bf70a81a-c71c-4a9b-9895-65b82ee7a9d2,conquest.shoes,available,39.99,,high,low,8,name.com,,,
+72ce91ed-08bf-4f5d-80c8-2453fa751cc6,condom.shoes,available,39.99,,high,low,6,name.com,,,
+72317c1c-6c41-458b-a85c-69da39e3a721,pinch.shoes,available,39.99,,high,low,5,name.com,,,
+02a80a1c-a484-4351-8f1e-b5bc19741654,departure.shoes,available,34.98,81.98,high,low,9,namecheap,,,08/09/2026 12:08
+955d94b5-85a5-42e6-8ce8-c14aad9fa45f,attention.shoes,available,39.99,,high,low,9,name.com,,,
+dfc2c87d-dc20-46c6-bf64-d5689b546b89,mentioned.shoes,available,39.99,,medium,low,9,name.com,,,
+aeab5f66-0c05-4950-9884-6d1389b483bd,increasing.shoes,available,39.99,,high,low,10,name.com,,,
+f19c6daa-29a6-4412-bb3d-4b8078350275,support.shoes,available,34.98,81.98,high,medium,7,namecheap,,,08/09/2026 07:15
+5d4d9e0a-d39a-4706-b6db-b17f2bfac70f,detection.shoes,available,39.99,,high,low,9,name.com,,,
+ee645bc8-80a1-47d8-b28f-7f316457fc12,detoxify.shoes,available,39.99,,high,low,8,name.com,,,
+131b55ba-99cf-4bd9-bb13-6293b50fcc40,hardly.shoes,available,39.99,,high,low,6,name.com,,,
+6d025391-5299-4b56-b8d6-e5fb041ff852,mode.shoes,available,39.99,,high,low,4,name.com,,,
+878ad366-52c8-4e17-bc1a-02997486299f,agnostical.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+9102c0b6-e2df-4d37-895c-2007682ee355,abusive.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
+b96c3de3-0349-44b3-909c-ed4aeaa43a23,manila.shoes,premium,118.8,118.8,high,low,6,namesilo,,,
+29d408fd-b91e-4d1f-ac4b-4a891f37f3be,philistine.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+8b9f584e-dd77-4f40-97e5-bb721e4b220f,economically.shoes,available,39.99,,medium,low,12,name.com,,,
+15fccf49-20b0-4db1-bcb9-896c3e779d68,gran.shoes,available,39.99,,high,low,4,name.com,,,
+66784394-c330-49cb-ad84-90bf426b0677,scowling.shoes,available,34.98,81.98,medium,low,8,namecheap,,,09/08/2026 08:33
+88c996bd-2425-48df-a0d0-e15e4d88d04c,index.shoes,available,39.99,,high,medium,5,name.com,,,
+d1a413af-71d6-457f-b078-b837dfdf6105,shorts.shoes,available,39.99,,high,low,6,name.com,,,
+1c08d11f-189c-412b-856c-48daebd9be68,watch.shoes,available,39.99,,high,low,5,name.com,,,
+1aec1cd1-187d-4c5f-89c2-111e9c558f95,integrated.shoes,available,39.99,,high,low,10,name.com,,,
+fdcd55a1-c476-4591-bcab-01d9fe99e980,mouthy.shoes,available,39.99,,medium,low,6,name.com,,,
+4442e0ba-eadb-4bf5-921b-4d380e135f28,insufficient.shoes,available,39.99,,medium,low,12,name.com,,,
+f73be1cd-820b-459c-be34-6e84007e8d6b,affidavit.shoes,available,39.99,,high,low,9,name.com,,,
+cae296ae-2cd1-4602-863a-9a6012aec1cc,guarantee.shoes,available,39.99,,high,low,9,name.com,,,
+aee30480-a429-41b9-8605-86626abd295f,bubble.shoes,available,39.99,,high,low,6,name.com,,,
+3212fa2a-ea9a-4df8-a36f-74972156baf9,mosque.shoes,available,39.99,,high,low,6,name.com,,,
+7812f5ef-e4c8-4372-8411-52b622b60755,under.shoes,available,39.99,,high,low,5,name.com,,,
+6917f2d4-83b9-4080-ae1f-46b7c3c9f048,needing.shoes,available,39.99,,high,low,7,name.com,,,
+0d57bf59-198f-454c-b7bc-1723670f9798,extinction.shoes,available,39.99,,high,low,10,name.com,,,
+d991927c-61fd-463a-a2b4-bc597480e218,tiptop.shoes,available,34.98,81.98,high,low,6,namecheap,,,
+05bec4fe-69cd-4afc-8cfb-e4b647d7f48a,prohibited.shoes,available,34.98,81.98,medium,low,10,namecheap,,,08/08/2026 13:48
+57e1e0c3-3bb4-4000-8d45-fd91d941531a,points.shoes,available,39.99,,high,low,6,name.com,,,
+31cb4562-cdd4-4dd5-a900-8d1517e86fbf,factor.shoes,available,39.99,,high,low,6,name.com,,,
+87d1863d-da56-4fa7-bec0-85e3114f72b7,whereby.shoes,available,39.99,,medium,low,7,name.com,,,
+ca3fd72d-71e9-4356-b6c3-8c5e4a4b51cc,xlvi.shoes,available,34.98,81.98,medium,low,4,namecheap,,,
+86a52c07-15c3-4040-8be0-323b3e59d557,indoaryan.shoes,available,34.98,81.98,medium,low,10,namecheap,,,06/08/2026 23:56
+4500e923-b108-4883-ac89-f944fe077de5,accentual.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+c1da0f18-44fc-4d0e-9129-220b6eb13fa2,wrench.shoes,available,39.99,,high,low,6,name.com,,,
+bc5922bc-a824-4686-a3d4-45d7e247722d,sushi.shoes,available,39.99,,high,low,5,name.com,,,
+f08b1d0b-d734-4d1a-9cde-dd6e7b8487ee,kicking.shoes,available,39.99,,high,low,7,name.com,,,
+d62116fa-7e5b-4987-9d04-d39f7cb3fd0a,consulting.shoes,available,39.99,,high,low,10,name.com,,,
+c6a45160-13d9-4232-8326-4feb8fc4982d,brow.shoes,available,39.99,,high,low,4,name.com,,,
+69302e51-31a7-4139-b2ac-8c4a95c3abf2,phoebe.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+082276a1-0f3f-43fe-9895-66624fce77a8,wife.shoes,available,39.99,,high,low,4,name.com,,,
+94c251dd-d302-4f28-990f-1b6ebc81d489,aaron.shoes,available,39.99,,high,low,5,name.com,,,
+97195721-9f38-4498-b1a7-5f5edc769035,come.shoes,available,39.99,,high,low,4,name.com,,,
+352e715e-560f-49ff-89ed-4a01b2b688e7,shirt.shoes,available,39.99,,high,low,5,name.com,,,
+2aab4eb5-e5fe-4198-996b-a7e68f498960,evaporate.shoes,available,39.99,,high,low,9,name.com,,,
+341a1881-b711-499b-b76c-c0eb8e14580a,lxxxvi.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+384f6472-0759-4027-b132-27f46cd82354,unpaid.shoes,available,34.98,81.98,high,low,6,namecheap,,,
+6a4bfd3f-a7b0-4746-b722-da83896eb4c3,undisciplined.shoes,available,39.99,,medium,low,13,name.com,,,
+918bd6df-f3e3-4266-9b67-327c0b17a988,phone.shoes,available,39.99,,high,low,5,name.com,,,
+5464d5c1-9bd1-431e-995a-c3ceb51d09e6,acronym.shoes,available,39.99,,high,low,7,name.com,,,
+629955e6-44fc-4cac-a694-41c3aa2b85b5,moderation.shoes,available,39.99,,high,low,10,name.com,,,
+5b66cef8-de3e-42f9-a5cf-893ded6a312d,meanwhile.shoes,available,39.99,,high,low,9,name.com,,,
+e49a4878-d8e2-40b8-b7fc-ed85c9b94e98,solely.shoes,available,34.98,81.98,high,low,6,namecheap,,,
+7180e0f3-2db9-486e-aa70-3ab0b5d39960,iii.shoes,available,34.98,81.98,high,low,3,namecheap,,,
+d85c2511-9762-4ceb-9c52-b04b7a1ec463,detox.shoes,available,39.99,,high,low,5,name.com,,,
+cb461d26-b796-440d-abb3-d522d20ae39d,massage.shoes,available,39.99,,high,low,7,name.com,,,
+b67f8370-ca9f-42cc-b5a1-2f3684ce125d,prince.shoes,available,39.99,,high,low,6,name.com,,,
+386e0074-973e-4695-950f-4d6331022c94,xxviii.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+8a70e4ac-f52b-4915-9cf0-b899d2ed5cb9,aflare.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+392d855c-f65c-4104-aee1-c55c6d74e747,cheated.shoes,available,39.99,,medium,low,7,name.com,,,
+64fcd983-3e93-4067-ab00-3cba05be0738,band.shoes,available,39.99,,high,low,4,name.com,,,
+1e09774b-e693-4fd0-8d5e-77046e79a1b0,mouthfeel.shoes,available,39.99,,high,low,10,name.com,,,
+cc8546a8-844e-4970-8663-2da40461eb0a,delighted.shoes,available,34.98,81.98,high,low,9,namecheap,,,09/08/2026 10:01
+559aa000-d3b9-460c-8799-a71db4afb26a,apophatic.shoes,available,34.98,81.98,medium,low,9,namecheap,,,06/08/2026 02:27
+1c5494c9-3cf9-4901-8835-f5d68e7626f1,importantly.shoes,available,39.99,,high,low,11,name.com,,,
+a478cd5f-f5f7-46e8-ad5e-cbf2a6654d8a,owing.shoes,available,39.99,,medium,low,5,name.com,,,
+c696792b-0a79-4dd9-a803-5b215f335eae,touching.shoes,available,34.98,81.98,high,low,8,namecheap,,,
+a55f9bdd-3df7-4b03-8f46-0221073aadeb,there.shoes,available,39.99,,high,low,5,name.com,,,
+84bd7d18-e5a3-415c-9e79-3ab14f63c0d6,movement.shoes,available,39.99,,high,low,8,name.com,,,
+a6119c3c-171d-4183-936a-940c7fcf16e1,jenny.shoes,available,39.99,,high,low,5,name.com,,,
+e8bf198f-fb53-4bc6-881e-c8f381f029f8,circle.shoes,available,39.99,,high,medium,6,name.com,,,
+f532b082-7a5c-400e-9b4c-444eb2c04deb,cameroon.shoes,available,,,high,low,8,,,,
+cdcc921c-f91b-4a4c-a074-5e0665cc577f,premiere.shoes,available,39.99,,high,low,8,name.com,,,
+e98587f7-72a0-42cd-9aec-7b852b8a4f8b,upcoming.shoes,available,34.98,81.98,high,low,8,namecheap,,,06/08/2026 08:39
+ac2ac0bf-abcf-442d-a2a2-cb655b0d6eee,unquestionable.shoes,available,39.99,,medium,low,14,name.com,,,
+2d6e1391-4965-49a0-9d3f-7c5f198dc472,lightly.shoes,available,39.99,,high,low,7,name.com,,,
+e20c5ad0-3d7b-43c8-93e1-7c39b4ee110e,quaternary.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+04894ae8-72ef-49b7-bd5c-3315b0ad8a6c,visible.shoes,available,39.99,,high,low,7,name.com,,,
+aae6cc9e-9e8c-4e0a-99b7-d5da21fbaa85,exactly.shoes,available,39.99,,high,low,7,name.com,,,
+61b6d34e-d441-4255-9708-b6130ece706c,peaking.shoes,available,39.99,,high,low,7,name.com,,,
+1a9b8605-dee0-41c1-bab8-71d904509056,seeming.shoes,available,39.99,,high,low,7,name.com,,,
+1c32502f-451e-4dd0-8794-5ba80cb8d9a4,centralised.shoes,available,39.99,,high,low,11,name.com,,,
+8ffffc0f-c96c-4efd-b030-fbc7350933dc,memorable.shoes,available,39.99,,high,low,9,name.com,,,
+f859bcef-ded0-4b3e-a770-c20f38e8afdd,aluminous.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+04d7ad30-54ce-4e3d-9b41-4f4b50f75a62,cleopatra.shoes,available,39.99,,high,low,9,name.com,,,
+015e8103-1f8d-4299-b5f7-9eefb3d5858b,pancreas.shoes,available,39.99,,high,low,8,name.com,,,
+7a4c4f3e-82cb-49b0-9677-80058ce6ef0d,freely.shoes,available,39.99,,high,low,6,name.com,,,
+3a4a1d22-402c-40c0-92e0-350bc4b7d24f,abdominous.shoes,available,34.98,81.98,medium,low,10,namecheap,,,
+db4da2df-037d-46e9-abca-8c8b8bc2314d,wonder.shoes,available,39.99,,high,medium,6,name.com,,,
+783b6848-7339-4e4c-85f6-d1d4bab90e7f,swell.shoes,available,34.98,81.98,high,low,5,namecheap,,,08/08/2026 12:50
+7e9c6b40-d429-4457-9c8a-806314939ad2,kiss.shoes,available,39.99,,high,low,4,name.com,,,
+085f02d5-7729-4439-82ad-91210b9e03bd,vacuous.shoes,available,34.98,81.98,low,low,7,namecheap,,,07/08/2026 02:52
+0d709474-de0b-403e-8ccd-d84b5e9343f4,nitric.shoes,available,34.98,81.98,medium,low,6,namecheap,,,08/08/2026 02:58
+573e48f9-3565-409f-80dd-8c523e9424bc,accusing.shoes,available,34.98,81.98,high,low,8,namecheap,,,
+91e2a712-3a03-43c6-afe7-8ed1d53e1b73,drink.shoes,available,34.98,81.98,high,low,5,namecheap,,,04/09/2026 13:20
+f3124f5e-061a-43af-bfd3-6ccf1dac2183,successor.shoes,available,39.99,,high,low,9,name.com,,,
+f89d221a-3808-45a9-a353-b212dafcd979,veteran.shoes,available,39.99,,high,low,7,name.com,,,
+3bcb6ab4-6a21-48ce-9fb1-90532a45896f,dissent.shoes,available,39.99,,high,low,7,name.com,,,
+9e143323-e19d-4d7d-a726-b0f238860bfd,mixture.shoes,available,39.99,,high,low,7,name.com,,,
+f3e43329-5461-4304-a4de-5937ad43cb22,interim.shoes,available,39.99,,high,low,7,name.com,,,
+cec8b0a3-554a-4f4f-a2f7-3c06ce2e1782,merger.shoes,available,39.99,,high,low,6,name.com,,,
+b8bc26cd-607a-4944-ae49-db900c1ce409,rested.shoes,available,39.99,,high,low,6,name.com,,,
+a6cfef99-8d1c-4995-841a-46a7a035ce9a,fanny.shoes,available,34.98,81.98,medium,low,5,namecheap,,,09/08/2026 12:00
+8ee1ad22-fed8-4029-b6f6-7fff01286a56,righteous.shoes,available,39.99,,high,low,9,name.com,,,
+34bad0b8-2763-4e10-a5c9-f88237c4c23d,understood.shoes,available,39.99,,high,low,10,name.com,,,
+291b9d97-2118-4d45-832d-e00e28c0f4e8,alienated.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+d6e5f5e3-516b-4229-9a80-851cd2f64af1,alaska.shoes,available,39.99,,high,low,6,name.com,,,
+c9ac872d-299e-4aab-8325-fa5acd3902e5,org.shoes,premium,500,,high,medium,3,name.com,,,
+6fd2b7e5-2966-4cd7-bf5c-282d07aed296,suppose.shoes,available,39.99,,high,low,7,name.com,,,
+29f6065b-2cdb-468e-a21a-ba5bc5f86c82,vary.shoes,available,39.99,,high,low,4,name.com,,,
+6be563e4-44cf-466f-9486-cbd115894e41,message.shoes,available,34.98,81.98,high,low,7,namecheap,,,08/09/2026 08:47
+93c13ba2-5edf-4c35-bd13-1999f27c2140,value.shoes,premium,23.6,23.6,high,low,5,namesilo,,,
+d60ad2d0-c217-4957-b787-93c9bec5c28f,raccoon.shoes,available,39.99,,high,low,7,name.com,,,
+b585577b-fa30-4f5d-afa3-83d1b3673ed8,agnate.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+2cce229c-602a-40ca-abff-0508430089fe,basal.shoes,available,34.98,81.98,medium,low,5,namecheap,,,08/08/2026 21:24
+9d6e9884-b377-44c6-87a3-fe6f141136be,beating.shoes,available,39.99,,high,low,7,name.com,,,
+b0b6cccf-a866-49ff-bd96-79789d3edd0f,continuously.shoes,available,39.99,,medium,low,12,name.com,,,
+7a4f2f9f-b032-4541-a32d-fe6f556a3564,remote.shoes,available,39.99,,high,medium,6,name.com,,,
+e8290f86-0b88-4b34-803e-7444dd706510,varied.shoes,available,39.99,,high,low,6,name.com,,,
+6d095395-b76b-4d4b-ab14-52c3d82740cb,panoptic.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
+64fbf2d6-2f0b-4c05-b469-17e019b1ca92,jerky.shoes,available,34.98,81.98,high,low,5,namecheap,,,06/08/2026 22:03
+a22120d3-6ba1-46c1-9892-a6522b2d3485,lamp.shoes,available,39.99,,high,low,4,name.com,,,
+e78add99-87f0-48ae-9c3b-a354f14f4c15,laborious.shoes,available,34.98,81.98,medium,low,9,namecheap,,,06/08/2026 17:00
+39d1e282-d0c6-4733-8a67-44b1035fcc50,gates.shoes,available,39.99,,high,low,5,name.com,,,
+08b5f7c2-8dda-4d89-955a-d0275e06da33,opinion.shoes,available,39.99,,high,low,7,name.com,,,
+5b2f1654-d717-4272-9ca7-db7f3a4ddd94,jody.shoes,available,39.99,,high,low,4,name.com,,,
+7e34b0a8-d060-4e4a-b7ba-f15d0a1bcb66,philly.shoes,available,39.99,,high,low,6,name.com,,,
+bf33d1e8-d2c5-4245-9dd3-e3280d7cc514,flee.shoes,available,39.99,,high,low,4,name.com,,,
+a3b93740-e2d2-4556-9175-99066ae6db09,donut.shoes,available,39.99,,high,low,5,name.com,,,
+3dec4c66-2672-4a52-ad8a-8520427c87d7,dinner.shoes,available,39.99,,high,low,6,name.com,,,
+394404a5-055c-4565-b9ba-3df4c00c8cc3,bahamian.shoes,available,34.98,81.98,medium,low,8,namecheap,,,08/08/2026 08:31
+af956f64-bdaf-48fd-a279-0efa9fe89f4b,linear.shoes,available,34.98,81.98,high,low,6,namecheap,,,
+5f798228-ee98-41c7-bd28-d16e2ff6dd0c,anuran.shoes,available,34.98,81.98,medium,low,6,namecheap,,,05/08/2026 20:48
+c241a777-7b92-4d4c-8098-ce6c3363834e,soldier.shoes,available,39.99,,high,low,7,name.com,,,
+20a2f6a4-8dc1-412a-a852-c1f49113bc41,lxxx.shoes,available,34.98,81.98,medium,low,4,namecheap,,,
+60d21583-e882-4e54-b70b-a6654f9a41f2,rejoin.shoes,available,39.99,,high,low,6,name.com,,,
+01b4c087-deae-4c24-b5c4-b19ddf171156,respects.shoes,available,39.99,,high,low,8,name.com,,,
+9793fc23-bf02-437f-97fc-4a6b16c91b04,dave.shoes,available,39.99,,high,low,4,name.com,,,
+15f5da3e-b187-4c55-8724-53a3ee38bebd,unmannered.shoes,available,34.98,81.98,low,low,10,namecheap,,,08/08/2026 07:28
+b4b97812-d5fc-4650-adda-91af495cde70,clxx.shoes,available,34.98,81.98,medium,low,4,namecheap,,,
+4b332fa2-cd69-46b0-9ba4-50a992812d0f,soothing.shoes,available,34.98,81.98,high,low,8,namecheap,,,07/08/2026 07:40
+ca9333e2-2d55-4d24-b5a1-68ba7fe4690d,antsy.shoes,available,34.98,81.98,medium,low,5,namecheap,,,05/08/2026 20:27
+21ec189d-e961-4be3-be3f-cc922eb23824,beer.shoes,premium,500,,high,low,4,name.com,,,
+c8c63dd3-10b8-4c7f-87d7-73ca9f5b4d53,granola.shoes,available,39.99,,high,low,7,name.com,,,
+f3ed7fc4-a0db-464e-8885-0e0bc37a9c61,cocoa.shoes,available,39.99,,high,low,5,name.com,,,
+93b67f3a-52dc-4ce8-9ecc-3c7190faed39,andean.shoes,available,34.98,81.98,high,low,6,namecheap,,,
+b1f60ca8-a7bf-464b-b8c2-fdd363edfceb,anatomy.shoes,available,39.99,,high,low,7,name.com,,,
+7ad79fdc-d49c-47a8-ab32-61cf53fddff7,eid.shoes,available,39.99,,high,low,3,name.com,,,
+ed08b44a-1ccf-408f-b49d-1d4607f1b21a,looks.shoes,available,39.99,,high,low,5,name.com,,,
+9dc12f1c-defe-43f9-b289-3bc4d5ea0e1d,lazuline.shoes,available,34.98,81.98,medium,low,8,namecheap,,,08/08/2026 03:18
+a601a58c-6f29-423c-9363-ea1e5f15f98d,aneuploid.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+1a59d750-3b22-4f66-89e7-e4871028d1cb,monitory.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
+91b067e8-f860-4a7c-8fce-1cfc5ebc1c12,acicular.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
+23403ac0-05f8-4d39-9aa6-23dc21f29cdd,democrat.shoes,premium,500,,high,low,8,name.com,,,
+a31fe285-4754-4f25-a5c3-a17285a74fa1,ordinary.shoes,available,39.99,,high,low,8,name.com,,,
+2c537307-9380-46c1-9f86-c9a44f695f1e,nominee.shoes,available,39.99,,high,low,7,name.com,,,
+fc893e81-d163-4828-a0db-f7612655f8e8,albescent.shoes,available,34.98,81.98,medium,low,9,namecheap,,,
+441a7f1c-e9a4-49ee-ab5e-93bfa6f87a41,migrate.shoes,available,39.99,,high,low,7,name.com,,,
+717dbb8b-5cad-44c0-8b8f-edf2d494c3b2,thus.shoes,available,39.99,,high,low,4,name.com,,,
+1eeb8561-63a3-4e2f-8b4f-413b8c72f4bb,stung.shoes,available,34.98,81.98,medium,low,5,namecheap,,,
+afaafee0-03e8-458e-9b60-d5e3227a308b,achy.shoes,available,34.98,81.98,medium,low,4,namecheap,,,
+124b50ef-c4bb-4817-95fb-0d508aca4bc1,scarlett.shoes,available,39.99,,high,low,8,name.com,,,
+46bfa81f-bb35-4445-9b28-0d09e510245f,yours.shoes,available,39.99,,high,low,5,name.com,,,
+2badb37b-6d0f-47df-a8f9-847ff0993d8b,airtight.shoes,available,34.98,81.98,high,low,8,namecheap,,,
+c7917476-abb1-40f1-9638-624a9f6d97c3,sextet.shoes,available,34.98,81.98,high,low,6,namecheap,,,
+60d67532-a20c-48c2-a913-a504d9f00845,curl.shoes,available,39.99,,high,low,4,name.com,,,
+a59447d9-e850-48d4-ba12-04b9d1d47818,pitted.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+1e5c907f-8780-495c-8fce-87f65e161454,needs.shoes,available,39.99,,high,low,5,name.com,,,
+18701093-6d3b-44e0-a668-b66f0117e486,breathe.shoes,available,39.99,,high,low,7,name.com,,,
+dd2e444a-80cb-49fe-b701-86dd46dc4805,assured.shoes,available,34.98,81.98,high,low,7,namecheap,,,07/08/2026 08:21
+d751da84-c897-4dc2-8e58-751ee1deac24,abstemious.shoes,available,34.98,81.98,high,low,10,namecheap,,,
+d059d4a7-4e5a-4180-802b-be90855d1da0,september.shoes,available,39.99,,high,low,9,name.com,,,
+fc6e56dd-5dd7-4ef3-877d-3872184f1673,less.shoes,available,39.99,,high,low,4,name.com,,,
+63617fdf-4522-40be-8705-e795fbc79c17,intercultural.shoes,available,39.99,,high,low,13,name.com,,,
+75cd45ed-a748-49e1-a91f-d76cb27b5b0b,abkhazian.shoes,available,34.98,81.98,high,low,9,namecheap,,,
+3f281dba-513a-4332-8639-358cf6d6607f,director.shoes,available,39.99,,high,low,8,name.com,,,
+da097940-25d8-448d-baf2-5906099fbd82,understand.shoes,available,39.99,,high,low,10,name.com,,,
+d0f6785c-bff5-4534-9b60-c13c1d16d1d1,tell.shoes,available,39.99,,high,low,4,name.com,,,
+ac645017-4077-4849-8acb-06f61d4fea61,alimony.shoes,available,39.99,,high,low,7,name.com,,,
+16b4f04c-ecb4-4194-ac97-523cdb2f4c99,xxxiv.shoes,available,34.98,81.98,medium,low,5,namecheap,,,
+382feef9-0a69-405d-951f-26bc9c7b8b96,anorexic.shoes,available,34.98,81.98,medium,low,8,namecheap,,,
+41633e06-e434-4dd4-85ab-c889e2f15efa,derive.shoes,available,39.99,,high,low,6,name.com,,,
+30a94e44-1ca9-4a47-b151-cc3ddfd39ae6,antitank.shoes,available,34.98,81.98,medium,low,8,namecheap,,,05/08/2026 19:44
+3a0bea87-af36-4974-9a51-6454383e193b,retrieve.shoes,available,39.99,,high,low,8,name.com,,,
+fcbfc632-61e2-4d8d-a1ea-b5eaed586b95,could.shoes,available,39.99,,high,low,5,name.com,,,
+9ea3a562-5d84-4203-aef7-d98c3ee17e98,equivocal.shoes,available,34.98,81.98,high,low,9,namecheap,,,
+3e6193dc-c013-4ecb-a8e3-915cc87a1c64,tried.shoes,available,39.99,,high,low,5,name.com,,,
+f4cda60a-396a-4ba5-818b-a43112c106d0,kilo.shoes,available,39.99,,high,low,4,name.com,,,
+7a582769-5125-4739-8833-bca1632acaed,judgement.shoes,available,39.99,,high,low,9,name.com,,,
+bf8acd7f-1c72-4e33-91d1-2828a2868df4,netflix.shoes,available,,,high,low,7,,,,
+6afdc4fc-01e2-4690-882e-51a93e781e62,prehensile.shoes,available,34.98,81.98,medium,low,10,namecheap,,,07/08/2026 22:14
+075a68ab-4454-43bc-b2ac-157214f773e0,barbecue.shoes,available,39.99,,high,low,8,name.com,,,
+f1a84fac-67b0-4358-a6d8-9db7a577e072,lisbon.shoes,available,39.99,,high,low,6,name.com,,,
+529af307-2960-4f6c-8154-cce84e986d41,uphill.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+47f5db4e-35d9-4f13-92a6-186216991d2f,oriented.shoes,available,39.99,,high,low,8,name.com,,,
+9fc750a5-163b-415b-aa63-e91de0e9d9af,papa.shoes,available,39.99,,high,low,4,name.com,,,
+e27525e3-27f7-4308-8a8f-9c7729f9e9c1,interest.shoes,available,34.98,81.98,high,low,8,namecheap,,,08/09/2026 14:02
+9e723e65-5e91-470b-b3e3-3ed2dedaeca6,actable.shoes,available,34.98,81.98,medium,low,7,namecheap,,,
+399f26c1-4c36-4903-b1c8-1dd648e395cd,barefooted.shoes,available,34.98,81.98,medium,low,10,namecheap,,,08/08/2026 18:59
+10378fa7-7c6f-404b-bf2a-83d6196c7e0a,irrelevant.shoes,available,39.99,,high,low,10,name.com,,,
+f1f845d0-d25c-4765-be42-d12736ccab16,receipt.shoes,available,39.99,,high,low,7,name.com,,,
+21f2f119-4910-4325-9a6f-57204dad92cf,willingness.shoes,available,39.99,,high,low,11,name.com,,,
+515f97b8-d891-4af4-b442-560d3299af8b,builder.shoes,available,39.99,,high,low,7,name.com,,,
+7c9c2121-cdf9-4846-b82c-a36b5be283b0,ghostly.shoes,available,34.98,81.98,high,low,7,namecheap,,,06/08/2026 05:28
+bd3d3f0f-6529-4bd9-8b0e-2194c4b49abd,existent.shoes,available,34.98,81.98,high,low,8,namecheap,,,
+90a12484-3a66-4758-a06d-11175a6d0939,besides.shoes,available,39.99,,high,low,7,name.com,,,
+83d3e412-21f4-414f-a229-283b847e3474,resemblance.shoes,available,39.99,,high,low,11,name.com,,,
+080372a6-9ae6-417e-9dd7-f3602d0f929c,curve.shoes,available,34.98,81.98,high,low,5,namecheap,,,06/08/2026 15:00
+54fd2749-97a6-49bd-bb91-1ae52ef8e4d6,yawn.shoes,available,39.99,,high,low,4,name.com,,,
+75eeb18c-13de-4ce5-af35-912ba67c7a60,californian.shoes,available,39.99,,high,low,11,name.com,,,
+00f96640-2404-48bc-9a9a-01d29f4f8ce9,tanks.shoes,available,39.99,,high,low,5,name.com,,,
+d6db9536-528e-4c8e-a92c-94ed6ba19460,turnout.shoes,available,39.99,,high,low,8,name.com,,,
+dafc24f2-e446-4a39-97d6-ee4910776426,acinar.shoes,available,34.98,81.98,medium,low,6,namecheap,,,
+d784ef90-6363-441a-9372-e7f0ce197827,analogous.shoes,available,34.98,81.98,high,low,9,namecheap,,,
+b68551d0-28b1-47cd-aa64-83c213431444,arrive.shoes,available,39.99,,high,low,6,name.com,,,
+cb242051-355a-45ac-bc6d-d1dab220dc5c,zanzibar.shoes,available,39.99,,high,low,8,name.com,,,
+2ffd618d-a80b-437a-af48-a48bfa2633bb,lxxiv.shoes,available,34.98,81.98,medium,low,5,namecheap,,,
+e0b9b491-7cc9-4b80-b86b-a955b325d3cd,astral.shoes,available,34.98,81.98,high,low,6,namecheap,,,07/08/2026 09:57
+f2b7a9f6-cb40-4c03-89f8-342c7447040b,previously.shoes,available,39.99,,high,low,10,name.com,,,
+4bb5b695-b6ae-4f2e-aa56-3df08c418c2b,fasten.shoes,available,39.99,,high,low,6,name.com,,,
+726362b3-e45f-45e4-873e-29807667d1c7,eating.shoes,available,34.98,81.98,high,low,6,namecheap,,,08/09/2026 13:35
+643252f2-cde6-4159-91da-bba12e31c2ff,asked.shoes,available,39.99,,high,low,5,name.com,,,
+47af3676-146a-41b5-8501-b9a3fb628cd6,illustrated.shoes,available,39.99,,high,low,11,name.com,,,
